@@ -1,0 +1,3301 @@
+Run,Drug,Drug ID,Symptom ID,Symptom
+run_001,siltuximab,4977,HP:0000978,Bruising susceptibility
+run_001,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_001,ciclosporin,760,HP:0000978,Bruising susceptibility
+run_001,ciclosporin,760,HP:0000239,Large fontanelles
+run_001,siltuximab,4977,HP:0000239,Large fontanelles
+run_001,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_001,siltuximab,4977,HP:0003272,Abnormal hip bone morphology
+run_001,raloxifene,2351,HP:0003272,Abnormal hip bone morphology
+run_001,prednisolone,2245,HP:0003272,Abnormal hip bone morphology
+run_001,siltuximab,4977,HP:0002758,Osteoarthritis
+run_001,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_001,ciclosporin,760,HP:0002758,Osteoarthritis
+run_001,siltuximab,4977,HP:0002857,Genu valgum
+run_001,ciclosporin,760,HP:0002857,Genu valgum
+run_001,ascorbic acid,4072,HP:0002857,Genu valgum
+run_001,siltuximab,4977,HP:0001659,Aortic regurgitation
+run_001,prednisolone,2245,HP:0001659,Aortic regurgitation
+run_001,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_001,siltuximab,4977,HP:0000767,Pectus excavatum
+run_001,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_001,ciclosporin,760,HP:0000767,Pectus excavatum
+run_001,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_001,siltuximab,4977,HP:0000444,Convex nasal ridge
+run_001,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_001,siltuximab,4977,HP:0000164,Abnormality of the dentition
+run_001,ciclosporin,760,HP:0000164,Abnormality of the dentition
+run_001,prednisolone,2245,HP:0000164,Abnormality of the dentition
+run_001,siltuximab,4977,HP:0002019,Constipation
+run_001,raloxifene,2351,HP:0002019,Constipation
+run_001,prednisolone,2245,HP:0002019,Constipation
+run_001,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_001,siltuximab,4977,HP:0000703,Dentinogenesis imperfecta
+run_001,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_001,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_001,ciclosporin,760,HP:0002980,Femoral bowing
+run_001,tacrolimus,2552,HP:0002980,Femoral bowing
+run_001,ascorbic acid,4072,HP:0002015,Dysphagia
+run_001,ciclosporin,760,HP:0002015,Dysphagia
+run_001,siltuximab,4977,HP:0002015,Dysphagia
+run_001,ascorbic acid,4072,HP:0001342,Cerebral hemorrhage
+run_001,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_001,caplacizumab,5308,HP:0001342,Cerebral hemorrhage
+run_001,siltuximab,4977,HP:0000248,Brachycephaly
+run_001,prednisolone,2245,HP:0000248,Brachycephaly
+run_001,ciclosporin,760,HP:0000248,Brachycephaly
+run_001,siltuximab,4977,HP:0000768,Pectus carinatum
+run_001,ciclosporin,760,HP:0000768,Pectus carinatum
+run_001,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_001,siltuximab,4977,HP:0003312,Abnormal form of the vertebral bodies
+run_001,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_001,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_001,siltuximab,4977,HP:0001251,Ataxia
+run_001,ascorbic acid,4072,HP:0001251,Ataxia
+run_001,prednisolone,2245,HP:0001251,Ataxia
+run_001,siltuximab,4977,HP:0000938,Osteopenia
+run_001,ciclosporin,760,HP:0000938,Osteopenia
+run_001,prednisolone,2245,HP:0000938,Osteopenia
+run_001,siltuximab,4977,HP:0000682,Abnormal dental enamel morphology
+run_001,prednisolone,2245,HP:0000682,Abnormal dental enamel morphology
+run_001,raloxifene,2351,HP:0000682,Abnormal dental enamel morphology
+run_001,siltuximab,4977,HP:0003401,Paresthesia
+run_001,raloxifene,2351,HP:0003401,Paresthesia
+run_001,tacrolimus,2552,HP:0003401,Paresthesia
+run_001,siltuximab,4977,HP:0002650,Scoliosis
+run_001,ascorbic acid,4072,HP:0002650,Scoliosis
+run_001,ciclosporin,760,HP:0002650,Scoliosis
+run_001,siltuximab,4977,HP:0001730,Progressive hearing impairment
+run_001,prednisolone,2245,HP:0001730,Progressive hearing impairment
+run_001,prednisolone tebutate,2251,HP:0001730,Progressive hearing impairment
+run_001,siltuximab,4977,HP:0007957,Corneal opacity
+run_001,ascorbic acid,4072,HP:0007957,Corneal opacity
+run_001,doxorubicin,960,HP:0007957,Corneal opacity
+run_001,siltuximab,4977,HP:0001510,Growth delay
+run_001,ascorbic acid,4072,HP:0001510,Growth delay
+run_001,tacrolimus,2552,HP:0001510,Growth delay
+run_001,siltuximab,4977,HP:0003100,Slender long bone
+run_001,tacrolimus,2552,HP:0003100,Slender long bone
+run_001,ciclosporin,760,HP:0003100,Slender long bone
+run_001,siltuximab,4977,HP:0000269,Prominent occiput
+run_001,tacrolimus,2552,HP:0000269,Prominent occiput
+run_001,ciclosporin,760,HP:0000269,Prominent occiput
+run_001,siltuximab,4977,HP:0000256,Macrocephaly
+run_001,ascorbic acid,4072,HP:0000256,Macrocephaly
+run_001,tacrolimus,2552,HP:0000256,Macrocephaly
+run_001,siltuximab,4977,HP:0002089,Pulmonary hypoplasia
+run_001,ciclosporin,760,HP:0002089,Pulmonary hypoplasia
+run_001,prednisolone,2245,HP:0002089,Pulmonary hypoplasia
+run_001,siltuximab,4977,HP:0002512,Brain stem compression
+run_001,ascorbic acid,4072,HP:0002512,Brain stem compression
+run_001,tacrolimus,2552,HP:0002512,Brain stem compression
+run_001,siltuximab,4977,HP:0000347,Micrognathia
+run_001,ascorbic acid,4072,HP:0000347,Micrognathia
+run_001,ciclosporin,760,HP:0000347,Micrognathia
+run_001,siltuximab,4977,HP:0030680,Abnormality of cardiovascular system morphology
+run_001,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_001,prednisolone,2245,HP:0030680,Abnormality of cardiovascular system morphology
+run_001,siltuximab,4977,HP:0004621,Enlarged vertebral pedicles
+run_001,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_001,raloxifene,2351,HP:0004621,Enlarged vertebral pedicles
+run_001,siltuximab,4977,HP:0004322,Short stature
+run_001,ascorbic acid,4072,HP:0004322,Short stature
+run_001,ciclosporin,760,HP:0004322,Short stature
+run_001,siltuximab,4977,HP:0000365,Hearing impairment
+run_001,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_001,ciclosporin,760,HP:0000365,Hearing impairment
+run_001,siltuximab,4977,HP:0010953,Noncommunicating hydrocephalus
+run_001,raloxifene,2351,HP:0010953,Noncommunicating hydrocephalus
+run_001,prednisolone,2245,HP:0010953,Noncommunicating hydrocephalus
+run_001,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_001,prednisolone,2245,HP:0000772,Abnormality of the ribs
+run_001,doxorubicin,960,HP:0000772,Abnormality of the ribs
+run_001,siltuximab,4977,HP:0030268,Hyperplastic callus formation
+run_001,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_001,raloxifene,2351,HP:0030268,Hyperplastic callus formation
+run_001,siltuximab,4977,HP:0002273,Tetraparesis
+run_001,tacrolimus,2552,HP:0002273,Tetraparesis
+run_001,prednisolone,2245,HP:0002273,Tetraparesis
+run_001,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_001,prednisolone,2245,HP:0000684,Delayed eruption of teeth
+run_001,prednisolone tebutate,2251,HP:0000684,Delayed eruption of teeth
+run_001,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_001,doxorubicin,960,HP:0002823,Abnormality of femur morphology
+run_001,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_001,siltuximab,4977,HP:0000939,Osteoporosis
+run_001,prednisolone,2245,HP:0000939,Osteoporosis
+run_001,prednisolone tebutate,2251,HP:0000939,Osteoporosis
+run_001,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_001,siltuximab,4977,HP:0000023,Inguinal hernia
+run_001,ciclosporin,760,HP:0000023,Inguinal hernia
+run_001,siltuximab,4977,HP:0000973,Cutis laxa
+run_001,raloxifene,2351,HP:0000973,Cutis laxa
+run_001,ciclosporin,760,HP:0000973,Cutis laxa
+run_001,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_001,ascorbic acid,4072,HP:0001873,Thrombocytopenia
+run_001,caplacizumab,5308,HP:0001873,Thrombocytopenia
+run_001,siltuximab,4977,HP:0000787,Nephrolithiasis
+run_001,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_001,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_001,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_001,prednisolone,2245,HP:0011314,Abnormality of long bone morphology
+run_001,doxorubicin,960,HP:0011314,Abnormality of long bone morphology
+run_001,siltuximab,4977,HP:0002643,Neonatal respiratory distress
+run_001,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_001,ascorbic acid,4072,HP:0002643,Neonatal respiratory distress
+run_001,siltuximab,4977,HP:0100761,Visceral angiomatosis
+run_001,raloxifene,2351,HP:0100761,Visceral angiomatosis
+run_001,prednisolone,2245,HP:0100761,Visceral angiomatosis
+run_001,siltuximab,4977,HP:0002808,Kyphosis
+run_001,ciclosporin,760,HP:0002808,Kyphosis
+run_001,ascorbic acid,4072,HP:0002808,Kyphosis
+run_001,siltuximab,4977,HP:0003083,Dislocated radial head
+run_001,ciclosporin,760,HP:0003083,Dislocated radial head
+run_001,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_001,siltuximab,4977,HP:0000689,Dental malocclusion
+run_001,prednisolone,2245,HP:0000689,Dental malocclusion
+run_001,prednisolone tebutate,2251,HP:0000689,Dental malocclusion
+run_001,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_001,siltuximab,4977,HP:0002953,Vertebral compression fracture
+run_001,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_001,siltuximab,4977,HP:0000592,Blue sclerae
+run_001,ciclosporin,760,HP:0000592,Blue sclerae
+run_001,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_001,ascorbic acid,4072,HP:0000238,Hydrocephalus
+run_001,siltuximab,4977,HP:0000238,Hydrocephalus
+run_001,ciclosporin,760,HP:0000238,Hydrocephalus
+run_001,siltuximab,4977,HP:0006487,Bowing of the long bones
+run_001,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_001,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_001,siltuximab,4977,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_001,raloxifene,2351,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_001,prednisolone,2245,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_001,siltuximab,4977,HP:0002647,Aortic dissection
+run_001,ascorbic acid,4072,HP:0002647,Aortic dissection
+run_001,raloxifene,2351,HP:0002647,Aortic dissection
+run_001,siltuximab,4977,HP:0008905,Rhizomelia
+run_001,prednisolone,2245,HP:0008905,Rhizomelia
+run_001,ciclosporin,760,HP:0008905,Rhizomelia
+run_001,ascorbic acid,4072,HP:0000501,Glaucoma
+run_001,siltuximab,4977,HP:0000501,Glaucoma
+run_001,caplacizumab,5308,HP:0000501,Glaucoma
+run_001,siltuximab,4977,HP:0001634,Mitral valve prolapse
+run_001,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_001,ciclosporin,760,HP:0001634,Mitral valve prolapse
+run_001,siltuximab,4977,HP:0002616,Aortic root aneurysm
+run_001,prednisolone,2245,HP:0002616,Aortic root aneurysm
+run_001,ciclosporin,760,HP:0002616,Aortic root aneurysm
+run_001,siltuximab,4977,HP:0006957,Loss of ability to walk
+run_001,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_001,raloxifene,2351,HP:0006957,Loss of ability to walk
+run_001,siltuximab,4977,HP:0002315,Headache
+run_001,ciclosporin,760,HP:0002315,Headache
+run_001,ascorbic acid,4072,HP:0002315,Headache
+run_001,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_001,ascorbic acid,4072,HP:0006824,Cranial nerve paralysis
+run_001,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_001,ascorbic acid,4072,HP:0000639,Nystagmus
+run_001,siltuximab,4977,HP:0000639,Nystagmus
+run_001,ciclosporin,760,HP:0000639,Nystagmus
+run_001,ciclosporin,760,HP:0000325,Triangular face
+run_001,tacrolimus,2552,HP:0000325,Triangular face
+run_001,ascorbic acid,4072,HP:0000325,Triangular face
+run_001,siltuximab,4977,HP:0003396,Syringomyelia
+run_001,prednisolone,2245,HP:0003396,Syringomyelia
+run_001,raloxifene,2351,HP:0003396,Syringomyelia
+run_001,siltuximab,4977,HP:0004586,Biconcave vertebral bodies
+run_001,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_001,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_001,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_001,prednisolone,2245,HP:0003103,Abnormal cortical bone morphology
+run_001,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_001,siltuximab,4977,HP:0011073,Abnormality of dental color
+run_001,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_001,ascorbic acid,4072,HP:0011073,Abnormality of dental color
+run_001,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_001,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_001,siltuximab,4977,HP:0005692,Joint hyperflexibility
+run_001,siltuximab,4977,HP:0004942,Aortic aneurysm
+run_001,ascorbic acid,4072,HP:0004942,Aortic aneurysm
+run_001,ciclosporin,760,HP:0004942,Aortic aneurysm
+run_001,siltuximab,4977,HP:0000944,Abnormality of the metaphysis
+run_001,ascorbic acid,4072,HP:0000944,Abnormality of the metaphysis
+run_001,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_001,siltuximab,4977,HP:0100661,Trigeminal neuralgia
+run_001,raloxifene,2351,HP:0100661,Trigeminal neuralgia
+run_001,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_001,siltuximab,4977,HP:0003084,Fractures of the long bones
+run_001,prednisolone,2245,HP:0003084,Fractures of the long bones
+run_001,raloxifene,2351,HP:0003084,Fractures of the long bones
+run_001,siltuximab,4977,HP:0003179,Protrusio acetabuli
+run_001,prednisolone,2245,HP:0003179,Protrusio acetabuli
+run_001,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_001,siltuximab,4977,HP:0006640,Multiple rib fractures
+run_001,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_001,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_001,siltuximab,4977,HP:0001518,Small for gestational age
+run_001,ciclosporin,760,HP:0001518,Small for gestational age
+run_001,ascorbic acid,4072,HP:0001518,Small for gestational age
+run_001,siltuximab,4977,HP:0000774,Narrow chest
+run_001,ascorbic acid,4072,HP:0000774,Narrow chest
+run_001,ciclosporin,760,HP:0000774,Narrow chest
+run_001,siltuximab,4977,HP:0012366,Basilar invagination
+run_001,raloxifene,2351,HP:0012366,Basilar invagination
+run_001,tacrolimus,2552,HP:0012366,Basilar invagination
+run_001,siltuximab,4977,HP:0000410,Mixed hearing impairment
+run_001,prednisolone,2245,HP:0000410,Mixed hearing impairment
+run_001,raloxifene,2351,HP:0000410,Mixed hearing impairment
+run_001,siltuximab,4977,HP:0000505,Visual impairment
+run_001,ascorbic acid,4072,HP:0000505,Visual impairment
+run_001,ciclosporin,760,HP:0000505,Visual impairment
+run_001,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_001,ciclosporin,760,HP:0001382,Joint hypermobility
+run_001,siltuximab,4977,HP:0001382,Joint hypermobility
+run_001,siltuximab,4977,HP:0002757,Recurrent fractures
+run_001,ciclosporin,760,HP:0002757,Recurrent fractures
+run_001,prednisolone,2245,HP:0002757,Recurrent fractures
+run_001,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_001,prednisolone,2245,HP:0002992,Abnormality of tibia morphology
+run_001,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_001,siltuximab,4977,HP:0002829,Arthralgia
+run_001,ciclosporin,760,HP:0002829,Arthralgia
+run_001,ascorbic acid,4072,HP:0002829,Arthralgia
+run_001,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_001,ciclosporin,760,HP:0001371,Flexion contracture
+run_001,siltuximab,4977,HP:0001371,Flexion contracture
+run_001,siltuximab,4977,HP:0002653,Bone pain
+run_001,prednisolone,2245,HP:0002653,Bone pain
+run_001,raloxifene,2351,HP:0002653,Bone pain
+run_001,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_001,prednisolone,2245,HP:0005214,Intestinal obstruction
+run_001,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_001,siltuximab,4977,HP:0001288,Gait disturbance
+run_001,losartan,1610,HP:0001288,Gait disturbance
+run_001,prednisolone,2245,HP:0001288,Gait disturbance
+run_001,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_001,siltuximab,4977,HP:0004482,Relative macrocephaly
+run_001,raloxifene,2351,HP:0004482,Relative macrocephaly
+run_001,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_001,siltuximab,4977,HP:0000975,Hyperhidrosis
+run_001,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_001,siltuximab,4977,HP:0002947,Cervical kyphosis
+run_001,raloxifene,2351,HP:0002947,Cervical kyphosis
+run_001,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_001,siltuximab,4977,HP:0005257,Thoracic hypoplasia
+run_001,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_001,ciclosporin,760,HP:0005257,Thoracic hypoplasia
+run_001,siltuximab,4977,HP:0000670,Carious teeth
+run_001,ascorbic acid,4072,HP:0000670,Carious teeth
+run_001,ciclosporin,760,HP:0000670,Carious teeth
+run_001,ascorbic acid,4072,HP:0001511,Intrauterine growth retardation
+run_001,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_001,ciclosporin,760,HP:0001511,Intrauterine growth retardation
+run_001,siltuximab,4977,HP:0004331,Decreased skull ossification
+run_001,prednisolone,2245,HP:0004331,Decreased skull ossification
+run_001,raloxifene,2351,HP:0004331,Decreased skull ossification
+run_001,siltuximab,4977,HP:0002011,Morphological central nervous system abnormality
+run_001,raloxifene,2351,HP:0002011,Morphological central nervous system abnormality
+run_001,prednisolone,2245,HP:0002011,Morphological central nervous system abnormality
+run_001,siltuximab,4977,HP:0001537,Umbilical hernia
+run_001,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_001,ciclosporin,760,HP:0001537,Umbilical hernia
+run_001,siltuximab,4977,HP:0002645,Wormian bones
+run_001,ciclosporin,760,HP:0002645,Wormian bones
+run_001,ascorbic acid,4072,HP:0002645,Wormian bones
+run_001,siltuximab,4977,HP:0000883,Thin ribs
+run_001,ciclosporin,760,HP:0000883,Thin ribs
+run_001,prednisolone,2245,HP:0000883,Thin ribs
+run_001,siltuximab,4977,HP:0004306,Abnormal endocardium morphology
+run_001,raloxifene,2351,HP:0004306,Abnormal endocardium morphology
+run_001,prednisolone,2245,HP:0004306,Abnormal endocardium morphology
+run_001,siltuximab,4977,HP:0003474,Somatic sensory dysfunction
+run_001,prednisolone,2245,HP:0003474,Somatic sensory dysfunction
+run_001,raloxifene,2351,HP:0003474,Somatic sensory dysfunction
+run_001,siltuximab,4977,HP:0002150,Hypercalciuria
+run_001,prednisolone,2245,HP:0002150,Hypercalciuria
+run_001,raloxifene,2351,HP:0002150,Hypercalciuria
+run_001,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_001,siltuximab,4977,HP:0005294,Arterial dissection
+run_001,ciclosporin,760,HP:0005294,Arterial dissection
+run_001,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_001,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_001,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_001,siltuximab,4977,HP:0002983,Micromelia
+run_001,ciclosporin,760,HP:0002983,Micromelia
+run_001,tacrolimus,2552,HP:0002983,Micromelia
+run_001,siltuximab,4977,HP:0002659,Increased susceptibility to fractures
+run_001,prednisolone,2245,HP:0002659,Increased susceptibility to fractures
+run_001,ciclosporin,760,HP:0002659,Increased susceptibility to fractures
+run_001,siltuximab,4977,HP:0005019,Diaphyseal thickening
+run_001,raloxifene,2351,HP:0005019,Diaphyseal thickening
+run_001,prednisolone,2245,HP:0005019,Diaphyseal thickening
+run_002,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_002,ciclosporin,760,HP:0000978,Bruising susceptibility
+run_002,tacrolimus,2552,HP:0000978,Bruising susceptibility
+run_002,ciclosporin,760,HP:0000239,Large fontanelles
+run_002,tacrolimus,2552,HP:0000239,Large fontanelles
+run_002,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_002,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_002,ciclosporin,760,HP:0003272,Abnormal hip bone morphology
+run_002,ascorbic acid,4072,HP:0003272,Abnormal hip bone morphology
+run_002,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_002,ciclosporin,760,HP:0002758,Osteoarthritis
+run_002,tacrolimus,2552,HP:0002758,Osteoarthritis
+run_002,ciclosporin,760,HP:0002857,Genu valgum
+run_002,ascorbic acid,4072,HP:0002857,Genu valgum
+run_002,tacrolimus,2552,HP:0002857,Genu valgum
+run_002,ciclosporin,760,HP:0001659,Aortic regurgitation
+run_002,ascorbic acid,4072,HP:0001659,Aortic regurgitation
+run_002,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_002,ciclosporin,760,HP:0000767,Pectus excavatum
+run_002,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_002,tacrolimus,2552,HP:0000767,Pectus excavatum
+run_002,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_002,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_002,ascorbic acid,4072,HP:0000444,Convex nasal ridge
+run_002,ciclosporin,760,HP:0000164,Abnormality of the dentition
+run_002,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_002,ascorbic acid,4072,HP:0000164,Abnormality of the dentition
+run_002,ciclosporin,760,HP:0002019,Constipation
+run_002,tacrolimus,2552,HP:0002019,Constipation
+run_002,ascorbic acid,4072,HP:0002019,Constipation
+run_002,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_002,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_002,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_002,ciclosporin,760,HP:0002980,Femoral bowing
+run_002,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_002,tacrolimus,2552,HP:0002980,Femoral bowing
+run_002,ascorbic acid,4072,HP:0002015,Dysphagia
+run_002,ciclosporin,760,HP:0002015,Dysphagia
+run_002,prazosin,4209,HP:0002015,Dysphagia
+run_002,ascorbic acid,4072,HP:0001342,Cerebral hemorrhage
+run_002,ciclosporin,760,HP:0001342,Cerebral hemorrhage
+run_002,tacrolimus,2552,HP:0001342,Cerebral hemorrhage
+run_002,tacrolimus,2552,HP:0000248,Brachycephaly
+run_002,ciclosporin,760,HP:0000248,Brachycephaly
+run_002,ascorbic acid,4072,HP:0000248,Brachycephaly
+run_002,ciclosporin,760,HP:0000768,Pectus carinatum
+run_002,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_002,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_002,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_002,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_002,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_002,raloxifene,2351,HP:0001251,Ataxia
+run_002,siltuximab,4977,HP:0001251,Ataxia
+run_002,ascorbic acid,4072,HP:0001251,Ataxia
+run_002,ciclosporin,760,HP:0000938,Osteopenia
+run_002,raloxifene,2351,HP:0000938,Osteopenia
+run_002,tacrolimus,2552,HP:0000938,Osteopenia
+run_002,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_002,ciclosporin,760,HP:0000682,Abnormal dental enamel morphology
+run_002,ascorbic acid,4072,HP:0000682,Abnormal dental enamel morphology
+run_002,tacrolimus,2552,HP:0003401,Paresthesia
+run_002,ciclosporin,760,HP:0003401,Paresthesia
+run_002,ascorbic acid,4072,HP:0003401,Paresthesia
+run_002,ciclosporin,760,HP:0002650,Scoliosis
+run_002,ascorbic acid,4072,HP:0002650,Scoliosis
+run_002,tacrolimus,2552,HP:0002650,Scoliosis
+run_002,ciclosporin,760,HP:0001730,Progressive hearing impairment
+run_002,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_002,ascorbic acid,4072,HP:0001730,Progressive hearing impairment
+run_002,raloxifene,2351,HP:0007957,Corneal opacity
+run_002,ascorbic acid,4072,HP:0007957,Corneal opacity
+run_002,siltuximab,4977,HP:0007957,Corneal opacity
+run_002,ascorbic acid,4072,HP:0001510,Growth delay
+run_002,ciclosporin,760,HP:0001510,Growth delay
+run_002,tacrolimus,2552,HP:0001510,Growth delay
+run_002,ciclosporin,760,HP:0003100,Slender long bone
+run_002,tacrolimus,2552,HP:0003100,Slender long bone
+run_002,ascorbic acid,4072,HP:0003100,Slender long bone
+run_002,ciclosporin,760,HP:0000269,Prominent occiput
+run_002,tacrolimus,2552,HP:0000269,Prominent occiput
+run_002,ascorbic acid,4072,HP:0000269,Prominent occiput
+run_002,ciclosporin,760,HP:0000256,Macrocephaly
+run_002,ascorbic acid,4072,HP:0000256,Macrocephaly
+run_002,tacrolimus,2552,HP:0000256,Macrocephaly
+run_002,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_002,ciclosporin,760,HP:0002089,Pulmonary hypoplasia
+run_002,ascorbic acid,4072,HP:0002089,Pulmonary hypoplasia
+run_002,tacrolimus,2552,HP:0002512,Brain stem compression
+run_002,ciclosporin,760,HP:0002512,Brain stem compression
+run_002,ascorbic acid,4072,HP:0002512,Brain stem compression
+run_002,ciclosporin,760,HP:0000347,Micrognathia
+run_002,ascorbic acid,4072,HP:0000347,Micrognathia
+run_002,tacrolimus,2552,HP:0000347,Micrognathia
+run_002,ciclosporin,760,HP:0030680,Abnormality of cardiovascular system morphology
+run_002,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_002,ascorbic acid,4072,HP:0030680,Abnormality of cardiovascular system morphology
+run_002,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_002,ciclosporin,760,HP:0004621,Enlarged vertebral pedicles
+run_002,ascorbic acid,4072,HP:0004621,Enlarged vertebral pedicles
+run_002,ciclosporin,760,HP:0004322,Short stature
+run_002,ascorbic acid,4072,HP:0004322,Short stature
+run_002,tacrolimus,2552,HP:0004322,Short stature
+run_002,ciclosporin,760,HP:0000365,Hearing impairment
+run_002,tacrolimus,2552,HP:0000365,Hearing impairment
+run_002,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_002,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_002,ciclosporin,760,HP:0010953,Noncommunicating hydrocephalus
+run_002,ascorbic acid,4072,HP:0010953,Noncommunicating hydrocephalus
+run_002,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_002,ciclosporin,760,HP:0000772,Abnormality of the ribs
+run_002,dobutamine,937,HP:0000772,Abnormality of the ribs
+run_002,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_002,ciclosporin,760,HP:0030268,Hyperplastic callus formation
+run_002,ascorbic acid,4072,HP:0030268,Hyperplastic callus formation
+run_002,tacrolimus,2552,HP:0002273,Tetraparesis
+run_002,ciclosporin,760,HP:0002273,Tetraparesis
+run_002,ascorbic acid,4072,HP:0002273,Tetraparesis
+run_002,ciclosporin,760,HP:0000684,Delayed eruption of teeth
+run_002,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_002,raloxifene,2351,HP:0000684,Delayed eruption of teeth
+run_002,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_002,ciclosporin,760,HP:0002823,Abnormality of femur morphology
+run_002,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_002,ciclosporin,760,HP:0000939,Osteoporosis
+run_002,tacrolimus,2552,HP:0000939,Osteoporosis
+run_002,prazosin,4209,HP:0000939,Osteoporosis
+run_002,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_002,ciclosporin,760,HP:0000023,Inguinal hernia
+run_002,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_002,tacrolimus,2552,HP:0000973,Cutis laxa
+run_002,ciclosporin,760,HP:0000973,Cutis laxa
+run_002,ascorbic acid,4072,HP:0000973,Cutis laxa
+run_002,ascorbic acid,4072,HP:0001873,Thrombocytopenia
+run_002,ciclosporin,760,HP:0001873,Thrombocytopenia
+run_002,tacrolimus,2552,HP:0001873,Thrombocytopenia
+run_002,ciclosporin,760,HP:0000787,Nephrolithiasis
+run_002,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_002,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_002,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_002,ciclosporin,760,HP:0011314,Abnormality of long bone morphology
+run_002,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_002,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_002,ascorbic acid,4072,HP:0002643,Neonatal respiratory distress
+run_002,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_002,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_002,ciclosporin,760,HP:0100761,Visceral angiomatosis
+run_002,ascorbic acid,4072,HP:0100761,Visceral angiomatosis
+run_002,ciclosporin,760,HP:0002808,Kyphosis
+run_002,raloxifene,2351,HP:0002808,Kyphosis
+run_002,tacrolimus,2552,HP:0002808,Kyphosis
+run_002,ciclosporin,760,HP:0003083,Dislocated radial head
+run_002,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_002,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_002,tacrolimus,2552,HP:0000689,Dental malocclusion
+run_002,ciclosporin,760,HP:0000689,Dental malocclusion
+run_002,ascorbic acid,4072,HP:0000689,Dental malocclusion
+run_002,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_002,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_002,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_002,ciclosporin,760,HP:0000592,Blue sclerae
+run_002,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_002,tacrolimus,2552,HP:0000592,Blue sclerae
+run_002,ascorbic acid,4072,HP:0000238,Hydrocephalus
+run_002,ciclosporin,760,HP:0000238,Hydrocephalus
+run_002,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_002,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_002,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_002,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_002,tacrolimus,2552,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_002,ciclosporin,760,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_002,ascorbic acid,4072,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_002,ascorbic acid,4072,HP:0002647,Aortic dissection
+run_002,tacrolimus,2552,HP:0002647,Aortic dissection
+run_002,ciclosporin,760,HP:0002647,Aortic dissection
+run_002,ciclosporin,760,HP:0008905,Rhizomelia
+run_002,tacrolimus,2552,HP:0008905,Rhizomelia
+run_002,ascorbic acid,4072,HP:0008905,Rhizomelia
+run_002,ascorbic acid,4072,HP:0000501,Glaucoma
+run_002,ciclosporin,760,HP:0000501,Glaucoma
+run_002,tacrolimus,2552,HP:0000501,Glaucoma
+run_002,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_002,ciclosporin,760,HP:0001634,Mitral valve prolapse
+run_002,tacrolimus,2552,HP:0001634,Mitral valve prolapse
+run_002,ascorbic acid,4072,HP:0002616,Aortic root aneurysm
+run_002,ciclosporin,760,HP:0002616,Aortic root aneurysm
+run_002,tacrolimus,2552,HP:0002616,Aortic root aneurysm
+run_002,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_002,ciclosporin,760,HP:0006957,Loss of ability to walk
+run_002,ascorbic acid,4072,HP:0006957,Loss of ability to walk
+run_002,ciclosporin,760,HP:0002315,Headache
+run_002,ascorbic acid,4072,HP:0002315,Headache
+run_002,tacrolimus,2552,HP:0002315,Headache
+run_002,ciclosporin,760,HP:0006824,Cranial nerve paralysis
+run_002,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_002,ascorbic acid,4072,HP:0006824,Cranial nerve paralysis
+run_002,ciclosporin,760,HP:0000639,Nystagmus
+run_002,ascorbic acid,4072,HP:0000639,Nystagmus
+run_002,tacrolimus,2552,HP:0000639,Nystagmus
+run_002,ciclosporin,760,HP:0000325,Triangular face
+run_002,ascorbic acid,4072,HP:0000325,Triangular face
+run_002,tacrolimus,2552,HP:0000325,Triangular face
+run_002,tacrolimus,2552,HP:0003396,Syringomyelia
+run_002,ciclosporin,760,HP:0003396,Syringomyelia
+run_002,ascorbic acid,4072,HP:0003396,Syringomyelia
+run_002,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_002,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_002,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_002,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_002,ciclosporin,760,HP:0003103,Abnormal cortical bone morphology
+run_002,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_002,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_002,ciclosporin,760,HP:0011073,Abnormality of dental color
+run_002,ascorbic acid,4072,HP:0011073,Abnormality of dental color
+run_002,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_002,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_002,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_002,ascorbic acid,4072,HP:0004942,Aortic aneurysm
+run_002,ciclosporin,760,HP:0004942,Aortic aneurysm
+run_002,tacrolimus,2552,HP:0004942,Aortic aneurysm
+run_002,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_002,ascorbic acid,4072,HP:0000944,Abnormality of the metaphysis
+run_002,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_002,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_002,ciclosporin,760,HP:0100661,Trigeminal neuralgia
+run_002,ascorbic acid,4072,HP:0100661,Trigeminal neuralgia
+run_002,tacrolimus,2552,HP:0003084,Fractures of the long bones
+run_002,ciclosporin,760,HP:0003084,Fractures of the long bones
+run_002,ascorbic acid,4072,HP:0003084,Fractures of the long bones
+run_002,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_002,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_002,ascorbic acid,4072,HP:0003179,Protrusio acetabuli
+run_002,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_002,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_002,ascorbic acid,4072,HP:0006640,Multiple rib fractures
+run_002,ciclosporin,760,HP:0001518,Small for gestational age
+run_002,ascorbic acid,4072,HP:0001518,Small for gestational age
+run_002,tacrolimus,2552,HP:0001518,Small for gestational age
+run_002,ciclosporin,760,HP:0000774,Narrow chest
+run_002,ascorbic acid,4072,HP:0000774,Narrow chest
+run_002,tacrolimus,2552,HP:0000774,Narrow chest
+run_002,tacrolimus,2552,HP:0012366,Basilar invagination
+run_002,ciclosporin,760,HP:0012366,Basilar invagination
+run_002,ascorbic acid,4072,HP:0012366,Basilar invagination
+run_002,ciclosporin,760,HP:0000410,Mixed hearing impairment
+run_002,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_002,ascorbic acid,4072,HP:0000410,Mixed hearing impairment
+run_002,ascorbic acid,4072,HP:0000505,Visual impairment
+run_002,ciclosporin,760,HP:0000505,Visual impairment
+run_002,tacrolimus,2552,HP:0000505,Visual impairment
+run_002,ciclosporin,760,HP:0001382,Joint hypermobility
+run_002,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_002,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_002,ciclosporin,760,HP:0002757,Recurrent fractures
+run_002,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_002,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_002,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_002,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_002,ciclosporin,760,HP:0002992,Abnormality of tibia morphology
+run_002,ciclosporin,760,HP:0002829,Arthralgia
+run_002,ascorbic acid,4072,HP:0002829,Arthralgia
+run_002,tacrolimus,2552,HP:0002829,Arthralgia
+run_002,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_002,ciclosporin,760,HP:0001371,Flexion contracture
+run_002,tacrolimus,2552,HP:0001371,Flexion contracture
+run_002,ciclosporin,760,HP:0002653,Bone pain
+run_002,tacrolimus,2552,HP:0002653,Bone pain
+run_002,ascorbic acid,4072,HP:0002653,Bone pain
+run_002,tacrolimus,2552,HP:0005214,Intestinal obstruction
+run_002,ciclosporin,760,HP:0005214,Intestinal obstruction
+run_002,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_002,tacrolimus,2552,HP:0001288,Gait disturbance
+run_002,ciclosporin,760,HP:0001288,Gait disturbance
+run_002,raloxifene,2351,HP:0001288,Gait disturbance
+run_002,ciclosporin,760,HP:0004482,Relative macrocephaly
+run_002,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_002,ascorbic acid,4072,HP:0004482,Relative macrocephaly
+run_002,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_002,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_002,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_002,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_002,ciclosporin,760,HP:0002947,Cervical kyphosis
+run_002,ascorbic acid,4072,HP:0002947,Cervical kyphosis
+run_002,ciclosporin,760,HP:0005257,Thoracic hypoplasia
+run_002,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_002,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_002,ciclosporin,760,HP:0000670,Carious teeth
+run_002,ascorbic acid,4072,HP:0000670,Carious teeth
+run_002,tacrolimus,2552,HP:0000670,Carious teeth
+run_002,ciclosporin,760,HP:0001511,Intrauterine growth retardation
+run_002,ascorbic acid,4072,HP:0001511,Intrauterine growth retardation
+run_002,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_002,ciclosporin,760,HP:0004331,Decreased skull ossification
+run_002,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_002,ascorbic acid,4072,HP:0004331,Decreased skull ossification
+run_002,tacrolimus,2552,HP:0002011,Morphological central nervous system abnormality
+run_002,ciclosporin,760,HP:0002011,Morphological central nervous system abnormality
+run_002,ascorbic acid,4072,HP:0002011,Morphological central nervous system abnormality
+run_002,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_002,ciclosporin,760,HP:0001537,Umbilical hernia
+run_002,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_002,ciclosporin,760,HP:0002645,Wormian bones
+run_002,tacrolimus,2552,HP:0002645,Wormian bones
+run_002,ascorbic acid,4072,HP:0002645,Wormian bones
+run_002,ciclosporin,760,HP:0000883,Thin ribs
+run_002,tacrolimus,2552,HP:0000883,Thin ribs
+run_002,ascorbic acid,4072,HP:0000883,Thin ribs
+run_002,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_002,ciclosporin,760,HP:0004306,Abnormal endocardium morphology
+run_002,ascorbic acid,4072,HP:0004306,Abnormal endocardium morphology
+run_002,tacrolimus,2552,HP:0003474,Somatic sensory dysfunction
+run_002,ciclosporin,760,HP:0003474,Somatic sensory dysfunction
+run_002,ascorbic acid,4072,HP:0003474,Somatic sensory dysfunction
+run_002,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_002,ciclosporin,760,HP:0002150,Hypercalciuria
+run_002,ascorbic acid,4072,HP:0002150,Hypercalciuria
+run_002,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_002,ciclosporin,760,HP:0005294,Arterial dissection
+run_002,tacrolimus,2552,HP:0005294,Arterial dissection
+run_002,ciclosporin,760,HP:0002119,Ventriculomegaly
+run_002,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_002,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_002,ciclosporin,760,HP:0002983,Micromelia
+run_002,ascorbic acid,4072,HP:0002983,Micromelia
+run_002,tacrolimus,2552,HP:0002983,Micromelia
+run_002,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_002,ciclosporin,760,HP:0002659,Increased susceptibility to fractures
+run_002,raloxifene,2351,HP:0002659,Increased susceptibility to fractures
+run_002,tacrolimus,2552,HP:0005019,Diaphyseal thickening
+run_002,ciclosporin,760,HP:0005019,Diaphyseal thickening
+run_002,ascorbic acid,4072,HP:0005019,Diaphyseal thickening
+run_003,tacrolimus,2552,HP:0000978,Bruising susceptibility
+run_003,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_003,ciclosporin,760,HP:0000978,Bruising susceptibility
+run_003,tacrolimus,2552,HP:0000239,Large fontanelles
+run_003,ciclosporin,760,HP:0000239,Large fontanelles
+run_003,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_003,cefotiam,548,HP:0003272,Abnormal hip bone morphology
+run_003,secobarbital,2428,HP:0003272,Abnormal hip bone morphology
+run_003,busulfan,438,HP:0003272,Abnormal hip bone morphology
+run_003,tacrolimus,2552,HP:0002758,Osteoarthritis
+run_003,ciclosporin,760,HP:0002758,Osteoarthritis
+run_003,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_003,tacrolimus,2552,HP:0002857,Genu valgum
+run_003,ciclosporin,760,HP:0002857,Genu valgum
+run_003,ascorbic acid,4072,HP:0002857,Genu valgum
+run_003,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_003,ciclosporin,760,HP:0001659,Aortic regurgitation
+run_003,raloxifene,2351,HP:0001659,Aortic regurgitation
+run_003,tacrolimus,2552,HP:0000767,Pectus excavatum
+run_003,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_003,ciclosporin,760,HP:0000767,Pectus excavatum
+run_003,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_003,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_003,ascorbic acid,4072,HP:0000444,Convex nasal ridge
+run_003,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_003,ciclosporin,760,HP:0000164,Abnormality of the dentition
+run_003,ascorbic acid,4072,HP:0000164,Abnormality of the dentition
+run_003,ciclosporin,760,HP:0002019,Constipation
+run_003,tacrolimus,2552,HP:0002019,Constipation
+run_003,tiludronic acid,2666,HP:0002019,Constipation
+run_003,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_003,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_003,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_003,tacrolimus,2552,HP:0002980,Femoral bowing
+run_003,ciclosporin,760,HP:0002980,Femoral bowing
+run_003,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_003,tacrolimus,2552,HP:0002015,Dysphagia
+run_003,ciclosporin,760,HP:0002015,Dysphagia
+run_003,ascorbic acid,4072,HP:0002015,Dysphagia
+run_003,tacrolimus,2552,HP:0001342,Cerebral hemorrhage
+run_003,tiludronic acid,2666,HP:0001342,Cerebral hemorrhage
+run_003,ciclosporin,760,HP:0001342,Cerebral hemorrhage
+run_003,tacrolimus,2552,HP:0000248,Brachycephaly
+run_003,ciclosporin,760,HP:0000248,Brachycephaly
+run_003,tiludronic acid,2666,HP:0000248,Brachycephaly
+run_003,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_003,ciclosporin,760,HP:0000768,Pectus carinatum
+run_003,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_003,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_003,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_003,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_003,tiludronic acid,2666,HP:0001251,Ataxia
+run_003,tacrolimus,2552,HP:0001251,Ataxia
+run_003,raloxifene,2351,HP:0001251,Ataxia
+run_003,tacrolimus,2552,HP:0000938,Osteopenia
+run_003,ciclosporin,760,HP:0000938,Osteopenia
+run_003,ascorbic acid,4072,HP:0000938,Osteopenia
+run_003,ciclosporin,760,HP:0000682,Abnormal dental enamel morphology
+run_003,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_003,tiludronic acid,2666,HP:0000682,Abnormal dental enamel morphology
+run_003,busulfan,438,HP:0003401,Paresthesia
+run_003,secobarbital,2428,HP:0003401,Paresthesia
+run_003,cefotiam,548,HP:0003401,Paresthesia
+run_003,tacrolimus,2552,HP:0002650,Scoliosis
+run_003,ciclosporin,760,HP:0002650,Scoliosis
+run_003,ascorbic acid,4072,HP:0002650,Scoliosis
+run_003,ciclosporin,760,HP:0001730,Progressive hearing impairment
+run_003,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_003,tiludronic acid,2666,HP:0001730,Progressive hearing impairment
+run_003,tacrolimus,2552,HP:0007957,Corneal opacity
+run_003,ciclosporin,760,HP:0007957,Corneal opacity
+run_003,raloxifene,2351,HP:0007957,Corneal opacity
+run_003,tacrolimus,2552,HP:0001510,Growth delay
+run_003,ciclosporin,760,HP:0001510,Growth delay
+run_003,ascorbic acid,4072,HP:0001510,Growth delay
+run_003,tacrolimus,2552,HP:0003100,Slender long bone
+run_003,ciclosporin,760,HP:0003100,Slender long bone
+run_003,ascorbic acid,4072,HP:0003100,Slender long bone
+run_003,busulfan,438,HP:0000269,Prominent occiput
+run_003,secobarbital,2428,HP:0000269,Prominent occiput
+run_003,beclometasone dipropionate,294,HP:0000269,Prominent occiput
+run_003,tacrolimus,2552,HP:0000256,Macrocephaly
+run_003,ciclosporin,760,HP:0000256,Macrocephaly
+run_003,raloxifene,2351,HP:0000256,Macrocephaly
+run_003,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_003,ciclosporin,760,HP:0002089,Pulmonary hypoplasia
+run_003,tiludronic acid,2666,HP:0002089,Pulmonary hypoplasia
+run_003,busulfan,438,HP:0002512,Brain stem compression
+run_003,secobarbital,2428,HP:0002512,Brain stem compression
+run_003,cefotiam,548,HP:0002512,Brain stem compression
+run_003,tacrolimus,2552,HP:0000347,Micrognathia
+run_003,ciclosporin,760,HP:0000347,Micrognathia
+run_003,ascorbic acid,4072,HP:0000347,Micrognathia
+run_003,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_003,ciclosporin,760,HP:0030680,Abnormality of cardiovascular system morphology
+run_003,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_003,busulfan,438,HP:0004621,Enlarged vertebral pedicles
+run_003,secobarbital,2428,HP:0004621,Enlarged vertebral pedicles
+run_003,cefotiam,548,HP:0004621,Enlarged vertebral pedicles
+run_003,tacrolimus,2552,HP:0004322,Short stature
+run_003,ciclosporin,760,HP:0004322,Short stature
+run_003,ascorbic acid,4072,HP:0004322,Short stature
+run_003,tacrolimus,2552,HP:0000365,Hearing impairment
+run_003,ciclosporin,760,HP:0000365,Hearing impairment
+run_003,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_003,busulfan,438,HP:0010953,Noncommunicating hydrocephalus
+run_003,secobarbital,2428,HP:0010953,Noncommunicating hydrocephalus
+run_003,cefotiam,548,HP:0010953,Noncommunicating hydrocephalus
+run_003,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_003,ciclosporin,760,HP:0000772,Abnormality of the ribs
+run_003,tiludronic acid,2666,HP:0000772,Abnormality of the ribs
+run_003,secobarbital,2428,HP:0030268,Hyperplastic callus formation
+run_003,busulfan,438,HP:0030268,Hyperplastic callus formation
+run_003,cefotiam,548,HP:0030268,Hyperplastic callus formation
+run_003,tacrolimus,2552,HP:0002273,Tetraparesis
+run_003,ciclosporin,760,HP:0002273,Tetraparesis
+run_003,cefotiam,548,HP:0002273,Tetraparesis
+run_003,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_003,ciclosporin,760,HP:0000684,Delayed eruption of teeth
+run_003,ascorbic acid,4072,HP:0000684,Delayed eruption of teeth
+run_003,ciclosporin,760,HP:0002823,Abnormality of femur morphology
+run_003,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_003,testosterone,2607,HP:0002823,Abnormality of femur morphology
+run_003,tacrolimus,2552,HP:0000939,Osteoporosis
+run_003,ciclosporin,760,HP:0000939,Osteoporosis
+run_003,prazosin,4209,HP:0000939,Osteoporosis
+run_003,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_003,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_003,ciclosporin,760,HP:0000023,Inguinal hernia
+run_003,tacrolimus,2552,HP:0000973,Cutis laxa
+run_003,ciclosporin,760,HP:0000973,Cutis laxa
+run_003,tiludronic acid,2666,HP:0000973,Cutis laxa
+run_003,tacrolimus,2552,HP:0001873,Thrombocytopenia
+run_003,caplacizumab,5308,HP:0001873,Thrombocytopenia
+run_003,raloxifene,2351,HP:0001873,Thrombocytopenia
+run_003,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_003,ciclosporin,760,HP:0000787,Nephrolithiasis
+run_003,tiludronic acid,2666,HP:0000787,Nephrolithiasis
+run_003,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_003,ciclosporin,760,HP:0011314,Abnormality of long bone morphology
+run_003,tiludronic acid,2666,HP:0011314,Abnormality of long bone morphology
+run_003,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_003,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_003,raloxifene,2351,HP:0002643,Neonatal respiratory distress
+run_003,busulfan,438,HP:0100761,Visceral angiomatosis
+run_003,secobarbital,2428,HP:0100761,Visceral angiomatosis
+run_003,cefotiam,548,HP:0100761,Visceral angiomatosis
+run_003,tacrolimus,2552,HP:0002808,Kyphosis
+run_003,ascorbic acid,4072,HP:0002808,Kyphosis
+run_003,ciclosporin,760,HP:0002808,Kyphosis
+run_003,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_003,ciclosporin,760,HP:0003083,Dislocated radial head
+run_003,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_003,tacrolimus,2552,HP:0000689,Dental malocclusion
+run_003,tiludronic acid,2666,HP:0000689,Dental malocclusion
+run_003,ciclosporin,760,HP:0000689,Dental malocclusion
+run_003,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_003,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_003,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_003,tacrolimus,2552,HP:0000592,Blue sclerae
+run_003,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_003,ciclosporin,760,HP:0000592,Blue sclerae
+run_003,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_003,raloxifene,2351,HP:0000238,Hydrocephalus
+run_003,tiludronic acid,2666,HP:0000238,Hydrocephalus
+run_003,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_003,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_003,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_003,cefotiam,548,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_003,secobarbital,2428,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_003,beclometasone dipropionate,294,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_003,tacrolimus,2552,HP:0002647,Aortic dissection
+run_003,ciclosporin,760,HP:0002647,Aortic dissection
+run_003,ascorbic acid,4072,HP:0002647,Aortic dissection
+run_003,tacrolimus,2552,HP:0008905,Rhizomelia
+run_003,ciclosporin,760,HP:0008905,Rhizomelia
+run_003,tiludronic acid,2666,HP:0008905,Rhizomelia
+run_003,tacrolimus,2552,HP:0000501,Glaucoma
+run_003,ciclosporin,760,HP:0000501,Glaucoma
+run_003,ascorbic acid,4072,HP:0000501,Glaucoma
+run_003,tacrolimus,2552,HP:0001634,Mitral valve prolapse
+run_003,ciclosporin,760,HP:0001634,Mitral valve prolapse
+run_003,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_003,tacrolimus,2552,HP:0002616,Aortic root aneurysm
+run_003,ciclosporin,760,HP:0002616,Aortic root aneurysm
+run_003,ascorbic acid,4072,HP:0002616,Aortic root aneurysm
+run_003,busulfan,438,HP:0006957,Loss of ability to walk
+run_003,cefotiam,548,HP:0006957,Loss of ability to walk
+run_003,secobarbital,2428,HP:0006957,Loss of ability to walk
+run_003,tacrolimus,2552,HP:0002315,Headache
+run_003,ciclosporin,760,HP:0002315,Headache
+run_003,raloxifene,2351,HP:0002315,Headache
+run_003,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_003,ciclosporin,760,HP:0006824,Cranial nerve paralysis
+run_003,tiludronic acid,2666,HP:0006824,Cranial nerve paralysis
+run_003,tacrolimus,2552,HP:0000639,Nystagmus
+run_003,ciclosporin,760,HP:0000639,Nystagmus
+run_003,ascorbic acid,4072,HP:0000639,Nystagmus
+run_003,tacrolimus,2552,HP:0000325,Triangular face
+run_003,ciclosporin,760,HP:0000325,Triangular face
+run_003,ascorbic acid,4072,HP:0000325,Triangular face
+run_003,ciclosporin,760,HP:0003396,Syringomyelia
+run_003,tacrolimus,2552,HP:0003396,Syringomyelia
+run_003,secobarbital,2428,HP:0003396,Syringomyelia
+run_003,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_003,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_003,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_003,ciclosporin,760,HP:0003103,Abnormal cortical bone morphology
+run_003,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_003,tiludronic acid,2666,HP:0003103,Abnormal cortical bone morphology
+run_003,ciclosporin,760,HP:0011073,Abnormality of dental color
+run_003,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_003,secobarbital,2428,HP:0011073,Abnormality of dental color
+run_003,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_003,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_003,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_003,tacrolimus,2552,HP:0004942,Aortic aneurysm
+run_003,ascorbic acid,4072,HP:0004942,Aortic aneurysm
+run_003,raloxifene,2351,HP:0004942,Aortic aneurysm
+run_003,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_003,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_003,raloxifene,2351,HP:0000944,Abnormality of the metaphysis
+run_003,ciclosporin,760,HP:0100661,Trigeminal neuralgia
+run_003,busulfan,438,HP:0100661,Trigeminal neuralgia
+run_003,beclometasone dipropionate,294,HP:0100661,Trigeminal neuralgia
+run_003,busulfan,438,HP:0003084,Fractures of the long bones
+run_003,secobarbital,2428,HP:0003084,Fractures of the long bones
+run_003,cefotiam,548,HP:0003084,Fractures of the long bones
+run_003,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_003,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_003,ascorbic acid,4072,HP:0003179,Protrusio acetabuli
+run_003,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_003,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_003,secobarbital,2428,HP:0006640,Multiple rib fractures
+run_003,tacrolimus,2552,HP:0001518,Small for gestational age
+run_003,ciclosporin,760,HP:0001518,Small for gestational age
+run_003,ascorbic acid,4072,HP:0001518,Small for gestational age
+run_003,tacrolimus,2552,HP:0000774,Narrow chest
+run_003,ciclosporin,760,HP:0000774,Narrow chest
+run_003,ascorbic acid,4072,HP:0000774,Narrow chest
+run_003,busulfan,438,HP:0012366,Basilar invagination
+run_003,secobarbital,2428,HP:0012366,Basilar invagination
+run_003,aminoquinuride,174,HP:0012366,Basilar invagination
+run_003,ciclosporin,760,HP:0000410,Mixed hearing impairment
+run_003,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_003,prazosin,4209,HP:0000410,Mixed hearing impairment
+run_003,tacrolimus,2552,HP:0000505,Visual impairment
+run_003,ciclosporin,760,HP:0000505,Visual impairment
+run_003,ascorbic acid,4072,HP:0000505,Visual impairment
+run_003,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_003,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_003,ciclosporin,760,HP:0001382,Joint hypermobility
+run_003,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_003,ciclosporin,760,HP:0002757,Recurrent fractures
+run_003,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_003,ciclosporin,760,HP:0002992,Abnormality of tibia morphology
+run_003,tiludronic acid,2666,HP:0002992,Abnormality of tibia morphology
+run_003,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_003,tacrolimus,2552,HP:0002829,Arthralgia
+run_003,ciclosporin,760,HP:0002829,Arthralgia
+run_003,ascorbic acid,4072,HP:0002829,Arthralgia
+run_003,tacrolimus,2552,HP:0001371,Flexion contracture
+run_003,ciclosporin,760,HP:0001371,Flexion contracture
+run_003,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_003,tiludronic acid,2666,HP:0002653,Bone pain
+run_003,ciclosporin,760,HP:0002653,Bone pain
+run_003,raloxifene,2351,HP:0002653,Bone pain
+run_003,tiludronic acid,2666,HP:0005214,Intestinal obstruction
+run_003,zoledronic acid,2868,HP:0005214,Intestinal obstruction
+run_003,doxycycline,961,HP:0005214,Intestinal obstruction
+run_003,tacrolimus,2552,HP:0001288,Gait disturbance
+run_003,ciclosporin,760,HP:0001288,Gait disturbance
+run_003,raloxifene,2351,HP:0001288,Gait disturbance
+run_003,ciclosporin,760,HP:0004482,Relative macrocephaly
+run_003,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_003,busulfan,438,HP:0004482,Relative macrocephaly
+run_003,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_003,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_003,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_003,busulfan,438,HP:0002947,Cervical kyphosis
+run_003,secobarbital,2428,HP:0002947,Cervical kyphosis
+run_003,cefotiam,548,HP:0002947,Cervical kyphosis
+run_003,ciclosporin,760,HP:0005257,Thoracic hypoplasia
+run_003,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_003,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_003,ciclosporin,760,HP:0000670,Carious teeth
+run_003,tacrolimus,2552,HP:0000670,Carious teeth
+run_003,ascorbic acid,4072,HP:0000670,Carious teeth
+run_003,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_003,ciclosporin,760,HP:0001511,Intrauterine growth retardation
+run_003,ascorbic acid,4072,HP:0001511,Intrauterine growth retardation
+run_003,ciclosporin,760,HP:0004331,Decreased skull ossification
+run_003,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_003,tiludronic acid,2666,HP:0004331,Decreased skull ossification
+run_003,busulfan,438,HP:0002011,Morphological central nervous system abnormality
+run_003,secobarbital,2428,HP:0002011,Morphological central nervous system abnormality
+run_003,cefotiam,548,HP:0002011,Morphological central nervous system abnormality
+run_003,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_003,ciclosporin,760,HP:0001537,Umbilical hernia
+run_003,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_003,tacrolimus,2552,HP:0002645,Wormian bones
+run_003,ciclosporin,760,HP:0002645,Wormian bones
+run_003,ascorbic acid,4072,HP:0002645,Wormian bones
+run_003,tacrolimus,2552,HP:0000883,Thin ribs
+run_003,ciclosporin,760,HP:0000883,Thin ribs
+run_003,ascorbic acid,4072,HP:0000883,Thin ribs
+run_003,busulfan,438,HP:0004306,Abnormal endocardium morphology
+run_003,secobarbital,2428,HP:0004306,Abnormal endocardium morphology
+run_003,cefotiam,548,HP:0004306,Abnormal endocardium morphology
+run_003,busulfan,438,HP:0003474,Somatic sensory dysfunction
+run_003,secobarbital,2428,HP:0003474,Somatic sensory dysfunction
+run_003,cefotiam,548,HP:0003474,Somatic sensory dysfunction
+run_003,ciclosporin,760,HP:0002150,Hypercalciuria
+run_003,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_003,tiludronic acid,2666,HP:0002150,Hypercalciuria
+run_003,tacrolimus,2552,HP:0005294,Arterial dissection
+run_003,ciclosporin,760,HP:0005294,Arterial dissection
+run_003,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_003,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_003,ciclosporin,760,HP:0002119,Ventriculomegaly
+run_003,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_003,tacrolimus,2552,HP:0002983,Micromelia
+run_003,ciclosporin,760,HP:0002983,Micromelia
+run_003,ascorbic acid,4072,HP:0002983,Micromelia
+run_003,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_003,ciclosporin,760,HP:0002659,Increased susceptibility to fractures
+run_003,ascorbic acid,4072,HP:0002659,Increased susceptibility to fractures
+run_003,cefotiam,548,HP:0005019,Diaphyseal thickening
+run_003,secobarbital,2428,HP:0005019,Diaphyseal thickening
+run_003,busulfan,438,HP:0005019,Diaphyseal thickening
+run_004,siltuximab,4977,HP:0000978,Bruising susceptibility
+run_004,ciclosporin,760,HP:0000978,Bruising susceptibility
+run_004,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_004,tacrolimus,2552,HP:0000239,Large fontanelles
+run_004,ciclosporin,760,HP:0000239,Large fontanelles
+run_004,siltuximab,4977,HP:0000239,Large fontanelles
+run_004,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_004,ciclosporin,760,HP:0003272,Abnormal hip bone morphology
+run_004,tiludronic acid,2666,HP:0003272,Abnormal hip bone morphology
+run_004,siltuximab,4977,HP:0002758,Osteoarthritis
+run_004,ciclosporin,760,HP:0002758,Osteoarthritis
+run_004,raloxifene,2351,HP:0002758,Osteoarthritis
+run_004,tacrolimus,2552,HP:0002857,Genu valgum
+run_004,ciclosporin,760,HP:0002857,Genu valgum
+run_004,siltuximab,4977,HP:0002857,Genu valgum
+run_004,ciclosporin,760,HP:0001659,Aortic regurgitation
+run_004,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_004,raloxifene,2351,HP:0001659,Aortic regurgitation
+run_004,ciclosporin,760,HP:0000767,Pectus excavatum
+run_004,raloxifene,2351,HP:0000767,Pectus excavatum
+run_004,siltuximab,4977,HP:0000767,Pectus excavatum
+run_004,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_004,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_004,tiludronic acid,2666,HP:0000444,Convex nasal ridge
+run_004,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_004,ciclosporin,760,HP:0000164,Abnormality of the dentition
+run_004,raloxifene,2351,HP:0000164,Abnormality of the dentition
+run_004,tacrolimus,2552,HP:0002019,Constipation
+run_004,ciclosporin,760,HP:0002019,Constipation
+run_004,tiludronic acid,2666,HP:0002019,Constipation
+run_004,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_004,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_004,raloxifene,2351,HP:0000703,Dentinogenesis imperfecta
+run_004,tacrolimus,2552,HP:0002980,Femoral bowing
+run_004,ciclosporin,760,HP:0002980,Femoral bowing
+run_004,raloxifene,2351,HP:0002980,Femoral bowing
+run_004,ciclosporin,760,HP:0002015,Dysphagia
+run_004,tacrolimus,2552,HP:0002015,Dysphagia
+run_004,siltuximab,4977,HP:0002015,Dysphagia
+run_004,tacrolimus,2552,HP:0001342,Cerebral hemorrhage
+run_004,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_004,ciclosporin,760,HP:0001342,Cerebral hemorrhage
+run_004,tacrolimus,2552,HP:0000248,Brachycephaly
+run_004,ciclosporin,760,HP:0000248,Brachycephaly
+run_004,tiludronic acid,2666,HP:0000248,Brachycephaly
+run_004,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_004,ciclosporin,760,HP:0000768,Pectus carinatum
+run_004,raloxifene,2351,HP:0000768,Pectus carinatum
+run_004,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_004,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_004,tiludronic acid,2666,HP:0003312,Abnormal form of the vertebral bodies
+run_004,siltuximab,4977,HP:0001251,Ataxia
+run_004,prednisolone,2245,HP:0001251,Ataxia
+run_004,tacrolimus,2552,HP:0001251,Ataxia
+run_004,siltuximab,4977,HP:0000938,Osteopenia
+run_004,ciclosporin,760,HP:0000938,Osteopenia
+run_004,raloxifene,2351,HP:0000938,Osteopenia
+run_004,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_004,ciclosporin,760,HP:0000682,Abnormal dental enamel morphology
+run_004,tiludronic acid,2666,HP:0000682,Abnormal dental enamel morphology
+run_004,tacrolimus,2552,HP:0003401,Paresthesia
+run_004,ciclosporin,760,HP:0003401,Paresthesia
+run_004,tiludronic acid,2666,HP:0003401,Paresthesia
+run_004,ciclosporin,760,HP:0002650,Scoliosis
+run_004,tacrolimus,2552,HP:0002650,Scoliosis
+run_004,raloxifene,2351,HP:0002650,Scoliosis
+run_004,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_004,ciclosporin,760,HP:0001730,Progressive hearing impairment
+run_004,tiludronic acid,2666,HP:0001730,Progressive hearing impairment
+run_004,siltuximab,4977,HP:0007957,Corneal opacity
+run_004,tacrolimus,2552,HP:0007957,Corneal opacity
+run_004,ciclosporin,760,HP:0007957,Corneal opacity
+run_004,tacrolimus,2552,HP:0001510,Growth delay
+run_004,ciclosporin,760,HP:0001510,Growth delay
+run_004,siltuximab,4977,HP:0001510,Growth delay
+run_004,tacrolimus,2552,HP:0003100,Slender long bone
+run_004,ciclosporin,760,HP:0003100,Slender long bone
+run_004,raloxifene,2351,HP:0003100,Slender long bone
+run_004,tacrolimus,2552,HP:0000269,Prominent occiput
+run_004,ciclosporin,760,HP:0000269,Prominent occiput
+run_004,tiludronic acid,2666,HP:0000269,Prominent occiput
+run_004,tacrolimus,2552,HP:0000256,Macrocephaly
+run_004,ciclosporin,760,HP:0000256,Macrocephaly
+run_004,raloxifene,2351,HP:0000256,Macrocephaly
+run_004,tiludronic acid,2666,HP:0002089,Pulmonary hypoplasia
+run_004,raloxifene,2351,HP:0002089,Pulmonary hypoplasia
+run_004,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_004,tacrolimus,2552,HP:0002512,Brain stem compression
+run_004,ciclosporin,760,HP:0002512,Brain stem compression
+run_004,tiludronic acid,2666,HP:0002512,Brain stem compression
+run_004,tacrolimus,2552,HP:0000347,Micrognathia
+run_004,ciclosporin,760,HP:0000347,Micrognathia
+run_004,siltuximab,4977,HP:0000347,Micrognathia
+run_004,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_004,ciclosporin,760,HP:0030680,Abnormality of cardiovascular system morphology
+run_004,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_004,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_004,ciclosporin,760,HP:0004621,Enlarged vertebral pedicles
+run_004,tiludronic acid,2666,HP:0004621,Enlarged vertebral pedicles
+run_004,tacrolimus,2552,HP:0004322,Short stature
+run_004,ciclosporin,760,HP:0004322,Short stature
+run_004,siltuximab,4977,HP:0004322,Short stature
+run_004,tacrolimus,2552,HP:0000365,Hearing impairment
+run_004,ciclosporin,760,HP:0000365,Hearing impairment
+run_004,siltuximab,4977,HP:0000365,Hearing impairment
+run_004,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_004,ciclosporin,760,HP:0010953,Noncommunicating hydrocephalus
+run_004,tiludronic acid,2666,HP:0010953,Noncommunicating hydrocephalus
+run_004,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_004,tiludronic acid,2666,HP:0000772,Abnormality of the ribs
+run_004,ciclosporin,760,HP:0000772,Abnormality of the ribs
+run_004,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_004,ciclosporin,760,HP:0030268,Hyperplastic callus formation
+run_004,tiludronic acid,2666,HP:0030268,Hyperplastic callus formation
+run_004,tacrolimus,2552,HP:0002273,Tetraparesis
+run_004,ciclosporin,760,HP:0002273,Tetraparesis
+run_004,tiludronic acid,2666,HP:0002273,Tetraparesis
+run_004,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_004,ciclosporin,760,HP:0000684,Delayed eruption of teeth
+run_004,raloxifene,2351,HP:0000684,Delayed eruption of teeth
+run_004,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_004,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_004,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_004,siltuximab,4977,HP:0000939,Osteoporosis
+run_004,prazosin,4209,HP:0000939,Osteoporosis
+run_004,prednisolone,2245,HP:0000939,Osteoporosis
+run_004,ciclosporin,760,HP:0000023,Inguinal hernia
+run_004,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_004,siltuximab,4977,HP:0000023,Inguinal hernia
+run_004,tacrolimus,2552,HP:0000973,Cutis laxa
+run_004,ciclosporin,760,HP:0000973,Cutis laxa
+run_004,tiludronic acid,2666,HP:0000973,Cutis laxa
+run_004,tacrolimus,2552,HP:0001873,Thrombocytopenia
+run_004,ciclosporin,760,HP:0001873,Thrombocytopenia
+run_004,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_004,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_004,ciclosporin,760,HP:0000787,Nephrolithiasis
+run_004,tiludronic acid,2666,HP:0000787,Nephrolithiasis
+run_004,tiludronic acid,2666,HP:0011314,Abnormality of long bone morphology
+run_004,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_004,prazosin,4209,HP:0011314,Abnormality of long bone morphology
+run_004,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_004,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_004,tiludronic acid,2666,HP:0002643,Neonatal respiratory distress
+run_004,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_004,ciclosporin,760,HP:0100761,Visceral angiomatosis
+run_004,tiludronic acid,2666,HP:0100761,Visceral angiomatosis
+run_004,siltuximab,4977,HP:0002808,Kyphosis
+run_004,prednisolone,2245,HP:0002808,Kyphosis
+run_004,ciclosporin,760,HP:0002808,Kyphosis
+run_004,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_004,ciclosporin,760,HP:0003083,Dislocated radial head
+run_004,raloxifene,2351,HP:0003083,Dislocated radial head
+run_004,tacrolimus,2552,HP:0000689,Dental malocclusion
+run_004,ciclosporin,760,HP:0000689,Dental malocclusion
+run_004,tiludronic acid,2666,HP:0000689,Dental malocclusion
+run_004,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_004,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_004,siltuximab,4977,HP:0002953,Vertebral compression fracture
+run_004,tacrolimus,2552,HP:0000592,Blue sclerae
+run_004,ciclosporin,760,HP:0000592,Blue sclerae
+run_004,raloxifene,2351,HP:0000592,Blue sclerae
+run_004,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_004,ciclosporin,760,HP:0000238,Hydrocephalus
+run_004,siltuximab,4977,HP:0000238,Hydrocephalus
+run_004,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_004,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_004,tiludronic acid,2666,HP:0006487,Bowing of the long bones
+run_004,tacrolimus,2552,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_004,ciclosporin,760,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_004,tiludronic acid,2666,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_004,ciclosporin,760,HP:0002647,Aortic dissection
+run_004,siltuximab,4977,HP:0002647,Aortic dissection
+run_004,raloxifene,2351,HP:0002647,Aortic dissection
+run_004,tacrolimus,2552,HP:0008905,Rhizomelia
+run_004,ciclosporin,760,HP:0008905,Rhizomelia
+run_004,tiludronic acid,2666,HP:0008905,Rhizomelia
+run_004,ciclosporin,760,HP:0000501,Glaucoma
+run_004,siltuximab,4977,HP:0000501,Glaucoma
+run_004,tacrolimus,2552,HP:0000501,Glaucoma
+run_004,siltuximab,4977,HP:0001634,Mitral valve prolapse
+run_004,ciclosporin,760,HP:0001634,Mitral valve prolapse
+run_004,raloxifene,2351,HP:0001634,Mitral valve prolapse
+run_004,ciclosporin,760,HP:0002616,Aortic root aneurysm
+run_004,siltuximab,4977,HP:0002616,Aortic root aneurysm
+run_004,raloxifene,2351,HP:0002616,Aortic root aneurysm
+run_004,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_004,ciclosporin,760,HP:0006957,Loss of ability to walk
+run_004,tiludronic acid,2666,HP:0006957,Loss of ability to walk
+run_004,tacrolimus,2552,HP:0002315,Headache
+run_004,ciclosporin,760,HP:0002315,Headache
+run_004,siltuximab,4977,HP:0002315,Headache
+run_004,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_004,ciclosporin,760,HP:0006824,Cranial nerve paralysis
+run_004,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_004,ciclosporin,760,HP:0000639,Nystagmus
+run_004,tacrolimus,2552,HP:0000639,Nystagmus
+run_004,siltuximab,4977,HP:0000639,Nystagmus
+run_004,tacrolimus,2552,HP:0000325,Triangular face
+run_004,ciclosporin,760,HP:0000325,Triangular face
+run_004,raloxifene,2351,HP:0000325,Triangular face
+run_004,tacrolimus,2552,HP:0003396,Syringomyelia
+run_004,ciclosporin,760,HP:0003396,Syringomyelia
+run_004,tiludronic acid,2666,HP:0003396,Syringomyelia
+run_004,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_004,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_004,raloxifene,2351,HP:0004586,Biconcave vertebral bodies
+run_004,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_004,ciclosporin,760,HP:0003103,Abnormal cortical bone morphology
+run_004,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_004,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_004,ciclosporin,760,HP:0011073,Abnormality of dental color
+run_004,tiludronic acid,2666,HP:0011073,Abnormality of dental color
+run_004,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_004,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_004,siltuximab,4977,HP:0005692,Joint hyperflexibility
+run_004,siltuximab,4977,HP:0004942,Aortic aneurysm
+run_004,raloxifene,2351,HP:0004942,Aortic aneurysm
+run_004,ciclosporin,760,HP:0004942,Aortic aneurysm
+run_004,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_004,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_004,tiludronic acid,2666,HP:0000944,Abnormality of the metaphysis
+run_004,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_004,ciclosporin,760,HP:0100661,Trigeminal neuralgia
+run_004,tiludronic acid,2666,HP:0100661,Trigeminal neuralgia
+run_004,tacrolimus,2552,HP:0003084,Fractures of the long bones
+run_004,ciclosporin,760,HP:0003084,Fractures of the long bones
+run_004,tiludronic acid,2666,HP:0003084,Fractures of the long bones
+run_004,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_004,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_004,raloxifene,2351,HP:0003179,Protrusio acetabuli
+run_004,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_004,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_004,tiludronic acid,2666,HP:0006640,Multiple rib fractures
+run_004,tacrolimus,2552,HP:0001518,Small for gestational age
+run_004,ciclosporin,760,HP:0001518,Small for gestational age
+run_004,siltuximab,4977,HP:0001518,Small for gestational age
+run_004,tacrolimus,2552,HP:0000774,Narrow chest
+run_004,ciclosporin,760,HP:0000774,Narrow chest
+run_004,siltuximab,4977,HP:0000774,Narrow chest
+run_004,tacrolimus,2552,HP:0012366,Basilar invagination
+run_004,ciclosporin,760,HP:0012366,Basilar invagination
+run_004,tiludronic acid,2666,HP:0012366,Basilar invagination
+run_004,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_004,ciclosporin,760,HP:0000410,Mixed hearing impairment
+run_004,tiludronic acid,2666,HP:0000410,Mixed hearing impairment
+run_004,tacrolimus,2552,HP:0000505,Visual impairment
+run_004,ciclosporin,760,HP:0000505,Visual impairment
+run_004,siltuximab,4977,HP:0000505,Visual impairment
+run_004,ciclosporin,760,HP:0001382,Joint hypermobility
+run_004,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_004,losartan,1610,HP:0001382,Joint hypermobility
+run_004,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_004,ciclosporin,760,HP:0002757,Recurrent fractures
+run_004,raloxifene,2351,HP:0002757,Recurrent fractures
+run_004,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_004,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_004,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_004,ciclosporin,760,HP:0002829,Arthralgia
+run_004,tacrolimus,2552,HP:0002829,Arthralgia
+run_004,siltuximab,4977,HP:0002829,Arthralgia
+run_004,tacrolimus,2552,HP:0001371,Flexion contracture
+run_004,ciclosporin,760,HP:0001371,Flexion contracture
+run_004,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_004,tacrolimus,2552,HP:0002653,Bone pain
+run_004,ciclosporin,760,HP:0002653,Bone pain
+run_004,siltuximab,4977,HP:0002653,Bone pain
+run_004,tacrolimus,2552,HP:0005214,Intestinal obstruction
+run_004,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_004,tiludronic acid,2666,HP:0005214,Intestinal obstruction
+run_004,ciclosporin,760,HP:0001288,Gait disturbance
+run_004,tacrolimus,2552,HP:0001288,Gait disturbance
+run_004,siltuximab,4977,HP:0001288,Gait disturbance
+run_004,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_004,ciclosporin,760,HP:0004482,Relative macrocephaly
+run_004,tiludronic acid,2666,HP:0004482,Relative macrocephaly
+run_004,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_004,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_004,siltuximab,4977,HP:0000975,Hyperhidrosis
+run_004,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_004,ciclosporin,760,HP:0002947,Cervical kyphosis
+run_004,tiludronic acid,2666,HP:0002947,Cervical kyphosis
+run_004,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_004,ciclosporin,760,HP:0005257,Thoracic hypoplasia
+run_004,tiludronic acid,2666,HP:0005257,Thoracic hypoplasia
+run_004,tacrolimus,2552,HP:0000670,Carious teeth
+run_004,siltuximab,4977,HP:0000670,Carious teeth
+run_004,ciclosporin,760,HP:0000670,Carious teeth
+run_004,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_004,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_004,ciclosporin,760,HP:0001511,Intrauterine growth retardation
+run_004,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_004,ciclosporin,760,HP:0004331,Decreased skull ossification
+run_004,tiludronic acid,2666,HP:0004331,Decreased skull ossification
+run_004,tacrolimus,2552,HP:0002011,Morphological central nervous system abnormality
+run_004,ciclosporin,760,HP:0002011,Morphological central nervous system abnormality
+run_004,tiludronic acid,2666,HP:0002011,Morphological central nervous system abnormality
+run_004,ciclosporin,760,HP:0001537,Umbilical hernia
+run_004,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_004,siltuximab,4977,HP:0001537,Umbilical hernia
+run_004,tacrolimus,2552,HP:0002645,Wormian bones
+run_004,ciclosporin,760,HP:0002645,Wormian bones
+run_004,raloxifene,2351,HP:0002645,Wormian bones
+run_004,tacrolimus,2552,HP:0000883,Thin ribs
+run_004,ciclosporin,760,HP:0000883,Thin ribs
+run_004,raloxifene,2351,HP:0000883,Thin ribs
+run_004,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_004,ciclosporin,760,HP:0004306,Abnormal endocardium morphology
+run_004,tiludronic acid,2666,HP:0004306,Abnormal endocardium morphology
+run_004,tacrolimus,2552,HP:0003474,Somatic sensory dysfunction
+run_004,ciclosporin,760,HP:0003474,Somatic sensory dysfunction
+run_004,tiludronic acid,2666,HP:0003474,Somatic sensory dysfunction
+run_004,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_004,ciclosporin,760,HP:0002150,Hypercalciuria
+run_004,dimethyl fumarate,4757,HP:0002150,Hypercalciuria
+run_004,ciclosporin,760,HP:0005294,Arterial dissection
+run_004,tacrolimus,2552,HP:0005294,Arterial dissection
+run_004,raloxifene,2351,HP:0005294,Arterial dissection
+run_004,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_004,ciclosporin,760,HP:0002119,Ventriculomegaly
+run_004,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_004,tacrolimus,2552,HP:0002983,Micromelia
+run_004,ciclosporin,760,HP:0002983,Micromelia
+run_004,tiludronic acid,2666,HP:0002983,Micromelia
+run_004,ciclosporin,760,HP:0002659,Increased susceptibility to fractures
+run_004,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_004,siltuximab,4977,HP:0002659,Increased susceptibility to fractures
+run_004,tacrolimus,2552,HP:0005019,Diaphyseal thickening
+run_004,ciclosporin,760,HP:0005019,Diaphyseal thickening
+run_004,tiludronic acid,2666,HP:0005019,Diaphyseal thickening
+run_005,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_005,raloxifene,2351,HP:0000978,Bruising susceptibility
+run_005,losartan,1610,HP:0000978,Bruising susceptibility
+run_005,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_005,raloxifene,2351,HP:0000239,Large fontanelles
+run_005,ciclosporin,760,HP:0000239,Large fontanelles
+run_005,tiludronic acid,2666,HP:0003272,Abnormal hip bone morphology
+run_005,raloxifene,2351,HP:0003272,Abnormal hip bone morphology
+run_005,testosterone,2607,HP:0003272,Abnormal hip bone morphology
+run_005,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_005,raloxifene,2351,HP:0002758,Osteoarthritis
+run_005,tiludronic acid,2666,HP:0002758,Osteoarthritis
+run_005,ascorbic acid,4072,HP:0002857,Genu valgum
+run_005,raloxifene,2351,HP:0002857,Genu valgum
+run_005,ciclosporin,760,HP:0002857,Genu valgum
+run_005,ascorbic acid,4072,HP:0001659,Aortic regurgitation
+run_005,disulfiram,928,HP:0001659,Aortic regurgitation
+run_005,raloxifene,2351,HP:0001659,Aortic regurgitation
+run_005,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_005,raloxifene,2351,HP:0000767,Pectus excavatum
+run_005,siltuximab,4977,HP:0000767,Pectus excavatum
+run_005,ascorbic acid,4072,HP:0000444,Convex nasal ridge
+run_005,raloxifene,2351,HP:0000444,Convex nasal ridge
+run_005,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_005,ascorbic acid,4072,HP:0000164,Abnormality of the dentition
+run_005,raloxifene,2351,HP:0000164,Abnormality of the dentition
+run_005,tiludronic acid,2666,HP:0000164,Abnormality of the dentition
+run_005,raloxifene,2351,HP:0002019,Constipation
+run_005,ascorbic acid,4072,HP:0002019,Constipation
+run_005,tiludronic acid,2666,HP:0002019,Constipation
+run_005,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_005,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_005,raloxifene,2351,HP:0000703,Dentinogenesis imperfecta
+run_005,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_005,raloxifene,2351,HP:0002980,Femoral bowing
+run_005,ciclosporin,760,HP:0002980,Femoral bowing
+run_005,ascorbic acid,4072,HP:0002015,Dysphagia
+run_005,raloxifene,2351,HP:0002015,Dysphagia
+run_005,dimethyl fumarate,4757,HP:0002015,Dysphagia
+run_005,raloxifene,2351,HP:0001342,Cerebral hemorrhage
+run_005,ascorbic acid,4072,HP:0001342,Cerebral hemorrhage
+run_005,dexamethasone,824,HP:0001342,Cerebral hemorrhage
+run_005,raloxifene,2351,HP:0000248,Brachycephaly
+run_005,ascorbic acid,4072,HP:0000248,Brachycephaly
+run_005,tiludronic acid,2666,HP:0000248,Brachycephaly
+run_005,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_005,raloxifene,2351,HP:0000768,Pectus carinatum
+run_005,ciclosporin,760,HP:0000768,Pectus carinatum
+run_005,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_005,raloxifene,2351,HP:0003312,Abnormal form of the vertebral bodies
+run_005,tiludronic acid,2666,HP:0003312,Abnormal form of the vertebral bodies
+run_005,raloxifene,2351,HP:0001251,Ataxia
+run_005,ascorbic acid,4072,HP:0001251,Ataxia
+run_005,prednisolone tebutate,2251,HP:0001251,Ataxia
+run_005,ascorbic acid,4072,HP:0000938,Osteopenia
+run_005,raloxifene,2351,HP:0000938,Osteopenia
+run_005,siltuximab,4977,HP:0000938,Osteopenia
+run_005,raloxifene,2351,HP:0000682,Abnormal dental enamel morphology
+run_005,tiludronic acid,2666,HP:0000682,Abnormal dental enamel morphology
+run_005,ascorbic acid,4072,HP:0000682,Abnormal dental enamel morphology
+run_005,tiludronic acid,2666,HP:0003401,Paresthesia
+run_005,raloxifene,2351,HP:0003401,Paresthesia
+run_005,testosterone,2607,HP:0003401,Paresthesia
+run_005,ascorbic acid,4072,HP:0002650,Scoliosis
+run_005,raloxifene,2351,HP:0002650,Scoliosis
+run_005,ciclosporin,760,HP:0002650,Scoliosis
+run_005,tiludronic acid,2666,HP:0001730,Progressive hearing impairment
+run_005,raloxifene,2351,HP:0001730,Progressive hearing impairment
+run_005,testosterone,2607,HP:0001730,Progressive hearing impairment
+run_005,ascorbic acid,4072,HP:0007957,Corneal opacity
+run_005,raloxifene,2351,HP:0007957,Corneal opacity
+run_005,tiludronic acid,2666,HP:0007957,Corneal opacity
+run_005,ascorbic acid,4072,HP:0001510,Growth delay
+run_005,raloxifene,2351,HP:0001510,Growth delay
+run_005,siltuximab,4977,HP:0001510,Growth delay
+run_005,ascorbic acid,4072,HP:0003100,Slender long bone
+run_005,ciclosporin,760,HP:0003100,Slender long bone
+run_005,tacrolimus,2552,HP:0003100,Slender long bone
+run_005,tiludronic acid,2666,HP:0000269,Prominent occiput
+run_005,raloxifene,2351,HP:0000269,Prominent occiput
+run_005,ascorbic acid,4072,HP:0000269,Prominent occiput
+run_005,raloxifene,2351,HP:0000256,Macrocephaly
+run_005,ascorbic acid,4072,HP:0000256,Macrocephaly
+run_005,tiludronic acid,2666,HP:0000256,Macrocephaly
+run_005,tiludronic acid,2666,HP:0002089,Pulmonary hypoplasia
+run_005,raloxifene,2351,HP:0002089,Pulmonary hypoplasia
+run_005,ascorbic acid,4072,HP:0002089,Pulmonary hypoplasia
+run_005,raloxifene,2351,HP:0002512,Brain stem compression
+run_005,tiludronic acid,2666,HP:0002512,Brain stem compression
+run_005,ascorbic acid,4072,HP:0002512,Brain stem compression
+run_005,ascorbic acid,4072,HP:0000347,Micrognathia
+run_005,raloxifene,2351,HP:0000347,Micrognathia
+run_005,ciclosporin,760,HP:0000347,Micrognathia
+run_005,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_005,ascorbic acid,4072,HP:0030680,Abnormality of cardiovascular system morphology
+run_005,tiludronic acid,2666,HP:0030680,Abnormality of cardiovascular system morphology
+run_005,tiludronic acid,2666,HP:0004621,Enlarged vertebral pedicles
+run_005,raloxifene,2351,HP:0004621,Enlarged vertebral pedicles
+run_005,testosterone,2607,HP:0004621,Enlarged vertebral pedicles
+run_005,ascorbic acid,4072,HP:0004322,Short stature
+run_005,raloxifene,2351,HP:0004322,Short stature
+run_005,ciclosporin,760,HP:0004322,Short stature
+run_005,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_005,raloxifene,2351,HP:0000365,Hearing impairment
+run_005,ciclosporin,760,HP:0000365,Hearing impairment
+run_005,tiludronic acid,2666,HP:0010953,Noncommunicating hydrocephalus
+run_005,raloxifene,2351,HP:0010953,Noncommunicating hydrocephalus
+run_005,testosterone,2607,HP:0010953,Noncommunicating hydrocephalus
+run_005,raloxifene,2351,HP:0000772,Abnormality of the ribs
+run_005,ascorbic acid,4072,HP:0000772,Abnormality of the ribs
+run_005,tiludronic acid,2666,HP:0000772,Abnormality of the ribs
+run_005,tiludronic acid,2666,HP:0030268,Hyperplastic callus formation
+run_005,raloxifene,2351,HP:0030268,Hyperplastic callus formation
+run_005,ciclosporin,760,HP:0030268,Hyperplastic callus formation
+run_005,tiludronic acid,2666,HP:0002273,Tetraparesis
+run_005,raloxifene,2351,HP:0002273,Tetraparesis
+run_005,ascorbic acid,4072,HP:0002273,Tetraparesis
+run_005,raloxifene,2351,HP:0000684,Delayed eruption of teeth
+run_005,ascorbic acid,4072,HP:0000684,Delayed eruption of teeth
+run_005,tiludronic acid,2666,HP:0000684,Delayed eruption of teeth
+run_005,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_005,ascorbic acid,4072,HP:0002823,Abnormality of femur morphology
+run_005,tiludronic acid,2666,HP:0002823,Abnormality of femur morphology
+run_005,ascorbic acid,4072,HP:0000939,Osteoporosis
+run_005,ciclosporin,760,HP:0000939,Osteoporosis
+run_005,prednisolone,2245,HP:0000939,Osteoporosis
+run_005,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_005,raloxifene,2351,HP:0000023,Inguinal hernia
+run_005,tiludronic acid,2666,HP:0000023,Inguinal hernia
+run_005,tiludronic acid,2666,HP:0000973,Cutis laxa
+run_005,ascorbic acid,4072,HP:0000973,Cutis laxa
+run_005,raloxifene,2351,HP:0000973,Cutis laxa
+run_005,raloxifene,2351,HP:0001873,Thrombocytopenia
+run_005,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_005,prednisolone tebutate,2251,HP:0001873,Thrombocytopenia
+run_005,tiludronic acid,2666,HP:0000787,Nephrolithiasis
+run_005,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_005,raloxifene,2351,HP:0000787,Nephrolithiasis
+run_005,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_005,ascorbic acid,4072,HP:0011314,Abnormality of long bone morphology
+run_005,tiludronic acid,2666,HP:0011314,Abnormality of long bone morphology
+run_005,raloxifene,2351,HP:0002643,Neonatal respiratory distress
+run_005,ascorbic acid,4072,HP:0002643,Neonatal respiratory distress
+run_005,tiludronic acid,2666,HP:0002643,Neonatal respiratory distress
+run_005,tiludronic acid,2666,HP:0100761,Visceral angiomatosis
+run_005,raloxifene,2351,HP:0100761,Visceral angiomatosis
+run_005,testosterone,2607,HP:0100761,Visceral angiomatosis
+run_005,ascorbic acid,4072,HP:0002808,Kyphosis
+run_005,raloxifene,2351,HP:0002808,Kyphosis
+run_005,tiludronic acid,2666,HP:0002808,Kyphosis
+run_005,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_005,raloxifene,2351,HP:0003083,Dislocated radial head
+run_005,tiludronic acid,2666,HP:0003083,Dislocated radial head
+run_005,raloxifene,2351,HP:0000689,Dental malocclusion
+run_005,tiludronic acid,2666,HP:0000689,Dental malocclusion
+run_005,ascorbic acid,4072,HP:0000689,Dental malocclusion
+run_005,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_005,raloxifene,2351,HP:0002953,Vertebral compression fracture
+run_005,tiludronic acid,2666,HP:0002953,Vertebral compression fracture
+run_005,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_005,raloxifene,2351,HP:0000592,Blue sclerae
+run_005,ciclosporin,760,HP:0000592,Blue sclerae
+run_005,ascorbic acid,4072,HP:0000238,Hydrocephalus
+run_005,raloxifene,2351,HP:0000238,Hydrocephalus
+run_005,siltuximab,4977,HP:0000238,Hydrocephalus
+run_005,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_005,raloxifene,2351,HP:0006487,Bowing of the long bones
+run_005,tiludronic acid,2666,HP:0006487,Bowing of the long bones
+run_005,tiludronic acid,2666,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_005,raloxifene,2351,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_005,testosterone,2607,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_005,ascorbic acid,4072,HP:0002647,Aortic dissection
+run_005,raloxifene,2351,HP:0002647,Aortic dissection
+run_005,tiludronic acid,2666,HP:0002647,Aortic dissection
+run_005,ascorbic acid,4072,HP:0008905,Rhizomelia
+run_005,tiludronic acid,2666,HP:0008905,Rhizomelia
+run_005,raloxifene,2351,HP:0008905,Rhizomelia
+run_005,ascorbic acid,4072,HP:0000501,Glaucoma
+run_005,raloxifene,2351,HP:0000501,Glaucoma
+run_005,tiludronic acid,2666,HP:0000501,Glaucoma
+run_005,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_005,raloxifene,2351,HP:0001634,Mitral valve prolapse
+run_005,tiludronic acid,2666,HP:0001634,Mitral valve prolapse
+run_005,ascorbic acid,4072,HP:0002616,Aortic root aneurysm
+run_005,raloxifene,2351,HP:0002616,Aortic root aneurysm
+run_005,disulfiram,928,HP:0002616,Aortic root aneurysm
+run_005,tiludronic acid,2666,HP:0006957,Loss of ability to walk
+run_005,raloxifene,2351,HP:0006957,Loss of ability to walk
+run_005,testosterone,2607,HP:0006957,Loss of ability to walk
+run_005,raloxifene,2351,HP:0002315,Headache
+run_005,ascorbic acid,4072,HP:0002315,Headache
+run_005,tiludronic acid,2666,HP:0002315,Headache
+run_005,raloxifene,2351,HP:0006824,Cranial nerve paralysis
+run_005,tiludronic acid,2666,HP:0006824,Cranial nerve paralysis
+run_005,ascorbic acid,4072,HP:0006824,Cranial nerve paralysis
+run_005,ascorbic acid,4072,HP:0000639,Nystagmus
+run_005,raloxifene,2351,HP:0000639,Nystagmus
+run_005,tiludronic acid,2666,HP:0000639,Nystagmus
+run_005,ascorbic acid,4072,HP:0000325,Triangular face
+run_005,raloxifene,2351,HP:0000325,Triangular face
+run_005,ciclosporin,760,HP:0000325,Triangular face
+run_005,tiludronic acid,2666,HP:0003396,Syringomyelia
+run_005,raloxifene,2351,HP:0003396,Syringomyelia
+run_005,ciclosporin,760,HP:0003396,Syringomyelia
+run_005,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_005,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_005,raloxifene,2351,HP:0004586,Biconcave vertebral bodies
+run_005,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_005,tiludronic acid,2666,HP:0003103,Abnormal cortical bone morphology
+run_005,ascorbic acid,4072,HP:0003103,Abnormal cortical bone morphology
+run_005,ascorbic acid,4072,HP:0011073,Abnormality of dental color
+run_005,raloxifene,2351,HP:0011073,Abnormality of dental color
+run_005,tiludronic acid,2666,HP:0011073,Abnormality of dental color
+run_005,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_005,raloxifene,2351,HP:0005692,Joint hyperflexibility
+run_005,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_005,ascorbic acid,4072,HP:0004942,Aortic aneurysm
+run_005,raloxifene,2351,HP:0004942,Aortic aneurysm
+run_005,tiludronic acid,2666,HP:0004942,Aortic aneurysm
+run_005,ascorbic acid,4072,HP:0000944,Abnormality of the metaphysis
+run_005,raloxifene,2351,HP:0000944,Abnormality of the metaphysis
+run_005,tiludronic acid,2666,HP:0000944,Abnormality of the metaphysis
+run_005,raloxifene,2351,HP:0100661,Trigeminal neuralgia
+run_005,tiludronic acid,2666,HP:0100661,Trigeminal neuralgia
+run_005,ascorbic acid,4072,HP:0100661,Trigeminal neuralgia
+run_005,tiludronic acid,2666,HP:0003084,Fractures of the long bones
+run_005,raloxifene,2351,HP:0003084,Fractures of the long bones
+run_005,testosterone,2607,HP:0003084,Fractures of the long bones
+run_005,ascorbic acid,4072,HP:0003179,Protrusio acetabuli
+run_005,raloxifene,2351,HP:0003179,Protrusio acetabuli
+run_005,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_005,tiludronic acid,2666,HP:0006640,Multiple rib fractures
+run_005,raloxifene,2351,HP:0006640,Multiple rib fractures
+run_005,ascorbic acid,4072,HP:0006640,Multiple rib fractures
+run_005,ascorbic acid,4072,HP:0001518,Small for gestational age
+run_005,raloxifene,2351,HP:0001518,Small for gestational age
+run_005,ciclosporin,760,HP:0001518,Small for gestational age
+run_005,ascorbic acid,4072,HP:0000774,Narrow chest
+run_005,raloxifene,2351,HP:0000774,Narrow chest
+run_005,tiludronic acid,2666,HP:0000774,Narrow chest
+run_005,tiludronic acid,2666,HP:0012366,Basilar invagination
+run_005,raloxifene,2351,HP:0012366,Basilar invagination
+run_005,testosterone,2607,HP:0012366,Basilar invagination
+run_005,ascorbic acid,4072,HP:0000410,Mixed hearing impairment
+run_005,raloxifene,2351,HP:0000410,Mixed hearing impairment
+run_005,tiludronic acid,2666,HP:0000410,Mixed hearing impairment
+run_005,ascorbic acid,4072,HP:0000505,Visual impairment
+run_005,raloxifene,2351,HP:0000505,Visual impairment
+run_005,tiludronic acid,2666,HP:0000505,Visual impairment
+run_005,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_005,raloxifene,2351,HP:0001382,Joint hypermobility
+run_005,tiludronic acid,2666,HP:0001382,Joint hypermobility
+run_005,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_005,ciclosporin,760,HP:0002757,Recurrent fractures
+run_005,raloxifene,2351,HP:0002757,Recurrent fractures
+run_005,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_005,tiludronic acid,2666,HP:0002992,Abnormality of tibia morphology
+run_005,doxorubicin,960,HP:0002992,Abnormality of tibia morphology
+run_005,ascorbic acid,4072,HP:0002829,Arthralgia
+run_005,raloxifene,2351,HP:0002829,Arthralgia
+run_005,tiludronic acid,2666,HP:0002829,Arthralgia
+run_005,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_005,raloxifene,2351,HP:0001371,Flexion contracture
+run_005,ciclosporin,760,HP:0001371,Flexion contracture
+run_005,raloxifene,2351,HP:0002653,Bone pain
+run_005,tiludronic acid,2666,HP:0002653,Bone pain
+run_005,ascorbic acid,4072,HP:0002653,Bone pain
+run_005,tiludronic acid,2666,HP:0005214,Intestinal obstruction
+run_005,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_005,testosterone,2607,HP:0005214,Intestinal obstruction
+run_005,ascorbic acid,4072,HP:0001288,Gait disturbance
+run_005,raloxifene,2351,HP:0001288,Gait disturbance
+run_005,dexamethasone,824,HP:0001288,Gait disturbance
+run_005,tiludronic acid,2666,HP:0004482,Relative macrocephaly
+run_005,ascorbic acid,4072,HP:0004482,Relative macrocephaly
+run_005,raloxifene,2351,HP:0004482,Relative macrocephaly
+run_005,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_005,raloxifene,2351,HP:0000975,Hyperhidrosis
+run_005,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_005,tiludronic acid,2666,HP:0002947,Cervical kyphosis
+run_005,raloxifene,2351,HP:0002947,Cervical kyphosis
+run_005,testosterone,2607,HP:0002947,Cervical kyphosis
+run_005,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_005,raloxifene,2351,HP:0005257,Thoracic hypoplasia
+run_005,tiludronic acid,2666,HP:0005257,Thoracic hypoplasia
+run_005,ascorbic acid,4072,HP:0000670,Carious teeth
+run_005,raloxifene,2351,HP:0000670,Carious teeth
+run_005,tiludronic acid,2666,HP:0000670,Carious teeth
+run_005,raloxifene,2351,HP:0001511,Intrauterine growth retardation
+run_005,ascorbic acid,4072,HP:0001511,Intrauterine growth retardation
+run_005,tiludronic acid,2666,HP:0001511,Intrauterine growth retardation
+run_005,tiludronic acid,2666,HP:0004331,Decreased skull ossification
+run_005,raloxifene,2351,HP:0004331,Decreased skull ossification
+run_005,ascorbic acid,4072,HP:0004331,Decreased skull ossification
+run_005,tiludronic acid,2666,HP:0002011,Morphological central nervous system abnormality
+run_005,raloxifene,2351,HP:0002011,Morphological central nervous system abnormality
+run_005,testosterone,2607,HP:0002011,Morphological central nervous system abnormality
+run_005,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_005,raloxifene,2351,HP:0001537,Umbilical hernia
+run_005,tiludronic acid,2666,HP:0001537,Umbilical hernia
+run_005,ascorbic acid,4072,HP:0002645,Wormian bones
+run_005,ciclosporin,760,HP:0002645,Wormian bones
+run_005,raloxifene,2351,HP:0002645,Wormian bones
+run_005,ascorbic acid,4072,HP:0000883,Thin ribs
+run_005,raloxifene,2351,HP:0000883,Thin ribs
+run_005,tiludronic acid,2666,HP:0000883,Thin ribs
+run_005,tiludronic acid,2666,HP:0004306,Abnormal endocardium morphology
+run_005,raloxifene,2351,HP:0004306,Abnormal endocardium morphology
+run_005,testosterone,2607,HP:0004306,Abnormal endocardium morphology
+run_005,tiludronic acid,2666,HP:0003474,Somatic sensory dysfunction
+run_005,raloxifene,2351,HP:0003474,Somatic sensory dysfunction
+run_005,testosterone,2607,HP:0003474,Somatic sensory dysfunction
+run_005,raloxifene,2351,HP:0002150,Hypercalciuria
+run_005,tiludronic acid,2666,HP:0002150,Hypercalciuria
+run_005,ascorbic acid,4072,HP:0002150,Hypercalciuria
+run_005,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_005,raloxifene,2351,HP:0005294,Arterial dissection
+run_005,tiludronic acid,2666,HP:0005294,Arterial dissection
+run_005,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_005,raloxifene,2351,HP:0002119,Ventriculomegaly
+run_005,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_005,ascorbic acid,4072,HP:0002983,Micromelia
+run_005,raloxifene,2351,HP:0002983,Micromelia
+run_005,tiludronic acid,2666,HP:0002983,Micromelia
+run_005,raloxifene,2351,HP:0002659,Increased susceptibility to fractures
+run_005,ascorbic acid,4072,HP:0002659,Increased susceptibility to fractures
+run_005,tiludronic acid,2666,HP:0002659,Increased susceptibility to fractures
+run_005,tiludronic acid,2666,HP:0005019,Diaphyseal thickening
+run_005,testosterone,2607,HP:0005019,Diaphyseal thickening
+run_005,nandrolone,1879,HP:0005019,Diaphyseal thickening
+run_006,prednisolone tebutate,2251,HP:0000978,Bruising susceptibility
+run_006,siltuximab,4977,HP:0000978,Bruising susceptibility
+run_006,caplacizumab,5308,HP:0000978,Bruising susceptibility
+run_006,raloxifene,2351,HP:0000239,Large fontanelles
+run_006,tacrolimus,2552,HP:0000239,Large fontanelles
+run_006,prednisolone tebutate,2251,HP:0000239,Large fontanelles
+run_006,raloxifene,2351,HP:0003272,Abnormal hip bone morphology
+run_006,prednisolone tebutate,2251,HP:0003272,Abnormal hip bone morphology
+run_006,prednisolone,2245,HP:0003272,Abnormal hip bone morphology
+run_006,prednisolone tebutate,2251,HP:0002758,Osteoarthritis
+run_006,siltuximab,4977,HP:0002758,Osteoarthritis
+run_006,prednisolone,2245,HP:0002758,Osteoarthritis
+run_006,raloxifene,2351,HP:0002857,Genu valgum
+run_006,prednisolone tebutate,2251,HP:0002857,Genu valgum
+run_006,siltuximab,4977,HP:0002857,Genu valgum
+run_006,raloxifene,2351,HP:0001659,Aortic regurgitation
+run_006,siltuximab,4977,HP:0001659,Aortic regurgitation
+run_006,prednisolone tebutate,2251,HP:0001659,Aortic regurgitation
+run_006,siltuximab,4977,HP:0000767,Pectus excavatum
+run_006,raloxifene,2351,HP:0000767,Pectus excavatum
+run_006,prednisolone tebutate,2251,HP:0000767,Pectus excavatum
+run_006,raloxifene,2351,HP:0000444,Convex nasal ridge
+run_006,prednisolone tebutate,2251,HP:0000444,Convex nasal ridge
+run_006,prednisolone,2245,HP:0000444,Convex nasal ridge
+run_006,raloxifene,2351,HP:0000164,Abnormality of the dentition
+run_006,siltuximab,4977,HP:0000164,Abnormality of the dentition
+run_006,prednisolone tebutate,2251,HP:0000164,Abnormality of the dentition
+run_006,prednisolone tebutate,2251,HP:0002019,Constipation
+run_006,raloxifene,2351,HP:0002019,Constipation
+run_006,siltuximab,4977,HP:0002019,Constipation
+run_006,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_006,prednisolone tebutate,2251,HP:0000703,Dentinogenesis imperfecta
+run_006,prednisolone,2245,HP:0000703,Dentinogenesis imperfecta
+run_006,prednisolone tebutate,2251,HP:0002980,Femoral bowing
+run_006,tacrolimus,2552,HP:0002980,Femoral bowing
+run_006,prednisolone,2245,HP:0002980,Femoral bowing
+run_006,siltuximab,4977,HP:0002015,Dysphagia
+run_006,prednisolone tebutate,2251,HP:0002015,Dysphagia
+run_006,prednisolone,2245,HP:0002015,Dysphagia
+run_006,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_006,losartan,1610,HP:0001342,Cerebral hemorrhage
+run_006,prednisolone tebutate,2251,HP:0001342,Cerebral hemorrhage
+run_006,raloxifene,2351,HP:0000248,Brachycephaly
+run_006,siltuximab,4977,HP:0000248,Brachycephaly
+run_006,prednisolone tebutate,2251,HP:0000248,Brachycephaly
+run_006,raloxifene,2351,HP:0000768,Pectus carinatum
+run_006,prednisolone tebutate,2251,HP:0000768,Pectus carinatum
+run_006,prednisolone,2245,HP:0000768,Pectus carinatum
+run_006,raloxifene,2351,HP:0003312,Abnormal form of the vertebral bodies
+run_006,prednisolone tebutate,2251,HP:0003312,Abnormal form of the vertebral bodies
+run_006,siltuximab,4977,HP:0003312,Abnormal form of the vertebral bodies
+run_006,siltuximab,4977,HP:0001251,Ataxia
+run_006,prednisolone tebutate,2251,HP:0001251,Ataxia
+run_006,prednisolone,2245,HP:0001251,Ataxia
+run_006,siltuximab,4977,HP:0000938,Osteopenia
+run_006,prednisolone tebutate,2251,HP:0000938,Osteopenia
+run_006,raloxifene,2351,HP:0000938,Osteopenia
+run_006,raloxifene,2351,HP:0000682,Abnormal dental enamel morphology
+run_006,prednisolone tebutate,2251,HP:0000682,Abnormal dental enamel morphology
+run_006,prednisolone,2245,HP:0000682,Abnormal dental enamel morphology
+run_006,raloxifene,2351,HP:0003401,Paresthesia
+run_006,prednisolone tebutate,2251,HP:0003401,Paresthesia
+run_006,prednisolone,2245,HP:0003401,Paresthesia
+run_006,siltuximab,4977,HP:0002650,Scoliosis
+run_006,ciclosporin,760,HP:0002650,Scoliosis
+run_006,raloxifene,2351,HP:0002650,Scoliosis
+run_006,raloxifene,2351,HP:0001730,Progressive hearing impairment
+run_006,prednisolone tebutate,2251,HP:0001730,Progressive hearing impairment
+run_006,prednisolone,2245,HP:0001730,Progressive hearing impairment
+run_006,losartan,1610,HP:0007957,Corneal opacity
+run_006,siltuximab,4977,HP:0007957,Corneal opacity
+run_006,raloxifene,2351,HP:0007957,Corneal opacity
+run_006,siltuximab,4977,HP:0001510,Growth delay
+run_006,losartan,1610,HP:0001510,Growth delay
+run_006,raloxifene,2351,HP:0001510,Growth delay
+run_006,prednisolone tebutate,2251,HP:0003100,Slender long bone
+run_006,tacrolimus,2552,HP:0003100,Slender long bone
+run_006,prednisolone,2245,HP:0003100,Slender long bone
+run_006,raloxifene,2351,HP:0000269,Prominent occiput
+run_006,prednisolone tebutate,2251,HP:0000269,Prominent occiput
+run_006,prednisolone,2245,HP:0000269,Prominent occiput
+run_006,raloxifene,2351,HP:0000256,Macrocephaly
+run_006,siltuximab,4977,HP:0000256,Macrocephaly
+run_006,prednisolone tebutate,2251,HP:0000256,Macrocephaly
+run_006,raloxifene,2351,HP:0002089,Pulmonary hypoplasia
+run_006,siltuximab,4977,HP:0002089,Pulmonary hypoplasia
+run_006,prednisolone tebutate,2251,HP:0002089,Pulmonary hypoplasia
+run_006,raloxifene,2351,HP:0002512,Brain stem compression
+run_006,prednisolone tebutate,2251,HP:0002512,Brain stem compression
+run_006,prednisolone,2245,HP:0002512,Brain stem compression
+run_006,siltuximab,4977,HP:0000347,Micrognathia
+run_006,raloxifene,2351,HP:0000347,Micrognathia
+run_006,prednisolone tebutate,2251,HP:0000347,Micrognathia
+run_006,siltuximab,4977,HP:0030680,Abnormality of cardiovascular system morphology
+run_006,prednisolone tebutate,2251,HP:0030680,Abnormality of cardiovascular system morphology
+run_006,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_006,raloxifene,2351,HP:0004621,Enlarged vertebral pedicles
+run_006,prednisolone tebutate,2251,HP:0004621,Enlarged vertebral pedicles
+run_006,prednisolone,2245,HP:0004621,Enlarged vertebral pedicles
+run_006,siltuximab,4977,HP:0004322,Short stature
+run_006,raloxifene,2351,HP:0004322,Short stature
+run_006,prednisolone tebutate,2251,HP:0004322,Short stature
+run_006,ciclosporin,760,HP:0000365,Hearing impairment
+run_006,tacrolimus,2552,HP:0000365,Hearing impairment
+run_006,siltuximab,4977,HP:0000365,Hearing impairment
+run_006,raloxifene,2351,HP:0010953,Noncommunicating hydrocephalus
+run_006,prednisolone tebutate,2251,HP:0010953,Noncommunicating hydrocephalus
+run_006,prednisolone,2245,HP:0010953,Noncommunicating hydrocephalus
+run_006,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_006,raloxifene,2351,HP:0000772,Abnormality of the ribs
+run_006,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_006,raloxifene,2351,HP:0030268,Hyperplastic callus formation
+run_006,prednisolone tebutate,2251,HP:0030268,Hyperplastic callus formation
+run_006,prednisolone,2245,HP:0030268,Hyperplastic callus formation
+run_006,prednisolone tebutate,2251,HP:0002273,Tetraparesis
+run_006,raloxifene,2351,HP:0002273,Tetraparesis
+run_006,prednisolone,2245,HP:0002273,Tetraparesis
+run_006,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_006,losartan,1610,HP:0000684,Delayed eruption of teeth
+run_006,prednisolone tebutate,2251,HP:0000684,Delayed eruption of teeth
+run_006,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_006,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_006,losartan,1610,HP:0002823,Abnormality of femur morphology
+run_006,losartan,1610,HP:0000939,Osteoporosis
+run_006,siltuximab,4977,HP:0000939,Osteoporosis
+run_006,prednisolone tebutate,2251,HP:0000939,Osteoporosis
+run_006,siltuximab,4977,HP:0000023,Inguinal hernia
+run_006,prednisolone tebutate,2251,HP:0000023,Inguinal hernia
+run_006,raloxifene,2351,HP:0000023,Inguinal hernia
+run_006,raloxifene,2351,HP:0000973,Cutis laxa
+run_006,prednisolone tebutate,2251,HP:0000973,Cutis laxa
+run_006,siltuximab,4977,HP:0000973,Cutis laxa
+run_006,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_006,losartan,1610,HP:0001873,Thrombocytopenia
+run_006,prazosin,4209,HP:0001873,Thrombocytopenia
+run_006,raloxifene,2351,HP:0000787,Nephrolithiasis
+run_006,prednisolone tebutate,2251,HP:0000787,Nephrolithiasis
+run_006,prednisolone,2245,HP:0000787,Nephrolithiasis
+run_006,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_006,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_006,prednisolone tebutate,2251,HP:0011314,Abnormality of long bone morphology
+run_006,siltuximab,4977,HP:0002643,Neonatal respiratory distress
+run_006,raloxifene,2351,HP:0002643,Neonatal respiratory distress
+run_006,prednisolone tebutate,2251,HP:0002643,Neonatal respiratory distress
+run_006,raloxifene,2351,HP:0100761,Visceral angiomatosis
+run_006,prednisolone tebutate,2251,HP:0100761,Visceral angiomatosis
+run_006,prednisolone,2245,HP:0100761,Visceral angiomatosis
+run_006,siltuximab,4977,HP:0002808,Kyphosis
+run_006,prednisolone tebutate,2251,HP:0002808,Kyphosis
+run_006,raloxifene,2351,HP:0002808,Kyphosis
+run_006,prednisolone tebutate,2251,HP:0003083,Dislocated radial head
+run_006,prednisolone,2245,HP:0003083,Dislocated radial head
+run_006,raloxifene,2351,HP:0003083,Dislocated radial head
+run_006,siltuximab,4977,HP:0000689,Dental malocclusion
+run_006,raloxifene,2351,HP:0000689,Dental malocclusion
+run_006,prednisolone tebutate,2251,HP:0000689,Dental malocclusion
+run_006,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_006,prednisolone tebutate,2251,HP:0002953,Vertebral compression fracture
+run_006,prednisolone,2245,HP:0002953,Vertebral compression fracture
+run_006,prednisolone tebutate,2251,HP:0000592,Blue sclerae
+run_006,prednisolone,2245,HP:0000592,Blue sclerae
+run_006,raloxifene,2351,HP:0000592,Blue sclerae
+run_006,siltuximab,4977,HP:0000238,Hydrocephalus
+run_006,prednisolone tebutate,2251,HP:0000238,Hydrocephalus
+run_006,prednisolone,2245,HP:0000238,Hydrocephalus
+run_006,siltuximab,4977,HP:0006487,Bowing of the long bones
+run_006,raloxifene,2351,HP:0006487,Bowing of the long bones
+run_006,prednisolone tebutate,2251,HP:0006487,Bowing of the long bones
+run_006,raloxifene,2351,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_006,prednisolone tebutate,2251,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_006,prednisolone,2245,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_006,siltuximab,4977,HP:0002647,Aortic dissection
+run_006,prednisolone,2245,HP:0002647,Aortic dissection
+run_006,prednisolone tebutate,2251,HP:0002647,Aortic dissection
+run_006,prednisolone tebutate,2251,HP:0008905,Rhizomelia
+run_006,raloxifene,2351,HP:0008905,Rhizomelia
+run_006,prednisolone,2245,HP:0008905,Rhizomelia
+run_006,siltuximab,4977,HP:0000501,Glaucoma
+run_006,raloxifene,2351,HP:0000501,Glaucoma
+run_006,losartan,1610,HP:0000501,Glaucoma
+run_006,siltuximab,4977,HP:0001634,Mitral valve prolapse
+run_006,prednisolone tebutate,2251,HP:0001634,Mitral valve prolapse
+run_006,raloxifene,2351,HP:0001634,Mitral valve prolapse
+run_006,raloxifene,2351,HP:0002616,Aortic root aneurysm
+run_006,prednisolone tebutate,2251,HP:0002616,Aortic root aneurysm
+run_006,prednisolone,2245,HP:0002616,Aortic root aneurysm
+run_006,raloxifene,2351,HP:0006957,Loss of ability to walk
+run_006,prednisolone tebutate,2251,HP:0006957,Loss of ability to walk
+run_006,prednisolone,2245,HP:0006957,Loss of ability to walk
+run_006,prednisolone tebutate,2251,HP:0002315,Headache
+run_006,siltuximab,4977,HP:0002315,Headache
+run_006,raloxifene,2351,HP:0002315,Headache
+run_006,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_006,raloxifene,2351,HP:0006824,Cranial nerve paralysis
+run_006,prednisolone tebutate,2251,HP:0006824,Cranial nerve paralysis
+run_006,siltuximab,4977,HP:0000639,Nystagmus
+run_006,prednisolone tebutate,2251,HP:0000639,Nystagmus
+run_006,losartan,1610,HP:0000639,Nystagmus
+run_006,tacrolimus,2552,HP:0000325,Triangular face
+run_006,ciclosporin,760,HP:0000325,Triangular face
+run_006,raloxifene,2351,HP:0000325,Triangular face
+run_006,raloxifene,2351,HP:0003396,Syringomyelia
+run_006,prednisolone tebutate,2251,HP:0003396,Syringomyelia
+run_006,prednisolone,2245,HP:0003396,Syringomyelia
+run_006,raloxifene,2351,HP:0004586,Biconcave vertebral bodies
+run_006,prednisolone tebutate,2251,HP:0004586,Biconcave vertebral bodies
+run_006,prednisolone,2245,HP:0004586,Biconcave vertebral bodies
+run_006,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_006,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_006,prednisolone tebutate,2251,HP:0003103,Abnormal cortical bone morphology
+run_006,raloxifene,2351,HP:0011073,Abnormality of dental color
+run_006,prednisolone tebutate,2251,HP:0011073,Abnormality of dental color
+run_006,prednisolone,2245,HP:0011073,Abnormality of dental color
+run_006,prednisolone tebutate,2251,HP:0005692,Joint hyperflexibility
+run_006,siltuximab,4977,HP:0005692,Joint hyperflexibility
+run_006,raloxifene,2351,HP:0005692,Joint hyperflexibility
+run_006,siltuximab,4977,HP:0004942,Aortic aneurysm
+run_006,raloxifene,2351,HP:0004942,Aortic aneurysm
+run_006,prednisolone tebutate,2251,HP:0004942,Aortic aneurysm
+run_006,siltuximab,4977,HP:0000944,Abnormality of the metaphysis
+run_006,raloxifene,2351,HP:0000944,Abnormality of the metaphysis
+run_006,prednisolone tebutate,2251,HP:0000944,Abnormality of the metaphysis
+run_006,raloxifene,2351,HP:0100661,Trigeminal neuralgia
+run_006,prednisolone tebutate,2251,HP:0100661,Trigeminal neuralgia
+run_006,prednisolone,2245,HP:0100661,Trigeminal neuralgia
+run_006,raloxifene,2351,HP:0003084,Fractures of the long bones
+run_006,prednisolone tebutate,2251,HP:0003084,Fractures of the long bones
+run_006,prednisolone,2245,HP:0003084,Fractures of the long bones
+run_006,prednisolone tebutate,2251,HP:0003179,Protrusio acetabuli
+run_006,raloxifene,2351,HP:0003179,Protrusio acetabuli
+run_006,prednisolone,2245,HP:0003179,Protrusio acetabuli
+run_006,raloxifene,2351,HP:0006640,Multiple rib fractures
+run_006,prednisolone tebutate,2251,HP:0006640,Multiple rib fractures
+run_006,prednisolone,2245,HP:0006640,Multiple rib fractures
+run_006,prednisolone tebutate,2251,HP:0001518,Small for gestational age
+run_006,raloxifene,2351,HP:0001518,Small for gestational age
+run_006,prednisolone,2245,HP:0001518,Small for gestational age
+run_006,prednisolone tebutate,2251,HP:0000774,Narrow chest
+run_006,raloxifene,2351,HP:0000774,Narrow chest
+run_006,siltuximab,4977,HP:0000774,Narrow chest
+run_006,raloxifene,2351,HP:0012366,Basilar invagination
+run_006,prednisolone tebutate,2251,HP:0012366,Basilar invagination
+run_006,prednisolone,2245,HP:0012366,Basilar invagination
+run_006,raloxifene,2351,HP:0000410,Mixed hearing impairment
+run_006,siltuximab,4977,HP:0000410,Mixed hearing impairment
+run_006,prednisolone tebutate,2251,HP:0000410,Mixed hearing impairment
+run_006,siltuximab,4977,HP:0000505,Visual impairment
+run_006,prednisolone tebutate,2251,HP:0000505,Visual impairment
+run_006,raloxifene,2351,HP:0000505,Visual impairment
+run_006,prednisolone tebutate,2251,HP:0001382,Joint hypermobility
+run_006,prednisolone,2245,HP:0001382,Joint hypermobility
+run_006,raloxifene,2351,HP:0001382,Joint hypermobility
+run_006,prednisolone tebutate,2251,HP:0002757,Recurrent fractures
+run_006,raloxifene,2351,HP:0002757,Recurrent fractures
+run_006,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_006,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_006,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_006,prednisolone tebutate,2251,HP:0002992,Abnormality of tibia morphology
+run_006,prednisolone tebutate,2251,HP:0002829,Arthralgia
+run_006,raloxifene,2351,HP:0002829,Arthralgia
+run_006,siltuximab,4977,HP:0002829,Arthralgia
+run_006,siltuximab,4977,HP:0001371,Flexion contracture
+run_006,prednisolone tebutate,2251,HP:0001371,Flexion contracture
+run_006,raloxifene,2351,HP:0001371,Flexion contracture
+run_006,siltuximab,4977,HP:0002653,Bone pain
+run_006,raloxifene,2351,HP:0002653,Bone pain
+run_006,prednisolone tebutate,2251,HP:0002653,Bone pain
+run_006,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_006,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_006,doxorubicin,960,HP:0005214,Intestinal obstruction
+run_006,siltuximab,4977,HP:0001288,Gait disturbance
+run_006,prednisolone tebutate,2251,HP:0001288,Gait disturbance
+run_006,prednisolone,2245,HP:0001288,Gait disturbance
+run_006,raloxifene,2351,HP:0004482,Relative macrocephaly
+run_006,prednisolone tebutate,2251,HP:0004482,Relative macrocephaly
+run_006,prednisolone,2245,HP:0004482,Relative macrocephaly
+run_006,prednisolone tebutate,2251,HP:0000975,Hyperhidrosis
+run_006,siltuximab,4977,HP:0000975,Hyperhidrosis
+run_006,prednisolone,2245,HP:0000975,Hyperhidrosis
+run_006,raloxifene,2351,HP:0002947,Cervical kyphosis
+run_006,prednisolone tebutate,2251,HP:0002947,Cervical kyphosis
+run_006,prednisolone,2245,HP:0002947,Cervical kyphosis
+run_006,raloxifene,2351,HP:0005257,Thoracic hypoplasia
+run_006,prednisolone tebutate,2251,HP:0005257,Thoracic hypoplasia
+run_006,siltuximab,4977,HP:0005257,Thoracic hypoplasia
+run_006,siltuximab,4977,HP:0000670,Carious teeth
+run_006,raloxifene,2351,HP:0000670,Carious teeth
+run_006,tacrolimus,2552,HP:0000670,Carious teeth
+run_006,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_006,losartan,1610,HP:0001511,Intrauterine growth retardation
+run_006,raloxifene,2351,HP:0001511,Intrauterine growth retardation
+run_006,prednisolone tebutate,2251,HP:0004331,Decreased skull ossification
+run_006,prednisolone,2245,HP:0004331,Decreased skull ossification
+run_006,raloxifene,2351,HP:0004331,Decreased skull ossification
+run_006,raloxifene,2351,HP:0002011,Morphological central nervous system abnormality
+run_006,prednisolone tebutate,2251,HP:0002011,Morphological central nervous system abnormality
+run_006,prednisolone,2245,HP:0002011,Morphological central nervous system abnormality
+run_006,siltuximab,4977,HP:0001537,Umbilical hernia
+run_006,prednisolone tebutate,2251,HP:0001537,Umbilical hernia
+run_006,raloxifene,2351,HP:0001537,Umbilical hernia
+run_006,tacrolimus,2552,HP:0002645,Wormian bones
+run_006,prednisolone tebutate,2251,HP:0002645,Wormian bones
+run_006,raloxifene,2351,HP:0002645,Wormian bones
+run_006,siltuximab,4977,HP:0000883,Thin ribs
+run_006,raloxifene,2351,HP:0000883,Thin ribs
+run_006,tacrolimus,2552,HP:0000883,Thin ribs
+run_006,raloxifene,2351,HP:0004306,Abnormal endocardium morphology
+run_006,prednisolone tebutate,2251,HP:0004306,Abnormal endocardium morphology
+run_006,prednisolone,2245,HP:0004306,Abnormal endocardium morphology
+run_006,raloxifene,2351,HP:0003474,Somatic sensory dysfunction
+run_006,prednisolone tebutate,2251,HP:0003474,Somatic sensory dysfunction
+run_006,prednisolone,2245,HP:0003474,Somatic sensory dysfunction
+run_006,raloxifene,2351,HP:0002150,Hypercalciuria
+run_006,prednisolone tebutate,2251,HP:0002150,Hypercalciuria
+run_006,siltuximab,4977,HP:0002150,Hypercalciuria
+run_006,prednisolone tebutate,2251,HP:0005294,Arterial dissection
+run_006,raloxifene,2351,HP:0005294,Arterial dissection
+run_006,prednisolone,2245,HP:0005294,Arterial dissection
+run_006,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_006,losartan,1610,HP:0002119,Ventriculomegaly
+run_006,raloxifene,2351,HP:0002119,Ventriculomegaly
+run_006,raloxifene,2351,HP:0002983,Micromelia
+run_006,prednisolone tebutate,2251,HP:0002983,Micromelia
+run_006,siltuximab,4977,HP:0002983,Micromelia
+run_006,raloxifene,2351,HP:0002659,Increased susceptibility to fractures
+run_006,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_006,prednisolone tebutate,2251,HP:0002659,Increased susceptibility to fractures
+run_006,raloxifene,2351,HP:0005019,Diaphyseal thickening
+run_006,prednisolone tebutate,2251,HP:0005019,Diaphyseal thickening
+run_006,prednisolone,2245,HP:0005019,Diaphyseal thickening
+run_007,tacrolimus,2552,HP:0000978,Bruising susceptibility
+run_007,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_007,ciclosporin,760,HP:0000978,Bruising susceptibility
+run_007,tacrolimus,2552,HP:0000239,Large fontanelles
+run_007,ciclosporin,760,HP:0000239,Large fontanelles
+run_007,raloxifene,2351,HP:0000239,Large fontanelles
+run_007,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_007,raloxifene,2351,HP:0003272,Abnormal hip bone morphology
+run_007,siltuximab,4977,HP:0003272,Abnormal hip bone morphology
+run_007,siltuximab,4977,HP:0002758,Osteoarthritis
+run_007,prednisolone tebutate,2251,HP:0002758,Osteoarthritis
+run_007,prednisolone,2245,HP:0002758,Osteoarthritis
+run_007,tacrolimus,2552,HP:0002857,Genu valgum
+run_007,raloxifene,2351,HP:0002857,Genu valgum
+run_007,ascorbic acid,4072,HP:0002857,Genu valgum
+run_007,raloxifene,2351,HP:0001659,Aortic regurgitation
+run_007,prednisolone,2245,HP:0001659,Aortic regurgitation
+run_007,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_007,tacrolimus,2552,HP:0000767,Pectus excavatum
+run_007,raloxifene,2351,HP:0000767,Pectus excavatum
+run_007,prednisolone,2245,HP:0000767,Pectus excavatum
+run_007,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_007,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_007,raloxifene,2351,HP:0000444,Convex nasal ridge
+run_007,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_007,raloxifene,2351,HP:0000164,Abnormality of the dentition
+run_007,siltuximab,4977,HP:0000164,Abnormality of the dentition
+run_007,tacrolimus,2552,HP:0002019,Constipation
+run_007,ciclosporin,760,HP:0002019,Constipation
+run_007,raloxifene,2351,HP:0002019,Constipation
+run_007,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_007,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_007,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_007,tacrolimus,2552,HP:0002980,Femoral bowing
+run_007,raloxifene,2351,HP:0002980,Femoral bowing
+run_007,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_007,ciclosporin,760,HP:0002015,Dysphagia
+run_007,siltuximab,4977,HP:0002015,Dysphagia
+run_007,raloxifene,2351,HP:0002015,Dysphagia
+run_007,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_007,raloxifene,2351,HP:0001342,Cerebral hemorrhage
+run_007,caplacizumab,5308,HP:0001342,Cerebral hemorrhage
+run_007,tacrolimus,2552,HP:0000248,Brachycephaly
+run_007,siltuximab,4977,HP:0000248,Brachycephaly
+run_007,raloxifene,2351,HP:0000248,Brachycephaly
+run_007,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_007,ciclosporin,760,HP:0000768,Pectus carinatum
+run_007,raloxifene,2351,HP:0000768,Pectus carinatum
+run_007,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_007,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_007,raloxifene,2351,HP:0003312,Abnormal form of the vertebral bodies
+run_007,tacrolimus,2552,HP:0001251,Ataxia
+run_007,raloxifene,2351,HP:0001251,Ataxia
+run_007,prednisolone,2245,HP:0001251,Ataxia
+run_007,tacrolimus,2552,HP:0000938,Osteopenia
+run_007,siltuximab,4977,HP:0000938,Osteopenia
+run_007,raloxifene,2351,HP:0000938,Osteopenia
+run_007,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_007,ciclosporin,760,HP:0000682,Abnormal dental enamel morphology
+run_007,raloxifene,2351,HP:0000682,Abnormal dental enamel morphology
+run_007,tacrolimus,2552,HP:0003401,Paresthesia
+run_007,raloxifene,2351,HP:0003401,Paresthesia
+run_007,siltuximab,4977,HP:0003401,Paresthesia
+run_007,tacrolimus,2552,HP:0002650,Scoliosis
+run_007,prednisolone tebutate,2251,HP:0002650,Scoliosis
+run_007,raloxifene,2351,HP:0002650,Scoliosis
+run_007,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_007,raloxifene,2351,HP:0001730,Progressive hearing impairment
+run_007,prednisolone,2245,HP:0001730,Progressive hearing impairment
+run_007,siltuximab,4977,HP:0007957,Corneal opacity
+run_007,raloxifene,2351,HP:0007957,Corneal opacity
+run_007,prednisolone tebutate,2251,HP:0007957,Corneal opacity
+run_007,siltuximab,4977,HP:0001510,Growth delay
+run_007,tacrolimus,2552,HP:0001510,Growth delay
+run_007,raloxifene,2351,HP:0001510,Growth delay
+run_007,tacrolimus,2552,HP:0003100,Slender long bone
+run_007,raloxifene,2351,HP:0003100,Slender long bone
+run_007,ascorbic acid,4072,HP:0003100,Slender long bone
+run_007,tacrolimus,2552,HP:0000269,Prominent occiput
+run_007,ciclosporin,760,HP:0000269,Prominent occiput
+run_007,raloxifene,2351,HP:0000269,Prominent occiput
+run_007,tacrolimus,2552,HP:0000256,Macrocephaly
+run_007,raloxifene,2351,HP:0000256,Macrocephaly
+run_007,siltuximab,4977,HP:0000256,Macrocephaly
+run_007,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_007,siltuximab,4977,HP:0002089,Pulmonary hypoplasia
+run_007,prednisolone tebutate,2251,HP:0002089,Pulmonary hypoplasia
+run_007,tacrolimus,2552,HP:0002512,Brain stem compression
+run_007,raloxifene,2351,HP:0002512,Brain stem compression
+run_007,siltuximab,4977,HP:0002512,Brain stem compression
+run_007,tacrolimus,2552,HP:0000347,Micrognathia
+run_007,raloxifene,2351,HP:0000347,Micrognathia
+run_007,ciclosporin,760,HP:0000347,Micrognathia
+run_007,siltuximab,4977,HP:0030680,Abnormality of cardiovascular system morphology
+run_007,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_007,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_007,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_007,raloxifene,2351,HP:0004621,Enlarged vertebral pedicles
+run_007,siltuximab,4977,HP:0004621,Enlarged vertebral pedicles
+run_007,tacrolimus,2552,HP:0004322,Short stature
+run_007,ciclosporin,760,HP:0004322,Short stature
+run_007,dexamethasone,824,HP:0004322,Short stature
+run_007,tacrolimus,2552,HP:0000365,Hearing impairment
+run_007,ciclosporin,760,HP:0000365,Hearing impairment
+run_007,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_007,raloxifene,2351,HP:0010953,Noncommunicating hydrocephalus
+run_007,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_007,prednisolone,2245,HP:0010953,Noncommunicating hydrocephalus
+run_007,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_007,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_007,raloxifene,2351,HP:0000772,Abnormality of the ribs
+run_007,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_007,raloxifene,2351,HP:0030268,Hyperplastic callus formation
+run_007,ciclosporin,760,HP:0030268,Hyperplastic callus formation
+run_007,tacrolimus,2552,HP:0002273,Tetraparesis
+run_007,raloxifene,2351,HP:0002273,Tetraparesis
+run_007,ciclosporin,760,HP:0002273,Tetraparesis
+run_007,raloxifene,2351,HP:0000684,Delayed eruption of teeth
+run_007,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_007,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_007,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_007,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_007,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_007,tacrolimus,2552,HP:0000939,Osteoporosis
+run_007,prednisolone,2245,HP:0000939,Osteoporosis
+run_007,prednisolone tebutate,2251,HP:0000939,Osteoporosis
+run_007,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_007,prednisolone tebutate,2251,HP:0000023,Inguinal hernia
+run_007,ciclosporin,760,HP:0000023,Inguinal hernia
+run_007,tacrolimus,2552,HP:0000973,Cutis laxa
+run_007,siltuximab,4977,HP:0000973,Cutis laxa
+run_007,raloxifene,2351,HP:0000973,Cutis laxa
+run_007,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_007,tacrolimus,2552,HP:0001873,Thrombocytopenia
+run_007,dexamethasone,824,HP:0001873,Thrombocytopenia
+run_007,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_007,raloxifene,2351,HP:0000787,Nephrolithiasis
+run_007,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_007,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_007,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_007,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_007,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_007,raloxifene,2351,HP:0002643,Neonatal respiratory distress
+run_007,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_007,raloxifene,2351,HP:0100761,Visceral angiomatosis
+run_007,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_007,ciclosporin,760,HP:0100761,Visceral angiomatosis
+run_007,siltuximab,4977,HP:0002808,Kyphosis
+run_007,tacrolimus,2552,HP:0002808,Kyphosis
+run_007,dexamethasone,824,HP:0002808,Kyphosis
+run_007,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_007,raloxifene,2351,HP:0003083,Dislocated radial head
+run_007,siltuximab,4977,HP:0003083,Dislocated radial head
+run_007,siltuximab,4977,HP:0000689,Dental malocclusion
+run_007,raloxifene,2351,HP:0000689,Dental malocclusion
+run_007,prednisolone,2245,HP:0000689,Dental malocclusion
+run_007,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_007,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_007,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_007,tacrolimus,2552,HP:0000592,Blue sclerae
+run_007,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_007,ciclosporin,760,HP:0000592,Blue sclerae
+run_007,siltuximab,4977,HP:0000238,Hydrocephalus
+run_007,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_007,raloxifene,2351,HP:0000238,Hydrocephalus
+run_007,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_007,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_007,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_007,raloxifene,2351,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_007,tacrolimus,2552,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_007,siltuximab,4977,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_007,tacrolimus,2552,HP:0002647,Aortic dissection
+run_007,siltuximab,4977,HP:0002647,Aortic dissection
+run_007,raloxifene,2351,HP:0002647,Aortic dissection
+run_007,tacrolimus,2552,HP:0008905,Rhizomelia
+run_007,ciclosporin,760,HP:0008905,Rhizomelia
+run_007,raloxifene,2351,HP:0008905,Rhizomelia
+run_007,tacrolimus,2552,HP:0000501,Glaucoma
+run_007,ciclosporin,760,HP:0000501,Glaucoma
+run_007,raloxifene,2351,HP:0000501,Glaucoma
+run_007,tacrolimus,2552,HP:0001634,Mitral valve prolapse
+run_007,prednisolone tebutate,2251,HP:0001634,Mitral valve prolapse
+run_007,siltuximab,4977,HP:0001634,Mitral valve prolapse
+run_007,tacrolimus,2552,HP:0002616,Aortic root aneurysm
+run_007,raloxifene,2351,HP:0002616,Aortic root aneurysm
+run_007,prednisolone tebutate,2251,HP:0002616,Aortic root aneurysm
+run_007,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_007,raloxifene,2351,HP:0006957,Loss of ability to walk
+run_007,siltuximab,4977,HP:0006957,Loss of ability to walk
+run_007,siltuximab,4977,HP:0002315,Headache
+run_007,raloxifene,2351,HP:0002315,Headache
+run_007,prednisolone tebutate,2251,HP:0002315,Headache
+run_007,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_007,raloxifene,2351,HP:0006824,Cranial nerve paralysis
+run_007,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_007,tacrolimus,2552,HP:0000639,Nystagmus
+run_007,ascorbic acid,4072,HP:0000639,Nystagmus
+run_007,ciclosporin,760,HP:0000639,Nystagmus
+run_007,tacrolimus,2552,HP:0000325,Triangular face
+run_007,ciclosporin,760,HP:0000325,Triangular face
+run_007,raloxifene,2351,HP:0000325,Triangular face
+run_007,tacrolimus,2552,HP:0003396,Syringomyelia
+run_007,raloxifene,2351,HP:0003396,Syringomyelia
+run_007,siltuximab,4977,HP:0003396,Syringomyelia
+run_007,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_007,raloxifene,2351,HP:0004586,Biconcave vertebral bodies
+run_007,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_007,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_007,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_007,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_007,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_007,raloxifene,2351,HP:0011073,Abnormality of dental color
+run_007,siltuximab,4977,HP:0011073,Abnormality of dental color
+run_007,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_007,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_007,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_007,raloxifene,2351,HP:0004942,Aortic aneurysm
+run_007,prednisolone,2245,HP:0004942,Aortic aneurysm
+run_007,prednisolone tebutate,2251,HP:0004942,Aortic aneurysm
+run_007,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_007,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_007,raloxifene,2351,HP:0000944,Abnormality of the metaphysis
+run_007,raloxifene,2351,HP:0100661,Trigeminal neuralgia
+run_007,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_007,siltuximab,4977,HP:0100661,Trigeminal neuralgia
+run_007,tacrolimus,2552,HP:0003084,Fractures of the long bones
+run_007,raloxifene,2351,HP:0003084,Fractures of the long bones
+run_007,siltuximab,4977,HP:0003084,Fractures of the long bones
+run_007,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_007,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_007,raloxifene,2351,HP:0003179,Protrusio acetabuli
+run_007,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_007,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_007,raloxifene,2351,HP:0006640,Multiple rib fractures
+run_007,tacrolimus,2552,HP:0001518,Small for gestational age
+run_007,ciclosporin,760,HP:0001518,Small for gestational age
+run_007,raloxifene,2351,HP:0001518,Small for gestational age
+run_007,tacrolimus,2552,HP:0000774,Narrow chest
+run_007,ciclosporin,760,HP:0000774,Narrow chest
+run_007,raloxifene,2351,HP:0000774,Narrow chest
+run_007,tacrolimus,2552,HP:0012366,Basilar invagination
+run_007,raloxifene,2351,HP:0012366,Basilar invagination
+run_007,siltuximab,4977,HP:0012366,Basilar invagination
+run_007,raloxifene,2351,HP:0000410,Mixed hearing impairment
+run_007,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_007,ascorbic acid,4072,HP:0000410,Mixed hearing impairment
+run_007,tacrolimus,2552,HP:0000505,Visual impairment
+run_007,siltuximab,4977,HP:0000505,Visual impairment
+run_007,raloxifene,2351,HP:0000505,Visual impairment
+run_007,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_007,ciclosporin,760,HP:0001382,Joint hypermobility
+run_007,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_007,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_007,ciclosporin,760,HP:0002757,Recurrent fractures
+run_007,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_007,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_007,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_007,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_007,tacrolimus,2552,HP:0002829,Arthralgia
+run_007,raloxifene,2351,HP:0002829,Arthralgia
+run_007,prednisolone tebutate,2251,HP:0002829,Arthralgia
+run_007,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_007,tacrolimus,2552,HP:0001371,Flexion contracture
+run_007,ciclosporin,760,HP:0001371,Flexion contracture
+run_007,raloxifene,2351,HP:0002653,Bone pain
+run_007,siltuximab,4977,HP:0002653,Bone pain
+run_007,tacrolimus,2552,HP:0002653,Bone pain
+run_007,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_007,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_007,prednisolone,2245,HP:0005214,Intestinal obstruction
+run_007,ascorbic acid,4072,HP:0001288,Gait disturbance
+run_007,caplacizumab,5308,HP:0001288,Gait disturbance
+run_007,tacrolimus,2552,HP:0001288,Gait disturbance
+run_007,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_007,raloxifene,2351,HP:0004482,Relative macrocephaly
+run_007,ciclosporin,760,HP:0004482,Relative macrocephaly
+run_007,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_007,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_007,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_007,raloxifene,2351,HP:0002947,Cervical kyphosis
+run_007,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_007,siltuximab,4977,HP:0002947,Cervical kyphosis
+run_007,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_007,raloxifene,2351,HP:0005257,Thoracic hypoplasia
+run_007,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_007,siltuximab,4977,HP:0000670,Carious teeth
+run_007,raloxifene,2351,HP:0000670,Carious teeth
+run_007,tacrolimus,2552,HP:0000670,Carious teeth
+run_007,raloxifene,2351,HP:0001511,Intrauterine growth retardation
+run_007,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_007,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_007,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_007,raloxifene,2351,HP:0004331,Decreased skull ossification
+run_007,ciclosporin,760,HP:0004331,Decreased skull ossification
+run_007,tacrolimus,2552,HP:0002011,Morphological central nervous system abnormality
+run_007,raloxifene,2351,HP:0002011,Morphological central nervous system abnormality
+run_007,siltuximab,4977,HP:0002011,Morphological central nervous system abnormality
+run_007,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_007,siltuximab,4977,HP:0001537,Umbilical hernia
+run_007,raloxifene,2351,HP:0001537,Umbilical hernia
+run_007,tacrolimus,2552,HP:0002645,Wormian bones
+run_007,ciclosporin,760,HP:0002645,Wormian bones
+run_007,raloxifene,2351,HP:0002645,Wormian bones
+run_007,tacrolimus,2552,HP:0000883,Thin ribs
+run_007,raloxifene,2351,HP:0000883,Thin ribs
+run_007,ascorbic acid,4072,HP:0000883,Thin ribs
+run_007,raloxifene,2351,HP:0004306,Abnormal endocardium morphology
+run_007,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_007,ciclosporin,760,HP:0004306,Abnormal endocardium morphology
+run_007,raloxifene,2351,HP:0003474,Somatic sensory dysfunction
+run_007,tacrolimus,2552,HP:0003474,Somatic sensory dysfunction
+run_007,siltuximab,4977,HP:0003474,Somatic sensory dysfunction
+run_007,raloxifene,2351,HP:0002150,Hypercalciuria
+run_007,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_007,siltuximab,4977,HP:0002150,Hypercalciuria
+run_007,tacrolimus,2552,HP:0005294,Arterial dissection
+run_007,raloxifene,2351,HP:0005294,Arterial dissection
+run_007,prednisolone tebutate,2251,HP:0005294,Arterial dissection
+run_007,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_007,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_007,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_007,tacrolimus,2552,HP:0002983,Micromelia
+run_007,raloxifene,2351,HP:0002983,Micromelia
+run_007,siltuximab,4977,HP:0002983,Micromelia
+run_007,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_007,raloxifene,2351,HP:0002659,Increased susceptibility to fractures
+run_007,prednisolone tebutate,2251,HP:0002659,Increased susceptibility to fractures
+run_007,tacrolimus,2552,HP:0005019,Diaphyseal thickening
+run_007,raloxifene,2351,HP:0005019,Diaphyseal thickening
+run_007,siltuximab,4977,HP:0005019,Diaphyseal thickening
+run_008,caplacizumab,5308,HP:0000978,Bruising susceptibility
+run_008,prednisolone tebutate,2251,HP:0000978,Bruising susceptibility
+run_008,siltuximab,4977,HP:0000978,Bruising susceptibility
+run_008,tacrolimus,2552,HP:0000239,Large fontanelles
+run_008,siltuximab,4977,HP:0000239,Large fontanelles
+run_008,raloxifene,2351,HP:0000239,Large fontanelles
+run_008,disulfiram,928,HP:0003272,Abnormal hip bone morphology
+run_008,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_008,pyrithione,3508,HP:0003272,Abnormal hip bone morphology
+run_008,siltuximab,4977,HP:0002758,Osteoarthritis
+run_008,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_008,raloxifene,2351,HP:0002758,Osteoarthritis
+run_008,siltuximab,4977,HP:0002857,Genu valgum
+run_008,prednisolone tebutate,2251,HP:0002857,Genu valgum
+run_008,prednisolone,2245,HP:0002857,Genu valgum
+run_008,prednisolone tebutate,2251,HP:0001659,Aortic regurgitation
+run_008,prednisolone,2245,HP:0001659,Aortic regurgitation
+run_008,siltuximab,4977,HP:0001659,Aortic regurgitation
+run_008,siltuximab,4977,HP:0000767,Pectus excavatum
+run_008,disulfiram,928,HP:0000767,Pectus excavatum
+run_008,prednisolone tebutate,2251,HP:0000767,Pectus excavatum
+run_008,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_008,siltuximab,4977,HP:0000444,Convex nasal ridge
+run_008,prednisolone tebutate,2251,HP:0000444,Convex nasal ridge
+run_008,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_008,siltuximab,4977,HP:0000164,Abnormality of the dentition
+run_008,prednisolone tebutate,2251,HP:0000164,Abnormality of the dentition
+run_008,losartan,1610,HP:0002019,Constipation
+run_008,tacrolimus,2552,HP:0002019,Constipation
+run_008,siltuximab,4977,HP:0002019,Constipation
+run_008,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_008,prednisolone tebutate,2251,HP:0000703,Dentinogenesis imperfecta
+run_008,prednisolone,2245,HP:0000703,Dentinogenesis imperfecta
+run_008,tacrolimus,2552,HP:0002980,Femoral bowing
+run_008,siltuximab,4977,HP:0002980,Femoral bowing
+run_008,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_008,siltuximab,4977,HP:0002015,Dysphagia
+run_008,losartan,1610,HP:0002015,Dysphagia
+run_008,prednisolone tebutate,2251,HP:0002015,Dysphagia
+run_008,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_008,prednisolone tebutate,2251,HP:0001342,Cerebral hemorrhage
+run_008,prednisolone,2245,HP:0001342,Cerebral hemorrhage
+run_008,tacrolimus,2552,HP:0000248,Brachycephaly
+run_008,siltuximab,4977,HP:0000248,Brachycephaly
+run_008,losartan,1610,HP:0000248,Brachycephaly
+run_008,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_008,siltuximab,4977,HP:0000768,Pectus carinatum
+run_008,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_008,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_008,disulfiram,928,HP:0003312,Abnormal form of the vertebral bodies
+run_008,pyrithione,3508,HP:0003312,Abnormal form of the vertebral bodies
+run_008,siltuximab,4977,HP:0001251,Ataxia
+run_008,losartan,1610,HP:0001251,Ataxia
+run_008,prednisolone tebutate,2251,HP:0001251,Ataxia
+run_008,ascorbic acid,4072,HP:0000938,Osteopenia
+run_008,siltuximab,4977,HP:0000938,Osteopenia
+run_008,tacrolimus,2552,HP:0000938,Osteopenia
+run_008,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_008,siltuximab,4977,HP:0000682,Abnormal dental enamel morphology
+run_008,raloxifene,2351,HP:0000682,Abnormal dental enamel morphology
+run_008,disulfiram,928,HP:0003401,Paresthesia
+run_008,pyrithione,3508,HP:0003401,Paresthesia
+run_008,thiram,3601,HP:0003401,Paresthesia
+run_008,ascorbic acid,4072,HP:0002650,Scoliosis
+run_008,siltuximab,4977,HP:0002650,Scoliosis
+run_008,tacrolimus,2552,HP:0002650,Scoliosis
+run_008,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_008,pyrithione,3508,HP:0001730,Progressive hearing impairment
+run_008,disulfiram,928,HP:0001730,Progressive hearing impairment
+run_008,siltuximab,4977,HP:0007957,Corneal opacity
+run_008,tacrolimus,2552,HP:0007957,Corneal opacity
+run_008,disulfiram,928,HP:0007957,Corneal opacity
+run_008,siltuximab,4977,HP:0001510,Growth delay
+run_008,prednisolone tebutate,2251,HP:0001510,Growth delay
+run_008,prednisolone,2245,HP:0001510,Growth delay
+run_008,tacrolimus,2552,HP:0003100,Slender long bone
+run_008,prednisolone tebutate,2251,HP:0003100,Slender long bone
+run_008,prednisolone,2245,HP:0003100,Slender long bone
+run_008,tacrolimus,2552,HP:0000269,Prominent occiput
+run_008,disulfiram,928,HP:0000269,Prominent occiput
+run_008,pyrithione,3508,HP:0000269,Prominent occiput
+run_008,prednisolone tebutate,2251,HP:0000256,Macrocephaly
+run_008,prednisolone,2245,HP:0000256,Macrocephaly
+run_008,raloxifene,2351,HP:0000256,Macrocephaly
+run_008,disulfiram,928,HP:0002089,Pulmonary hypoplasia
+run_008,pyrithione,3508,HP:0002089,Pulmonary hypoplasia
+run_008,thiram,3601,HP:0002089,Pulmonary hypoplasia
+run_008,siltuximab,4977,HP:0002512,Brain stem compression
+run_008,tacrolimus,2552,HP:0002512,Brain stem compression
+run_008,losartan,1610,HP:0002512,Brain stem compression
+run_008,tacrolimus,2552,HP:0000347,Micrognathia
+run_008,siltuximab,4977,HP:0000347,Micrognathia
+run_008,ascorbic acid,4072,HP:0000347,Micrognathia
+run_008,disulfiram,928,HP:0030680,Abnormality of cardiovascular system morphology
+run_008,pyrithione,3508,HP:0030680,Abnormality of cardiovascular system morphology
+run_008,thiram,3601,HP:0030680,Abnormality of cardiovascular system morphology
+run_008,disulfiram,928,HP:0004621,Enlarged vertebral pedicles
+run_008,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_008,pyrithione,3508,HP:0004621,Enlarged vertebral pedicles
+run_008,prednisolone tebutate,2251,HP:0004322,Short stature
+run_008,siltuximab,4977,HP:0004322,Short stature
+run_008,prednisolone,2245,HP:0004322,Short stature
+run_008,siltuximab,4977,HP:0000365,Hearing impairment
+run_008,tacrolimus,2552,HP:0000365,Hearing impairment
+run_008,prednisolone tebutate,2251,HP:0000365,Hearing impairment
+run_008,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_008,disulfiram,928,HP:0010953,Noncommunicating hydrocephalus
+run_008,pyrithione,3508,HP:0010953,Noncommunicating hydrocephalus
+run_008,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_008,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_008,disulfiram,928,HP:0000772,Abnormality of the ribs
+run_008,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_008,disulfiram,928,HP:0030268,Hyperplastic callus formation
+run_008,pyrithione,3508,HP:0030268,Hyperplastic callus formation
+run_008,losartan,1610,HP:0002273,Tetraparesis
+run_008,tacrolimus,2552,HP:0002273,Tetraparesis
+run_008,siltuximab,4977,HP:0002273,Tetraparesis
+run_008,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_008,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_008,prednisolone tebutate,2251,HP:0000684,Delayed eruption of teeth
+run_008,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_008,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_008,doxorubicin,960,HP:0002823,Abnormality of femur morphology
+run_008,siltuximab,4977,HP:0000939,Osteoporosis
+run_008,prednisolone tebutate,2251,HP:0000939,Osteoporosis
+run_008,prednisolone,2245,HP:0000939,Osteoporosis
+run_008,siltuximab,4977,HP:0000023,Inguinal hernia
+run_008,prednisolone tebutate,2251,HP:0000023,Inguinal hernia
+run_008,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_008,siltuximab,4977,HP:0000973,Cutis laxa
+run_008,disulfiram,928,HP:0000973,Cutis laxa
+run_008,pyrithione,3508,HP:0000973,Cutis laxa
+run_008,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_008,caplacizumab,5308,HP:0001873,Thrombocytopenia
+run_008,prednisolone tebutate,2251,HP:0001873,Thrombocytopenia
+run_008,disulfiram,928,HP:0000787,Nephrolithiasis
+run_008,pyrithione,3508,HP:0000787,Nephrolithiasis
+run_008,thiram,3601,HP:0000787,Nephrolithiasis
+run_008,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_008,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_008,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_008,siltuximab,4977,HP:0002643,Neonatal respiratory distress
+run_008,prednisolone tebutate,2251,HP:0002643,Neonatal respiratory distress
+run_008,prednisolone,2245,HP:0002643,Neonatal respiratory distress
+run_008,disulfiram,928,HP:0100761,Visceral angiomatosis
+run_008,pyrithione,3508,HP:0100761,Visceral angiomatosis
+run_008,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_008,siltuximab,4977,HP:0002808,Kyphosis
+run_008,tacrolimus,2552,HP:0002808,Kyphosis
+run_008,prednisolone tebutate,2251,HP:0002808,Kyphosis
+run_008,siltuximab,4977,HP:0003083,Dislocated radial head
+run_008,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_008,prednisolone tebutate,2251,HP:0003083,Dislocated radial head
+run_008,siltuximab,4977,HP:0000689,Dental malocclusion
+run_008,prednisolone tebutate,2251,HP:0000689,Dental malocclusion
+run_008,disulfiram,928,HP:0000689,Dental malocclusion
+run_008,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_008,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_008,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_008,tacrolimus,2552,HP:0000592,Blue sclerae
+run_008,prednisolone tebutate,2251,HP:0000592,Blue sclerae
+run_008,siltuximab,4977,HP:0000592,Blue sclerae
+run_008,siltuximab,4977,HP:0000238,Hydrocephalus
+run_008,raloxifene,2351,HP:0000238,Hydrocephalus
+run_008,prednisolone tebutate,2251,HP:0000238,Hydrocephalus
+run_008,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_008,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_008,raloxifene,2351,HP:0006487,Bowing of the long bones
+run_008,disulfiram,928,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_008,pyrithione,3508,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_008,losartan,1610,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_008,disulfiram,928,HP:0002647,Aortic dissection
+run_008,pyrithione,3508,HP:0002647,Aortic dissection
+run_008,thiram,3601,HP:0002647,Aortic dissection
+run_008,tacrolimus,2552,HP:0008905,Rhizomelia
+run_008,disulfiram,928,HP:0008905,Rhizomelia
+run_008,pyrithione,3508,HP:0008905,Rhizomelia
+run_008,prednisolone tebutate,2251,HP:0000501,Glaucoma
+run_008,siltuximab,4977,HP:0000501,Glaucoma
+run_008,caplacizumab,5308,HP:0000501,Glaucoma
+run_008,prednisolone tebutate,2251,HP:0001634,Mitral valve prolapse
+run_008,siltuximab,4977,HP:0001634,Mitral valve prolapse
+run_008,prednisolone,2245,HP:0001634,Mitral valve prolapse
+run_008,prednisolone tebutate,2251,HP:0002616,Aortic root aneurysm
+run_008,prednisolone,2245,HP:0002616,Aortic root aneurysm
+run_008,siltuximab,4977,HP:0002616,Aortic root aneurysm
+run_008,disulfiram,928,HP:0006957,Loss of ability to walk
+run_008,losartan,1610,HP:0006957,Loss of ability to walk
+run_008,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_008,siltuximab,4977,HP:0002315,Headache
+run_008,prednisolone tebutate,2251,HP:0002315,Headache
+run_008,prednisolone,2245,HP:0002315,Headache
+run_008,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_008,prednisolone tebutate,2251,HP:0006824,Cranial nerve paralysis
+run_008,prednisolone,2245,HP:0006824,Cranial nerve paralysis
+run_008,prednisolone tebutate,2251,HP:0000639,Nystagmus
+run_008,siltuximab,4977,HP:0000639,Nystagmus
+run_008,prednisolone,2245,HP:0000639,Nystagmus
+run_008,tacrolimus,2552,HP:0000325,Triangular face
+run_008,ascorbic acid,4072,HP:0000325,Triangular face
+run_008,disulfiram,928,HP:0000325,Triangular face
+run_008,tacrolimus,2552,HP:0003396,Syringomyelia
+run_008,siltuximab,4977,HP:0003396,Syringomyelia
+run_008,raloxifene,2351,HP:0003396,Syringomyelia
+run_008,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_008,prednisolone tebutate,2251,HP:0004586,Biconcave vertebral bodies
+run_008,prednisolone,2245,HP:0004586,Biconcave vertebral bodies
+run_008,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_008,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_008,ciclosporin,760,HP:0003103,Abnormal cortical bone morphology
+run_008,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_008,disulfiram,928,HP:0011073,Abnormality of dental color
+run_008,pyrithione,3508,HP:0011073,Abnormality of dental color
+run_008,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_008,prednisolone tebutate,2251,HP:0005692,Joint hyperflexibility
+run_008,caplacizumab,5308,HP:0005692,Joint hyperflexibility
+run_008,prednisolone tebutate,2251,HP:0004942,Aortic aneurysm
+run_008,siltuximab,4977,HP:0004942,Aortic aneurysm
+run_008,prednisolone,2245,HP:0004942,Aortic aneurysm
+run_008,siltuximab,4977,HP:0000944,Abnormality of the metaphysis
+run_008,prednisolone tebutate,2251,HP:0000944,Abnormality of the metaphysis
+run_008,losartan,1610,HP:0000944,Abnormality of the metaphysis
+run_008,siltuximab,4977,HP:0100661,Trigeminal neuralgia
+run_008,losartan,1610,HP:0100661,Trigeminal neuralgia
+run_008,prednisolone tebutate,2251,HP:0100661,Trigeminal neuralgia
+run_008,disulfiram,928,HP:0003084,Fractures of the long bones
+run_008,pyrithione,3508,HP:0003084,Fractures of the long bones
+run_008,thiram,3601,HP:0003084,Fractures of the long bones
+run_008,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_008,prednisolone tebutate,2251,HP:0003179,Protrusio acetabuli
+run_008,siltuximab,4977,HP:0003179,Protrusio acetabuli
+run_008,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_008,disulfiram,928,HP:0006640,Multiple rib fractures
+run_008,pyrithione,3508,HP:0006640,Multiple rib fractures
+run_008,tacrolimus,2552,HP:0001518,Small for gestational age
+run_008,siltuximab,4977,HP:0001518,Small for gestational age
+run_008,prednisolone tebutate,2251,HP:0001518,Small for gestational age
+run_008,tacrolimus,2552,HP:0000774,Narrow chest
+run_008,prednisolone tebutate,2251,HP:0000774,Narrow chest
+run_008,prednisolone,2245,HP:0000774,Narrow chest
+run_008,disulfiram,928,HP:0012366,Basilar invagination
+run_008,tacrolimus,2552,HP:0012366,Basilar invagination
+run_008,pyrithione,3508,HP:0012366,Basilar invagination
+run_008,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_008,disulfiram,928,HP:0000410,Mixed hearing impairment
+run_008,pyrithione,3508,HP:0000410,Mixed hearing impairment
+run_008,siltuximab,4977,HP:0000505,Visual impairment
+run_008,prednisolone tebutate,2251,HP:0000505,Visual impairment
+run_008,prednisolone,2245,HP:0000505,Visual impairment
+run_008,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_008,caplacizumab,5308,HP:0001382,Joint hypermobility
+run_008,prednisolone tebutate,2251,HP:0001382,Joint hypermobility
+run_008,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_008,prednisolone tebutate,2251,HP:0002757,Recurrent fractures
+run_008,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_008,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_008,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_008,ciclosporin,760,HP:0002992,Abnormality of tibia morphology
+run_008,ascorbic acid,4072,HP:0002829,Arthralgia
+run_008,siltuximab,4977,HP:0002829,Arthralgia
+run_008,prednisolone tebutate,2251,HP:0002829,Arthralgia
+run_008,caplacizumab,5308,HP:0001371,Flexion contracture
+run_008,tacrolimus,2552,HP:0001371,Flexion contracture
+run_008,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_008,siltuximab,4977,HP:0002653,Bone pain
+run_008,losartan,1610,HP:0002653,Bone pain
+run_008,prednisolone tebutate,2251,HP:0002653,Bone pain
+run_008,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_008,tacrolimus,2552,HP:0005214,Intestinal obstruction
+run_008,raloxifene,2351,HP:0005214,Intestinal obstruction
+run_008,siltuximab,4977,HP:0001288,Gait disturbance
+run_008,disulfiram,928,HP:0001288,Gait disturbance
+run_008,pyrithione,3508,HP:0001288,Gait disturbance
+run_008,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_008,disulfiram,928,HP:0004482,Relative macrocephaly
+run_008,pyrithione,3508,HP:0004482,Relative macrocephaly
+run_008,siltuximab,4977,HP:0000975,Hyperhidrosis
+run_008,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_008,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_008,disulfiram,928,HP:0002947,Cervical kyphosis
+run_008,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_008,pyrithione,3508,HP:0002947,Cervical kyphosis
+run_008,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_008,disulfiram,928,HP:0005257,Thoracic hypoplasia
+run_008,pyrithione,3508,HP:0005257,Thoracic hypoplasia
+run_008,siltuximab,4977,HP:0000670,Carious teeth
+run_008,prednisolone,2245,HP:0000670,Carious teeth
+run_008,prednisolone tebutate,2251,HP:0000670,Carious teeth
+run_008,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_008,prednisolone tebutate,2251,HP:0001511,Intrauterine growth retardation
+run_008,prednisolone,2245,HP:0001511,Intrauterine growth retardation
+run_008,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_008,losartan,1610,HP:0004331,Decreased skull ossification
+run_008,siltuximab,4977,HP:0004331,Decreased skull ossification
+run_008,disulfiram,928,HP:0002011,Morphological central nervous system abnormality
+run_008,pyrithione,3508,HP:0002011,Morphological central nervous system abnormality
+run_008,losartan,1610,HP:0002011,Morphological central nervous system abnormality
+run_008,prednisolone tebutate,2251,HP:0001537,Umbilical hernia
+run_008,siltuximab,4977,HP:0001537,Umbilical hernia
+run_008,prednisolone,2245,HP:0001537,Umbilical hernia
+run_008,tacrolimus,2552,HP:0002645,Wormian bones
+run_008,prednisolone tebutate,2251,HP:0002645,Wormian bones
+run_008,siltuximab,4977,HP:0002645,Wormian bones
+run_008,tacrolimus,2552,HP:0000883,Thin ribs
+run_008,ascorbic acid,4072,HP:0000883,Thin ribs
+run_008,prednisolone tebutate,2251,HP:0000883,Thin ribs
+run_008,disulfiram,928,HP:0004306,Abnormal endocardium morphology
+run_008,pyrithione,3508,HP:0004306,Abnormal endocardium morphology
+run_008,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_008,disulfiram,928,HP:0003474,Somatic sensory dysfunction
+run_008,pyrithione,3508,HP:0003474,Somatic sensory dysfunction
+run_008,thiram,3601,HP:0003474,Somatic sensory dysfunction
+run_008,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_008,siltuximab,4977,HP:0002150,Hypercalciuria
+run_008,losartan,1610,HP:0002150,Hypercalciuria
+run_008,siltuximab,4977,HP:0005294,Arterial dissection
+run_008,prednisolone tebutate,2251,HP:0005294,Arterial dissection
+run_008,prednisolone,2245,HP:0005294,Arterial dissection
+run_008,siltuximab,4977,HP:0002119,Ventriculomegaly
+run_008,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_008,prednisolone tebutate,2251,HP:0002119,Ventriculomegaly
+run_008,tacrolimus,2552,HP:0002983,Micromelia
+run_008,ascorbic acid,4072,HP:0002983,Micromelia
+run_008,raloxifene,2351,HP:0002983,Micromelia
+run_008,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_008,siltuximab,4977,HP:0002659,Increased susceptibility to fractures
+run_008,ascorbic acid,4072,HP:0002659,Increased susceptibility to fractures
+run_008,disulfiram,928,HP:0005019,Diaphyseal thickening
+run_008,pyrithione,3508,HP:0005019,Diaphyseal thickening
+run_008,thiram,3601,HP:0005019,Diaphyseal thickening
+run_009,caplacizumab,5308,HP:0000978,Bruising susceptibility
+run_009,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_009,tacrolimus,2552,HP:0000978,Bruising susceptibility
+run_009,tacrolimus,2552,HP:0000239,Large fontanelles
+run_009,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_009,caplacizumab,5308,HP:0000239,Large fontanelles
+run_009,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_009,siltuximab,4977,HP:0003272,Abnormal hip bone morphology
+run_009,ascorbic acid,4072,HP:0003272,Abnormal hip bone morphology
+run_009,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_009,caplacizumab,5308,HP:0002758,Osteoarthritis
+run_009,siltuximab,4977,HP:0002758,Osteoarthritis
+run_009,ascorbic acid,4072,HP:0002857,Genu valgum
+run_009,caplacizumab,5308,HP:0002857,Genu valgum
+run_009,siltuximab,4977,HP:0002857,Genu valgum
+run_009,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_009,caplacizumab,5308,HP:0001659,Aortic regurgitation
+run_009,siltuximab,4977,HP:0001659,Aortic regurgitation
+run_009,caplacizumab,5308,HP:0000767,Pectus excavatum
+run_009,tacrolimus,2552,HP:0000767,Pectus excavatum
+run_009,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_009,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_009,caplacizumab,5308,HP:0000444,Convex nasal ridge
+run_009,ascorbic acid,4072,HP:0000444,Convex nasal ridge
+run_009,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_009,siltuximab,4977,HP:0000164,Abnormality of the dentition
+run_009,raloxifene,2351,HP:0000164,Abnormality of the dentition
+run_009,tacrolimus,2552,HP:0002019,Constipation
+run_009,dimethyl fumarate,4757,HP:0002019,Constipation
+run_009,ascorbic acid,4072,HP:0002019,Constipation
+run_009,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_009,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_009,caplacizumab,5308,HP:0000703,Dentinogenesis imperfecta
+run_009,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_009,tacrolimus,2552,HP:0002980,Femoral bowing
+run_009,caplacizumab,5308,HP:0002980,Femoral bowing
+run_009,ascorbic acid,4072,HP:0002015,Dysphagia
+run_009,caplacizumab,5308,HP:0002015,Dysphagia
+run_009,dimethyl fumarate,4757,HP:0002015,Dysphagia
+run_009,siltuximab,4977,HP:0001342,Cerebral hemorrhage
+run_009,ascorbic acid,4072,HP:0001342,Cerebral hemorrhage
+run_009,dimethyl fumarate,4757,HP:0001342,Cerebral hemorrhage
+run_009,tacrolimus,2552,HP:0000248,Brachycephaly
+run_009,siltuximab,4977,HP:0000248,Brachycephaly
+run_009,raloxifene,2351,HP:0000248,Brachycephaly
+run_009,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_009,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_009,caplacizumab,5308,HP:0000768,Pectus carinatum
+run_009,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_009,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_009,siltuximab,4977,HP:0003312,Abnormal form of the vertebral bodies
+run_009,dimethyl fumarate,4757,HP:0001251,Ataxia
+run_009,caplacizumab,5308,HP:0001251,Ataxia
+run_009,losartan,1610,HP:0001251,Ataxia
+run_009,siltuximab,4977,HP:0000938,Osteopenia
+run_009,raloxifene,2351,HP:0000938,Osteopenia
+run_009,tacrolimus,2552,HP:0000938,Osteopenia
+run_009,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_009,siltuximab,4977,HP:0000682,Abnormal dental enamel morphology
+run_009,ascorbic acid,4072,HP:0000682,Abnormal dental enamel morphology
+run_009,tacrolimus,2552,HP:0003401,Paresthesia
+run_009,dimethyl fumarate,4757,HP:0003401,Paresthesia
+run_009,siltuximab,4977,HP:0003401,Paresthesia
+run_009,caplacizumab,5308,HP:0002650,Scoliosis
+run_009,ascorbic acid,4072,HP:0002650,Scoliosis
+run_009,tacrolimus,2552,HP:0002650,Scoliosis
+run_009,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_009,dimethyl fumarate,4757,HP:0001730,Progressive hearing impairment
+run_009,ascorbic acid,4072,HP:0001730,Progressive hearing impairment
+run_009,siltuximab,4977,HP:0007957,Corneal opacity
+run_009,tacrolimus,2552,HP:0007957,Corneal opacity
+run_009,raloxifene,2351,HP:0007957,Corneal opacity
+run_009,caplacizumab,5308,HP:0001510,Growth delay
+run_009,ascorbic acid,4072,HP:0001510,Growth delay
+run_009,tacrolimus,2552,HP:0001510,Growth delay
+run_009,tacrolimus,2552,HP:0003100,Slender long bone
+run_009,ascorbic acid,4072,HP:0003100,Slender long bone
+run_009,caplacizumab,5308,HP:0003100,Slender long bone
+run_009,tacrolimus,2552,HP:0000269,Prominent occiput
+run_009,siltuximab,4977,HP:0000269,Prominent occiput
+run_009,raloxifene,2351,HP:0000269,Prominent occiput
+run_009,tacrolimus,2552,HP:0000256,Macrocephaly
+run_009,siltuximab,4977,HP:0000256,Macrocephaly
+run_009,caplacizumab,5308,HP:0000256,Macrocephaly
+run_009,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_009,siltuximab,4977,HP:0002089,Pulmonary hypoplasia
+run_009,ascorbic acid,4072,HP:0002089,Pulmonary hypoplasia
+run_009,tacrolimus,2552,HP:0002512,Brain stem compression
+run_009,dimethyl fumarate,4757,HP:0002512,Brain stem compression
+run_009,siltuximab,4977,HP:0002512,Brain stem compression
+run_009,ascorbic acid,4072,HP:0000347,Micrognathia
+run_009,caplacizumab,5308,HP:0000347,Micrognathia
+run_009,siltuximab,4977,HP:0000347,Micrognathia
+run_009,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_009,caplacizumab,5308,HP:0030680,Abnormality of cardiovascular system morphology
+run_009,siltuximab,4977,HP:0030680,Abnormality of cardiovascular system morphology
+run_009,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_009,dimethyl fumarate,4757,HP:0004621,Enlarged vertebral pedicles
+run_009,siltuximab,4977,HP:0004621,Enlarged vertebral pedicles
+run_009,caplacizumab,5308,HP:0004322,Short stature
+run_009,ascorbic acid,4072,HP:0004322,Short stature
+run_009,tacrolimus,2552,HP:0004322,Short stature
+run_009,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_009,tacrolimus,2552,HP:0000365,Hearing impairment
+run_009,caplacizumab,5308,HP:0000365,Hearing impairment
+run_009,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_009,dimethyl fumarate,4757,HP:0010953,Noncommunicating hydrocephalus
+run_009,siltuximab,4977,HP:0010953,Noncommunicating hydrocephalus
+run_009,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_009,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_009,raloxifene,2351,HP:0000772,Abnormality of the ribs
+run_009,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_009,siltuximab,4977,HP:0030268,Hyperplastic callus formation
+run_009,ciclosporin,760,HP:0030268,Hyperplastic callus formation
+run_009,tacrolimus,2552,HP:0002273,Tetraparesis
+run_009,ascorbic acid,4072,HP:0002273,Tetraparesis
+run_009,dimethyl fumarate,4757,HP:0002273,Tetraparesis
+run_009,caplacizumab,5308,HP:0000684,Delayed eruption of teeth
+run_009,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_009,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_009,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_009,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_009,tacrolimus,2552,HP:0002823,Abnormality of femur morphology
+run_009,siltuximab,4977,HP:0000939,Osteoporosis
+run_009,losartan,1610,HP:0000939,Osteoporosis
+run_009,prednisolone tebutate,2251,HP:0000939,Osteoporosis
+run_009,caplacizumab,5308,HP:0000023,Inguinal hernia
+run_009,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_009,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_009,siltuximab,4977,HP:0000973,Cutis laxa
+run_009,tacrolimus,2552,HP:0000973,Cutis laxa
+run_009,raloxifene,2351,HP:0000973,Cutis laxa
+run_009,dimethyl fumarate,4757,HP:0001873,Thrombocytopenia
+run_009,caplacizumab,5308,HP:0001873,Thrombocytopenia
+run_009,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_009,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_009,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_009,siltuximab,4977,HP:0000787,Nephrolithiasis
+run_009,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_009,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_009,raloxifene,2351,HP:0011314,Abnormality of long bone morphology
+run_009,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_009,siltuximab,4977,HP:0002643,Neonatal respiratory distress
+run_009,caplacizumab,5308,HP:0002643,Neonatal respiratory distress
+run_009,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_009,siltuximab,4977,HP:0100761,Visceral angiomatosis
+run_009,dimethyl fumarate,4757,HP:0100761,Visceral angiomatosis
+run_009,ascorbic acid,4072,HP:0002808,Kyphosis
+run_009,tacrolimus,2552,HP:0002808,Kyphosis
+run_009,caplacizumab,5308,HP:0002808,Kyphosis
+run_009,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_009,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_009,caplacizumab,5308,HP:0003083,Dislocated radial head
+run_009,tacrolimus,2552,HP:0000689,Dental malocclusion
+run_009,siltuximab,4977,HP:0000689,Dental malocclusion
+run_009,caplacizumab,5308,HP:0000689,Dental malocclusion
+run_009,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_009,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_009,siltuximab,4977,HP:0002953,Vertebral compression fracture
+run_009,tacrolimus,2552,HP:0000592,Blue sclerae
+run_009,caplacizumab,5308,HP:0000592,Blue sclerae
+run_009,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_009,siltuximab,4977,HP:0000238,Hydrocephalus
+run_009,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_009,caplacizumab,5308,HP:0000238,Hydrocephalus
+run_009,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_009,siltuximab,4977,HP:0006487,Bowing of the long bones
+run_009,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_009,tacrolimus,2552,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_009,siltuximab,4977,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_009,dimethyl fumarate,4757,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_009,tacrolimus,2552,HP:0002647,Aortic dissection
+run_009,siltuximab,4977,HP:0002647,Aortic dissection
+run_009,caplacizumab,5308,HP:0002647,Aortic dissection
+run_009,tacrolimus,2552,HP:0008905,Rhizomelia
+run_009,ascorbic acid,4072,HP:0008905,Rhizomelia
+run_009,siltuximab,4977,HP:0008905,Rhizomelia
+run_009,caplacizumab,5308,HP:0000501,Glaucoma
+run_009,ascorbic acid,4072,HP:0000501,Glaucoma
+run_009,tacrolimus,2552,HP:0000501,Glaucoma
+run_009,caplacizumab,5308,HP:0001634,Mitral valve prolapse
+run_009,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_009,tacrolimus,2552,HP:0001634,Mitral valve prolapse
+run_009,caplacizumab,5308,HP:0002616,Aortic root aneurysm
+run_009,tacrolimus,2552,HP:0002616,Aortic root aneurysm
+run_009,ascorbic acid,4072,HP:0002616,Aortic root aneurysm
+run_009,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_009,siltuximab,4977,HP:0006957,Loss of ability to walk
+run_009,dimethyl fumarate,4757,HP:0006957,Loss of ability to walk
+run_009,caplacizumab,5308,HP:0002315,Headache
+run_009,ascorbic acid,4072,HP:0002315,Headache
+run_009,tacrolimus,2552,HP:0002315,Headache
+run_009,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_009,dimethyl fumarate,4757,HP:0006824,Cranial nerve paralysis
+run_009,siltuximab,4977,HP:0006824,Cranial nerve paralysis
+run_009,siltuximab,4977,HP:0000639,Nystagmus
+run_009,caplacizumab,5308,HP:0000639,Nystagmus
+run_009,dimethyl fumarate,4757,HP:0000639,Nystagmus
+run_009,tacrolimus,2552,HP:0000325,Triangular face
+run_009,ascorbic acid,4072,HP:0000325,Triangular face
+run_009,siltuximab,4977,HP:0000325,Triangular face
+run_009,tacrolimus,2552,HP:0003396,Syringomyelia
+run_009,siltuximab,4977,HP:0003396,Syringomyelia
+run_009,raloxifene,2351,HP:0003396,Syringomyelia
+run_009,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_009,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_009,caplacizumab,5308,HP:0004586,Biconcave vertebral bodies
+run_009,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_009,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_009,raloxifene,2351,HP:0003103,Abnormal cortical bone morphology
+run_009,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_009,ascorbic acid,4072,HP:0011073,Abnormality of dental color
+run_009,siltuximab,4977,HP:0011073,Abnormality of dental color
+run_009,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_009,caplacizumab,5308,HP:0005692,Joint hyperflexibility
+run_009,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_009,tacrolimus,2552,HP:0004942,Aortic aneurysm
+run_009,caplacizumab,5308,HP:0004942,Aortic aneurysm
+run_009,disulfiram,928,HP:0004942,Aortic aneurysm
+run_009,ascorbic acid,4072,HP:0000944,Abnormality of the metaphysis
+run_009,siltuximab,4977,HP:0000944,Abnormality of the metaphysis
+run_009,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_009,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_009,dimethyl fumarate,4757,HP:0100661,Trigeminal neuralgia
+run_009,siltuximab,4977,HP:0100661,Trigeminal neuralgia
+run_009,tacrolimus,2552,HP:0003084,Fractures of the long bones
+run_009,siltuximab,4977,HP:0003084,Fractures of the long bones
+run_009,dimethyl fumarate,4757,HP:0003084,Fractures of the long bones
+run_009,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_009,ascorbic acid,4072,HP:0003179,Protrusio acetabuli
+run_009,caplacizumab,5308,HP:0003179,Protrusio acetabuli
+run_009,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_009,siltuximab,4977,HP:0006640,Multiple rib fractures
+run_009,raloxifene,2351,HP:0006640,Multiple rib fractures
+run_009,tacrolimus,2552,HP:0001518,Small for gestational age
+run_009,siltuximab,4977,HP:0001518,Small for gestational age
+run_009,caplacizumab,5308,HP:0001518,Small for gestational age
+run_009,siltuximab,4977,HP:0000774,Narrow chest
+run_009,caplacizumab,5308,HP:0000774,Narrow chest
+run_009,ascorbic acid,4072,HP:0000774,Narrow chest
+run_009,tacrolimus,2552,HP:0012366,Basilar invagination
+run_009,siltuximab,4977,HP:0012366,Basilar invagination
+run_009,dimethyl fumarate,4757,HP:0012366,Basilar invagination
+run_009,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_009,siltuximab,4977,HP:0000410,Mixed hearing impairment
+run_009,caplacizumab,5308,HP:0000410,Mixed hearing impairment
+run_009,tacrolimus,2552,HP:0000505,Visual impairment
+run_009,caplacizumab,5308,HP:0000505,Visual impairment
+run_009,ascorbic acid,4072,HP:0000505,Visual impairment
+run_009,caplacizumab,5308,HP:0001382,Joint hypermobility
+run_009,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_009,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_009,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_009,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_009,caplacizumab,5308,HP:0002757,Recurrent fractures
+run_009,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_009,raloxifene,2351,HP:0002992,Abnormality of tibia morphology
+run_009,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_009,ascorbic acid,4072,HP:0002829,Arthralgia
+run_009,caplacizumab,5308,HP:0002829,Arthralgia
+run_009,tacrolimus,2552,HP:0002829,Arthralgia
+run_009,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_009,caplacizumab,5308,HP:0001371,Flexion contracture
+run_009,tacrolimus,2552,HP:0001371,Flexion contracture
+run_009,tacrolimus,2552,HP:0002653,Bone pain
+run_009,siltuximab,4977,HP:0002653,Bone pain
+run_009,dimethyl fumarate,4757,HP:0002653,Bone pain
+run_009,tacrolimus,2552,HP:0005214,Intestinal obstruction
+run_009,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_009,dimethyl fumarate,4757,HP:0005214,Intestinal obstruction
+run_009,dimethyl fumarate,4757,HP:0001288,Gait disturbance
+run_009,tacrolimus,2552,HP:0001288,Gait disturbance
+run_009,caplacizumab,5308,HP:0001288,Gait disturbance
+run_009,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_009,ascorbic acid,4072,HP:0004482,Relative macrocephaly
+run_009,siltuximab,4977,HP:0004482,Relative macrocephaly
+run_009,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_009,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_009,caplacizumab,5308,HP:0000975,Hyperhidrosis
+run_009,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_009,dimethyl fumarate,4757,HP:0002947,Cervical kyphosis
+run_009,siltuximab,4977,HP:0002947,Cervical kyphosis
+run_009,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_009,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_009,siltuximab,4977,HP:0005257,Thoracic hypoplasia
+run_009,siltuximab,4977,HP:0000670,Carious teeth
+run_009,tacrolimus,2552,HP:0000670,Carious teeth
+run_009,caplacizumab,5308,HP:0000670,Carious teeth
+run_009,caplacizumab,5308,HP:0001511,Intrauterine growth retardation
+run_009,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_009,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_009,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_009,ascorbic acid,4072,HP:0004331,Decreased skull ossification
+run_009,siltuximab,4977,HP:0004331,Decreased skull ossification
+run_009,tacrolimus,2552,HP:0002011,Morphological central nervous system abnormality
+run_009,siltuximab,4977,HP:0002011,Morphological central nervous system abnormality
+run_009,dimethyl fumarate,4757,HP:0002011,Morphological central nervous system abnormality
+run_009,caplacizumab,5308,HP:0001537,Umbilical hernia
+run_009,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_009,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_009,tacrolimus,2552,HP:0002645,Wormian bones
+run_009,ascorbic acid,4072,HP:0002645,Wormian bones
+run_009,caplacizumab,5308,HP:0002645,Wormian bones
+run_009,tacrolimus,2552,HP:0000883,Thin ribs
+run_009,ascorbic acid,4072,HP:0000883,Thin ribs
+run_009,siltuximab,4977,HP:0000883,Thin ribs
+run_009,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_009,dimethyl fumarate,4757,HP:0004306,Abnormal endocardium morphology
+run_009,siltuximab,4977,HP:0004306,Abnormal endocardium morphology
+run_009,tacrolimus,2552,HP:0003474,Somatic sensory dysfunction
+run_009,dimethyl fumarate,4757,HP:0003474,Somatic sensory dysfunction
+run_009,siltuximab,4977,HP:0003474,Somatic sensory dysfunction
+run_009,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_009,siltuximab,4977,HP:0002150,Hypercalciuria
+run_009,dimethyl fumarate,4757,HP:0002150,Hypercalciuria
+run_009,caplacizumab,5308,HP:0005294,Arterial dissection
+run_009,tacrolimus,2552,HP:0005294,Arterial dissection
+run_009,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_009,dimethyl fumarate,4757,HP:0002119,Ventriculomegaly
+run_009,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_009,caplacizumab,5308,HP:0002119,Ventriculomegaly
+run_009,ascorbic acid,4072,HP:0002983,Micromelia
+run_009,tacrolimus,2552,HP:0002983,Micromelia
+run_009,siltuximab,4977,HP:0002983,Micromelia
+run_009,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_009,ascorbic acid,4072,HP:0002659,Increased susceptibility to fractures
+run_009,siltuximab,4977,HP:0002659,Increased susceptibility to fractures
+run_009,tacrolimus,2552,HP:0005019,Diaphyseal thickening
+run_009,siltuximab,4977,HP:0005019,Diaphyseal thickening
+run_009,dimethyl fumarate,4757,HP:0005019,Diaphyseal thickening
+run_010,ascorbic acid,4072,HP:0000978,Bruising susceptibility
+run_010,caplacizumab,5308,HP:0000978,Bruising susceptibility
+run_010,tacrolimus,2552,HP:0000978,Bruising susceptibility
+run_010,tacrolimus,2552,HP:0000239,Large fontanelles
+run_010,ciclosporin,760,HP:0000239,Large fontanelles
+run_010,ascorbic acid,4072,HP:0000239,Large fontanelles
+run_010,tacrolimus,2552,HP:0003272,Abnormal hip bone morphology
+run_010,ascorbic acid,4072,HP:0003272,Abnormal hip bone morphology
+run_010,raloxifene,2351,HP:0003272,Abnormal hip bone morphology
+run_010,tacrolimus,2552,HP:0002758,Osteoarthritis
+run_010,caplacizumab,5308,HP:0002758,Osteoarthritis
+run_010,ascorbic acid,4072,HP:0002758,Osteoarthritis
+run_010,tacrolimus,2552,HP:0002857,Genu valgum
+run_010,ascorbic acid,4072,HP:0002857,Genu valgum
+run_010,ciclosporin,760,HP:0002857,Genu valgum
+run_010,tacrolimus,2552,HP:0001659,Aortic regurgitation
+run_010,ascorbic acid,4072,HP:0001659,Aortic regurgitation
+run_010,caplacizumab,5308,HP:0001659,Aortic regurgitation
+run_010,ascorbic acid,4072,HP:0000767,Pectus excavatum
+run_010,ciclosporin,760,HP:0000767,Pectus excavatum
+run_010,tacrolimus,2552,HP:0000767,Pectus excavatum
+run_010,ciclosporin,760,HP:0000444,Convex nasal ridge
+run_010,ascorbic acid,4072,HP:0000444,Convex nasal ridge
+run_010,tacrolimus,2552,HP:0000444,Convex nasal ridge
+run_010,tacrolimus,2552,HP:0000164,Abnormality of the dentition
+run_010,ascorbic acid,4072,HP:0000164,Abnormality of the dentition
+run_010,ciclosporin,760,HP:0000164,Abnormality of the dentition
+run_010,tacrolimus,2552,HP:0002019,Constipation
+run_010,ascorbic acid,4072,HP:0002019,Constipation
+run_010,ciclosporin,760,HP:0002019,Constipation
+run_010,ciclosporin,760,HP:0000703,Dentinogenesis imperfecta
+run_010,tacrolimus,2552,HP:0000703,Dentinogenesis imperfecta
+run_010,ascorbic acid,4072,HP:0000703,Dentinogenesis imperfecta
+run_010,tacrolimus,2552,HP:0002980,Femoral bowing
+run_010,ciclosporin,760,HP:0002980,Femoral bowing
+run_010,ascorbic acid,4072,HP:0002980,Femoral bowing
+run_010,ascorbic acid,4072,HP:0002015,Dysphagia
+run_010,ciclosporin,760,HP:0002015,Dysphagia
+run_010,tacrolimus,2552,HP:0002015,Dysphagia
+run_010,ascorbic acid,4072,HP:0001342,Cerebral hemorrhage
+run_010,tacrolimus,2552,HP:0001342,Cerebral hemorrhage
+run_010,caplacizumab,5308,HP:0001342,Cerebral hemorrhage
+run_010,tacrolimus,2552,HP:0000248,Brachycephaly
+run_010,ascorbic acid,4072,HP:0000248,Brachycephaly
+run_010,ciclosporin,760,HP:0000248,Brachycephaly
+run_010,tacrolimus,2552,HP:0000768,Pectus carinatum
+run_010,ascorbic acid,4072,HP:0000768,Pectus carinatum
+run_010,ciclosporin,760,HP:0000768,Pectus carinatum
+run_010,tacrolimus,2552,HP:0003312,Abnormal form of the vertebral bodies
+run_010,ascorbic acid,4072,HP:0003312,Abnormal form of the vertebral bodies
+run_010,ciclosporin,760,HP:0003312,Abnormal form of the vertebral bodies
+run_010,ascorbic acid,4072,HP:0001251,Ataxia
+run_010,ciclosporin,760,HP:0001251,Ataxia
+run_010,tacrolimus,2552,HP:0001251,Ataxia
+run_010,ascorbic acid,4072,HP:0000938,Osteopenia
+run_010,tacrolimus,2552,HP:0000938,Osteopenia
+run_010,ciclosporin,760,HP:0000938,Osteopenia
+run_010,tacrolimus,2552,HP:0000682,Abnormal dental enamel morphology
+run_010,ascorbic acid,4072,HP:0000682,Abnormal dental enamel morphology
+run_010,ciclosporin,760,HP:0000682,Abnormal dental enamel morphology
+run_010,tacrolimus,2552,HP:0003401,Paresthesia
+run_010,ascorbic acid,4072,HP:0003401,Paresthesia
+run_010,raloxifene,2351,HP:0003401,Paresthesia
+run_010,ascorbic acid,4072,HP:0002650,Scoliosis
+run_010,ciclosporin,760,HP:0002650,Scoliosis
+run_010,tacrolimus,2552,HP:0002650,Scoliosis
+run_010,tacrolimus,2552,HP:0001730,Progressive hearing impairment
+run_010,ascorbic acid,4072,HP:0001730,Progressive hearing impairment
+run_010,ciclosporin,760,HP:0001730,Progressive hearing impairment
+run_010,tacrolimus,2552,HP:0007957,Corneal opacity
+run_010,caplacizumab,5308,HP:0007957,Corneal opacity
+run_010,siltuximab,4977,HP:0007957,Corneal opacity
+run_010,ascorbic acid,4072,HP:0001510,Growth delay
+run_010,tacrolimus,2552,HP:0001510,Growth delay
+run_010,ciclosporin,760,HP:0001510,Growth delay
+run_010,ciclosporin,760,HP:0003100,Slender long bone
+run_010,tacrolimus,2552,HP:0003100,Slender long bone
+run_010,ascorbic acid,4072,HP:0003100,Slender long bone
+run_010,tacrolimus,2552,HP:0000269,Prominent occiput
+run_010,ascorbic acid,4072,HP:0000269,Prominent occiput
+run_010,caplacizumab,5308,HP:0000269,Prominent occiput
+run_010,tacrolimus,2552,HP:0000256,Macrocephaly
+run_010,ascorbic acid,4072,HP:0000256,Macrocephaly
+run_010,ciclosporin,760,HP:0000256,Macrocephaly
+run_010,tacrolimus,2552,HP:0002089,Pulmonary hypoplasia
+run_010,caplacizumab,5308,HP:0002089,Pulmonary hypoplasia
+run_010,ascorbic acid,4072,HP:0002089,Pulmonary hypoplasia
+run_010,tacrolimus,2552,HP:0002512,Brain stem compression
+run_010,ascorbic acid,4072,HP:0002512,Brain stem compression
+run_010,ciclosporin,760,HP:0002512,Brain stem compression
+run_010,tacrolimus,2552,HP:0000347,Micrognathia
+run_010,ascorbic acid,4072,HP:0000347,Micrognathia
+run_010,ciclosporin,760,HP:0000347,Micrognathia
+run_010,tacrolimus,2552,HP:0030680,Abnormality of cardiovascular system morphology
+run_010,siltuximab,4977,HP:0030680,Abnormality of cardiovascular system morphology
+run_010,raloxifene,2351,HP:0030680,Abnormality of cardiovascular system morphology
+run_010,tacrolimus,2552,HP:0004621,Enlarged vertebral pedicles
+run_010,ascorbic acid,4072,HP:0004621,Enlarged vertebral pedicles
+run_010,raloxifene,2351,HP:0004621,Enlarged vertebral pedicles
+run_010,ascorbic acid,4072,HP:0004322,Short stature
+run_010,tacrolimus,2552,HP:0004322,Short stature
+run_010,ciclosporin,760,HP:0004322,Short stature
+run_010,tacrolimus,2552,HP:0000365,Hearing impairment
+run_010,ascorbic acid,4072,HP:0000365,Hearing impairment
+run_010,ciclosporin,760,HP:0000365,Hearing impairment
+run_010,tacrolimus,2552,HP:0010953,Noncommunicating hydrocephalus
+run_010,ascorbic acid,4072,HP:0010953,Noncommunicating hydrocephalus
+run_010,raloxifene,2351,HP:0010953,Noncommunicating hydrocephalus
+run_010,tacrolimus,2552,HP:0000772,Abnormality of the ribs
+run_010,siltuximab,4977,HP:0000772,Abnormality of the ribs
+run_010,raloxifene,2351,HP:0000772,Abnormality of the ribs
+run_010,tacrolimus,2552,HP:0030268,Hyperplastic callus formation
+run_010,raloxifene,2351,HP:0030268,Hyperplastic callus formation
+run_010,ascorbic acid,4072,HP:0030268,Hyperplastic callus formation
+run_010,tacrolimus,2552,HP:0002273,Tetraparesis
+run_010,ascorbic acid,4072,HP:0002273,Tetraparesis
+run_010,ciclosporin,760,HP:0002273,Tetraparesis
+run_010,tacrolimus,2552,HP:0000684,Delayed eruption of teeth
+run_010,ascorbic acid,4072,HP:0000684,Delayed eruption of teeth
+run_010,siltuximab,4977,HP:0000684,Delayed eruption of teeth
+run_010,siltuximab,4977,HP:0002823,Abnormality of femur morphology
+run_010,prednisolone,2245,HP:0002823,Abnormality of femur morphology
+run_010,raloxifene,2351,HP:0002823,Abnormality of femur morphology
+run_010,prednisolone,2245,HP:0000939,Osteoporosis
+run_010,losartan,1610,HP:0000939,Osteoporosis
+run_010,siltuximab,4977,HP:0000939,Osteoporosis
+run_010,ascorbic acid,4072,HP:0000023,Inguinal hernia
+run_010,tacrolimus,2552,HP:0000023,Inguinal hernia
+run_010,ciclosporin,760,HP:0000023,Inguinal hernia
+run_010,tacrolimus,2552,HP:0000973,Cutis laxa
+run_010,ascorbic acid,4072,HP:0000973,Cutis laxa
+run_010,caplacizumab,5308,HP:0000973,Cutis laxa
+run_010,caplacizumab,5308,HP:0001873,Thrombocytopenia
+run_010,siltuximab,4977,HP:0001873,Thrombocytopenia
+run_010,ascorbic acid,4072,HP:0001873,Thrombocytopenia
+run_010,tacrolimus,2552,HP:0000787,Nephrolithiasis
+run_010,ascorbic acid,4072,HP:0000787,Nephrolithiasis
+run_010,caplacizumab,5308,HP:0000787,Nephrolithiasis
+run_010,tacrolimus,2552,HP:0011314,Abnormality of long bone morphology
+run_010,caplacizumab,5308,HP:0011314,Abnormality of long bone morphology
+run_010,siltuximab,4977,HP:0011314,Abnormality of long bone morphology
+run_010,tacrolimus,2552,HP:0002643,Neonatal respiratory distress
+run_010,ascorbic acid,4072,HP:0002643,Neonatal respiratory distress
+run_010,ciclosporin,760,HP:0002643,Neonatal respiratory distress
+run_010,tacrolimus,2552,HP:0100761,Visceral angiomatosis
+run_010,ascorbic acid,4072,HP:0100761,Visceral angiomatosis
+run_010,raloxifene,2351,HP:0100761,Visceral angiomatosis
+run_010,tacrolimus,2552,HP:0002808,Kyphosis
+run_010,ciclosporin,760,HP:0002808,Kyphosis
+run_010,ascorbic acid,4072,HP:0002808,Kyphosis
+run_010,tacrolimus,2552,HP:0003083,Dislocated radial head
+run_010,ascorbic acid,4072,HP:0003083,Dislocated radial head
+run_010,ciclosporin,760,HP:0003083,Dislocated radial head
+run_010,tacrolimus,2552,HP:0000689,Dental malocclusion
+run_010,ascorbic acid,4072,HP:0000689,Dental malocclusion
+run_010,siltuximab,4977,HP:0000689,Dental malocclusion
+run_010,tacrolimus,2552,HP:0002953,Vertebral compression fracture
+run_010,ciclosporin,760,HP:0002953,Vertebral compression fracture
+run_010,ascorbic acid,4072,HP:0002953,Vertebral compression fracture
+run_010,tacrolimus,2552,HP:0000592,Blue sclerae
+run_010,ciclosporin,760,HP:0000592,Blue sclerae
+run_010,ascorbic acid,4072,HP:0000592,Blue sclerae
+run_010,ascorbic acid,4072,HP:0000238,Hydrocephalus
+run_010,caplacizumab,5308,HP:0000238,Hydrocephalus
+run_010,tacrolimus,2552,HP:0000238,Hydrocephalus
+run_010,tacrolimus,2552,HP:0006487,Bowing of the long bones
+run_010,ascorbic acid,4072,HP:0006487,Bowing of the long bones
+run_010,ciclosporin,760,HP:0006487,Bowing of the long bones
+run_010,tacrolimus,2552,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_010,ascorbic acid,4072,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_010,raloxifene,2351,HP:0030267,Calcification of the interosseus membrane of the forearm
+run_010,tacrolimus,2552,HP:0002647,Aortic dissection
+run_010,caplacizumab,5308,HP:0002647,Aortic dissection
+run_010,ascorbic acid,4072,HP:0002647,Aortic dissection
+run_010,tacrolimus,2552,HP:0008905,Rhizomelia
+run_010,ascorbic acid,4072,HP:0008905,Rhizomelia
+run_010,ciclosporin,760,HP:0008905,Rhizomelia
+run_010,ascorbic acid,4072,HP:0000501,Glaucoma
+run_010,tacrolimus,2552,HP:0000501,Glaucoma
+run_010,caplacizumab,5308,HP:0000501,Glaucoma
+run_010,ascorbic acid,4072,HP:0001634,Mitral valve prolapse
+run_010,tacrolimus,2552,HP:0001634,Mitral valve prolapse
+run_010,ciclosporin,760,HP:0001634,Mitral valve prolapse
+run_010,tacrolimus,2552,HP:0002616,Aortic root aneurysm
+run_010,ascorbic acid,4072,HP:0002616,Aortic root aneurysm
+run_010,ciclosporin,760,HP:0002616,Aortic root aneurysm
+run_010,tacrolimus,2552,HP:0006957,Loss of ability to walk
+run_010,ascorbic acid,4072,HP:0006957,Loss of ability to walk
+run_010,raloxifene,2351,HP:0006957,Loss of ability to walk
+run_010,tacrolimus,2552,HP:0002315,Headache
+run_010,ascorbic acid,4072,HP:0002315,Headache
+run_010,ciclosporin,760,HP:0002315,Headache
+run_010,ascorbic acid,4072,HP:0006824,Cranial nerve paralysis
+run_010,tacrolimus,2552,HP:0006824,Cranial nerve paralysis
+run_010,caplacizumab,5308,HP:0006824,Cranial nerve paralysis
+run_010,ascorbic acid,4072,HP:0000639,Nystagmus
+run_010,tacrolimus,2552,HP:0000639,Nystagmus
+run_010,ciclosporin,760,HP:0000639,Nystagmus
+run_010,tacrolimus,2552,HP:0000325,Triangular face
+run_010,ciclosporin,760,HP:0000325,Triangular face
+run_010,ascorbic acid,4072,HP:0000325,Triangular face
+run_010,tacrolimus,2552,HP:0003396,Syringomyelia
+run_010,ascorbic acid,4072,HP:0003396,Syringomyelia
+run_010,raloxifene,2351,HP:0003396,Syringomyelia
+run_010,tacrolimus,2552,HP:0004586,Biconcave vertebral bodies
+run_010,ciclosporin,760,HP:0004586,Biconcave vertebral bodies
+run_010,ascorbic acid,4072,HP:0004586,Biconcave vertebral bodies
+run_010,tacrolimus,2552,HP:0003103,Abnormal cortical bone morphology
+run_010,siltuximab,4977,HP:0003103,Abnormal cortical bone morphology
+run_010,prednisolone,2245,HP:0003103,Abnormal cortical bone morphology
+run_010,tacrolimus,2552,HP:0011073,Abnormality of dental color
+run_010,ascorbic acid,4072,HP:0011073,Abnormality of dental color
+run_010,ciclosporin,760,HP:0011073,Abnormality of dental color
+run_010,ascorbic acid,4072,HP:0005692,Joint hyperflexibility
+run_010,tacrolimus,2552,HP:0005692,Joint hyperflexibility
+run_010,ciclosporin,760,HP:0005692,Joint hyperflexibility
+run_010,tacrolimus,2552,HP:0004942,Aortic aneurysm
+run_010,ciclosporin,760,HP:0004942,Aortic aneurysm
+run_010,ascorbic acid,4072,HP:0004942,Aortic aneurysm
+run_010,tacrolimus,2552,HP:0000944,Abnormality of the metaphysis
+run_010,ascorbic acid,4072,HP:0000944,Abnormality of the metaphysis
+run_010,ciclosporin,760,HP:0000944,Abnormality of the metaphysis
+run_010,tacrolimus,2552,HP:0100661,Trigeminal neuralgia
+run_010,ascorbic acid,4072,HP:0100661,Trigeminal neuralgia
+run_010,ciclosporin,760,HP:0100661,Trigeminal neuralgia
+run_010,tacrolimus,2552,HP:0003084,Fractures of the long bones
+run_010,ascorbic acid,4072,HP:0003084,Fractures of the long bones
+run_010,raloxifene,2351,HP:0003084,Fractures of the long bones
+run_010,ciclosporin,760,HP:0003179,Protrusio acetabuli
+run_010,tacrolimus,2552,HP:0003179,Protrusio acetabuli
+run_010,ascorbic acid,4072,HP:0003179,Protrusio acetabuli
+run_010,tacrolimus,2552,HP:0006640,Multiple rib fractures
+run_010,ascorbic acid,4072,HP:0006640,Multiple rib fractures
+run_010,ciclosporin,760,HP:0006640,Multiple rib fractures
+run_010,ciclosporin,760,HP:0001518,Small for gestational age
+run_010,tacrolimus,2552,HP:0001518,Small for gestational age
+run_010,ascorbic acid,4072,HP:0001518,Small for gestational age
+run_010,tacrolimus,2552,HP:0000774,Narrow chest
+run_010,ascorbic acid,4072,HP:0000774,Narrow chest
+run_010,ciclosporin,760,HP:0000774,Narrow chest
+run_010,tacrolimus,2552,HP:0012366,Basilar invagination
+run_010,ascorbic acid,4072,HP:0012366,Basilar invagination
+run_010,raloxifene,2351,HP:0012366,Basilar invagination
+run_010,ascorbic acid,4072,HP:0000410,Mixed hearing impairment
+run_010,tacrolimus,2552,HP:0000410,Mixed hearing impairment
+run_010,ciclosporin,760,HP:0000410,Mixed hearing impairment
+run_010,ascorbic acid,4072,HP:0000505,Visual impairment
+run_010,tacrolimus,2552,HP:0000505,Visual impairment
+run_010,ciclosporin,760,HP:0000505,Visual impairment
+run_010,ascorbic acid,4072,HP:0001382,Joint hypermobility
+run_010,tacrolimus,2552,HP:0001382,Joint hypermobility
+run_010,ciclosporin,760,HP:0001382,Joint hypermobility
+run_010,ciclosporin,760,HP:0002757,Recurrent fractures
+run_010,tacrolimus,2552,HP:0002757,Recurrent fractures
+run_010,ascorbic acid,4072,HP:0002757,Recurrent fractures
+run_010,siltuximab,4977,HP:0002992,Abnormality of tibia morphology
+run_010,prednisolone,2245,HP:0002992,Abnormality of tibia morphology
+run_010,tacrolimus,2552,HP:0002992,Abnormality of tibia morphology
+run_010,tacrolimus,2552,HP:0002829,Arthralgia
+run_010,ascorbic acid,4072,HP:0002829,Arthralgia
+run_010,ciclosporin,760,HP:0002829,Arthralgia
+run_010,ascorbic acid,4072,HP:0001371,Flexion contracture
+run_010,tacrolimus,2552,HP:0001371,Flexion contracture
+run_010,ciclosporin,760,HP:0001371,Flexion contracture
+run_010,tacrolimus,2552,HP:0002653,Bone pain
+run_010,ascorbic acid,4072,HP:0002653,Bone pain
+run_010,raloxifene,2351,HP:0002653,Bone pain
+run_010,tacrolimus,2552,HP:0005214,Intestinal obstruction
+run_010,ascorbic acid,4072,HP:0005214,Intestinal obstruction
+run_010,siltuximab,4977,HP:0005214,Intestinal obstruction
+run_010,ascorbic acid,4072,HP:0001288,Gait disturbance
+run_010,ciclosporin,760,HP:0001288,Gait disturbance
+run_010,caplacizumab,5308,HP:0001288,Gait disturbance
+run_010,tacrolimus,2552,HP:0004482,Relative macrocephaly
+run_010,ascorbic acid,4072,HP:0004482,Relative macrocephaly
+run_010,ciclosporin,760,HP:0004482,Relative macrocephaly
+run_010,ascorbic acid,4072,HP:0000975,Hyperhidrosis
+run_010,tacrolimus,2552,HP:0000975,Hyperhidrosis
+run_010,ciclosporin,760,HP:0000975,Hyperhidrosis
+run_010,tacrolimus,2552,HP:0002947,Cervical kyphosis
+run_010,ascorbic acid,4072,HP:0002947,Cervical kyphosis
+run_010,raloxifene,2351,HP:0002947,Cervical kyphosis
+run_010,tacrolimus,2552,HP:0005257,Thoracic hypoplasia
+run_010,ascorbic acid,4072,HP:0005257,Thoracic hypoplasia
+run_010,ciclosporin,760,HP:0005257,Thoracic hypoplasia
+run_010,tacrolimus,2552,HP:0000670,Carious teeth
+run_010,ascorbic acid,4072,HP:0000670,Carious teeth
+run_010,siltuximab,4977,HP:0000670,Carious teeth
+run_010,tacrolimus,2552,HP:0001511,Intrauterine growth retardation
+run_010,ascorbic acid,4072,HP:0001511,Intrauterine growth retardation
+run_010,siltuximab,4977,HP:0001511,Intrauterine growth retardation
+run_010,tacrolimus,2552,HP:0004331,Decreased skull ossification
+run_010,ascorbic acid,4072,HP:0004331,Decreased skull ossification
+run_010,ciclosporin,760,HP:0004331,Decreased skull ossification
+run_010,tacrolimus,2552,HP:0002011,Morphological central nervous system abnormality
+run_010,ascorbic acid,4072,HP:0002011,Morphological central nervous system abnormality
+run_010,ciclosporin,760,HP:0002011,Morphological central nervous system abnormality
+run_010,ascorbic acid,4072,HP:0001537,Umbilical hernia
+run_010,tacrolimus,2552,HP:0001537,Umbilical hernia
+run_010,ciclosporin,760,HP:0001537,Umbilical hernia
+run_010,ciclosporin,760,HP:0002645,Wormian bones
+run_010,tacrolimus,2552,HP:0002645,Wormian bones
+run_010,ascorbic acid,4072,HP:0002645,Wormian bones
+run_010,tacrolimus,2552,HP:0000883,Thin ribs
+run_010,ciclosporin,760,HP:0000883,Thin ribs
+run_010,ascorbic acid,4072,HP:0000883,Thin ribs
+run_010,tacrolimus,2552,HP:0004306,Abnormal endocardium morphology
+run_010,ascorbic acid,4072,HP:0004306,Abnormal endocardium morphology
+run_010,raloxifene,2351,HP:0004306,Abnormal endocardium morphology
+run_010,tacrolimus,2552,HP:0003474,Somatic sensory dysfunction
+run_010,ascorbic acid,4072,HP:0003474,Somatic sensory dysfunction
+run_010,ciclosporin,760,HP:0003474,Somatic sensory dysfunction
+run_010,tacrolimus,2552,HP:0002150,Hypercalciuria
+run_010,ascorbic acid,4072,HP:0002150,Hypercalciuria
+run_010,raloxifene,2351,HP:0002150,Hypercalciuria
+run_010,tacrolimus,2552,HP:0005294,Arterial dissection
+run_010,ascorbic acid,4072,HP:0005294,Arterial dissection
+run_010,ciclosporin,760,HP:0005294,Arterial dissection
+run_010,ascorbic acid,4072,HP:0002119,Ventriculomegaly
+run_010,caplacizumab,5308,HP:0002119,Ventriculomegaly
+run_010,tacrolimus,2552,HP:0002119,Ventriculomegaly
+run_010,tacrolimus,2552,HP:0002983,Micromelia
+run_010,ascorbic acid,4072,HP:0002983,Micromelia
+run_010,ciclosporin,760,HP:0002983,Micromelia
+run_010,tacrolimus,2552,HP:0002659,Increased susceptibility to fractures
+run_010,ciclosporin,760,HP:0002659,Increased susceptibility to fractures
+run_010,ascorbic acid,4072,HP:0002659,Increased susceptibility to fractures
+run_010,tacrolimus,2552,HP:0005019,Diaphyseal thickening
+run_010,ascorbic acid,4072,HP:0005019,Diaphyseal thickening
+run_010,raloxifene,2351,HP:0005019,Diaphyseal thickening

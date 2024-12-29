@@ -1,0 +1,841 @@
+Run,Drug,Drug ID,Symptom ID,Symptom
+run_001,azathioprine,269,HP:0100543,Cognitive impairment
+run_001,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_001,carfilzomib,4483,HP:0100543,Cognitive impairment
+run_001,aprindine,231,HP:0002791,Hypoventilation
+run_001,mezlocillin,1795,HP:0002791,Hypoventilation
+run_001,azathioprine,269,HP:0002791,Hypoventilation
+run_001,carfilzomib,4483,HP:0001263,Global developmental delay
+run_001,mezlocillin,1795,HP:0001263,Global developmental delay
+run_001,azathioprine,269,HP:0001263,Global developmental delay
+run_001,azathioprine,269,HP:0001252,Hypotonia
+run_001,carfilzomib,4483,HP:0001252,Hypotonia
+run_001,mezlocillin,1795,HP:0001252,Hypotonia
+run_001,azathioprine,269,HP:0001328,Specific learning disability
+run_001,mezlocillin,1795,HP:0001328,Specific learning disability
+run_001,carfilzomib,4483,HP:0001328,Specific learning disability
+run_001,azathioprine,269,HP:0001290,Generalized hypotonia
+run_001,carfilzomib,4483,HP:0001290,Generalized hypotonia
+run_001,entrectinib,5345,HP:0001290,Generalized hypotonia
+run_001,aprindine,231,HP:0001635,Congestive heart failure
+run_001,entrectinib,5345,HP:0001635,Congestive heart failure
+run_001,lorlatinib,5302,HP:0001635,Congestive heart failure
+run_001,levosimendan,1576,HP:0011675,Arrhythmia
+run_001,tenidap,4728,HP:0011675,Arrhythmia
+run_001,propranolol,2303,HP:0011675,Arrhythmia
+run_001,azathioprine,269,HP:0003391,Gowers sign
+run_001,carfilzomib,4483,HP:0003391,Gowers sign
+run_001,aprindine,231,HP:0003391,Gowers sign
+run_001,levosimendan,1576,HP:0003115,Abnormal EKG
+run_001,aprindine,231,HP:0003115,Abnormal EKG
+run_001,suramin,2966,HP:0003115,Abnormal EKG
+run_001,azathioprine,269,HP:0001371,Flexion contracture
+run_001,carfilzomib,4483,HP:0001371,Flexion contracture
+run_001,mezlocillin,1795,HP:0001371,Flexion contracture
+run_001,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,carfilzomib,4483,HP:0000750,Delayed speech and language development
+run_001,estradiol,1057,HP:0000750,Delayed speech and language development
+run_001,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_001,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_001,azathioprine,269,HP:0008981,Calf muscle hypertrophy
+run_001,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_001,aprindine,231,HP:0003560,Muscular dystrophy
+run_001,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_001,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_001,azathioprine,269,HP:0003307,Hyperlordosis
+run_001,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_001,levosimendan,1576,HP:0003307,Hyperlordosis
+run_001,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_001,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_001,entrectinib,5345,HP:0002093,Respiratory insufficiency
+run_001,azathioprine,269,HP:0003202,Skeletal muscle atrophy
+run_001,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_001,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_001,azathioprine,269,HP:0001265,Hyporeflexia
+run_001,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_001,aprindine,231,HP:0001265,Hyporeflexia
+run_001,azathioprine,269,HP:0002650,Scoliosis
+run_001,carfilzomib,4483,HP:0002650,Scoliosis
+run_001,mezlocillin,1795,HP:0002650,Scoliosis
+run_001,azathioprine,269,HP:0001270,Motor delay
+run_001,carfilzomib,4483,HP:0001270,Motor delay
+run_001,mezlocillin,1795,HP:0001270,Motor delay
+run_001,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_001,aprindine,231,HP:0001638,Cardiomyopathy
+run_001,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_001,azathioprine,269,HP:0003701,Proximal muscle weakness
+run_001,carfilzomib,4483,HP:0003701,Proximal muscle weakness
+run_001,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_001,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_001,azathioprine,269,HP:0003707,Calf muscle pseudohypertrophy
+run_001,chlorzoxazone,626,HP:0003707,Calf muscle pseudohypertrophy
+run_001,carfilzomib,4483,HP:0001256,"Intellectual disability, mild"
+run_001,ixazomib,5067,HP:0001256,"Intellectual disability, mild"
+run_001,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_001,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_001,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_001,azathioprine,269,HP:0001644,Dilated cardiomyopathy
+run_001,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_001,aprindine,231,HP:0003323,Progressive muscle weakness
+run_001,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_001,azathioprine,269,HP:0002515,Waddling gait
+run_001,carfilzomib,4483,HP:0002515,Waddling gait
+run_001,mezlocillin,1795,HP:0002515,Waddling gait
+run_002,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_002,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_002,azathioprine,269,HP:0100543,Cognitive impairment
+run_002,mezlocillin,1795,HP:0002791,Hypoventilation
+run_002,aprindine,231,HP:0002791,Hypoventilation
+run_002,brilliant Blue G,5359,HP:0002791,Hypoventilation
+run_002,azathioprine,269,HP:0001263,Global developmental delay
+run_002,mezlocillin,1795,HP:0001263,Global developmental delay
+run_002,carfilzomib,4483,HP:0001263,Global developmental delay
+run_002,azathioprine,269,HP:0001252,Hypotonia
+run_002,mezlocillin,1795,HP:0001252,Hypotonia
+run_002,carfilzomib,4483,HP:0001252,Hypotonia
+run_002,mezlocillin,1795,HP:0001328,Specific learning disability
+run_002,azathioprine,269,HP:0001328,Specific learning disability
+run_002,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_002,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_002,azathioprine,269,HP:0001290,Generalized hypotonia
+run_002,carfilzomib,4483,HP:0001290,Generalized hypotonia
+run_002,aprindine,231,HP:0001635,Congestive heart failure
+run_002,tropicamide,2774,HP:0001635,Congestive heart failure
+run_002,mecamylamine,1646,HP:0001635,Congestive heart failure
+run_002,levosimendan,1576,HP:0011675,Arrhythmia
+run_002,carvedilol,522,HP:0011675,Arrhythmia
+run_002,brilliant Blue G,5359,HP:0011675,Arrhythmia
+run_002,mezlocillin,1795,HP:0003391,Gowers sign
+run_002,aprindine,231,HP:0003391,Gowers sign
+run_002,azathioprine,269,HP:0003391,Gowers sign
+run_002,aprindine,231,HP:0003115,Abnormal EKG
+run_002,levosimendan,1576,HP:0003115,Abnormal EKG
+run_002,viltolarsen,5408,HP:0003115,Abnormal EKG
+run_002,mezlocillin,1795,HP:0001371,Flexion contracture
+run_002,aprindine,231,HP:0001371,Flexion contracture
+run_002,levosimendan,1576,HP:0001371,Flexion contracture
+run_002,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_002,azathioprine,269,HP:0000750,Delayed speech and language development
+run_002,carfilzomib,4483,HP:0000750,Delayed speech and language development
+run_002,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_002,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_002,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_002,aprindine,231,HP:0003560,Muscular dystrophy
+run_002,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_002,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_002,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_002,aprindine,231,HP:0003307,Hyperlordosis
+run_002,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_002,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_002,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_002,aprindine,231,HP:0002093,Respiratory insufficiency
+run_002,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_002,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_002,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_002,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_002,azathioprine,269,HP:0001265,Hyporeflexia
+run_002,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_002,mezlocillin,1795,HP:0002650,Scoliosis
+run_002,azathioprine,269,HP:0002650,Scoliosis
+run_002,aprindine,231,HP:0002650,Scoliosis
+run_002,azathioprine,269,HP:0001270,Motor delay
+run_002,mezlocillin,1795,HP:0001270,Motor delay
+run_002,mecamylamine,1646,HP:0001270,Motor delay
+run_002,aprindine,231,HP:0001638,Cardiomyopathy
+run_002,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_002,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_002,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_002,aprindine,231,HP:0003701,Proximal muscle weakness
+run_002,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_002,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_002,mezlocillin,1795,HP:0003707,Calf muscle pseudohypertrophy
+run_002,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_002,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_002,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_002,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_002,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_002,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_002,mezlocillin,1795,HP:0001644,Dilated cardiomyopathy
+run_002,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_002,aprindine,231,HP:0003323,Progressive muscle weakness
+run_002,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_002,mezlocillin,1795,HP:0002515,Waddling gait
+run_002,azathioprine,269,HP:0002515,Waddling gait
+run_002,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_003,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_003,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_003,azathioprine,269,HP:0100543,Cognitive impairment
+run_003,azathioprine,269,HP:0002791,Hypoventilation
+run_003,mezlocillin,1795,HP:0002791,Hypoventilation
+run_003,eteplirsen,5182,HP:0002791,Hypoventilation
+run_003,mezlocillin,1795,HP:0001263,Global developmental delay
+run_003,azathioprine,269,HP:0001263,Global developmental delay
+run_003,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_003,mezlocillin,1795,HP:0001252,Hypotonia
+run_003,azathioprine,269,HP:0001252,Hypotonia
+run_003,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_003,azathioprine,269,HP:0001328,Specific learning disability
+run_003,mezlocillin,1795,HP:0001328,Specific learning disability
+run_003,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_003,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_003,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_003,azathioprine,269,HP:0001290,Generalized hypotonia
+run_003,aprindine,231,HP:0001635,Congestive heart failure
+run_003,selinexor,5330,HP:0001635,Congestive heart failure
+run_003,mezlocillin,1795,HP:0001635,Congestive heart failure
+run_003,levosimendan,1576,HP:0011675,Arrhythmia
+run_003,mezlocillin,1795,HP:0011675,Arrhythmia
+run_003,selinexor,5330,HP:0011675,Arrhythmia
+run_003,azathioprine,269,HP:0003391,Gowers sign
+run_003,mezlocillin,1795,HP:0003391,Gowers sign
+run_003,brilliant Blue G,5359,HP:0003391,Gowers sign
+run_003,aprindine,231,HP:0003115,Abnormal EKG
+run_003,levosimendan,1576,HP:0003115,Abnormal EKG
+run_003,eteplirsen,5182,HP:0003115,Abnormal EKG
+run_003,mezlocillin,1795,HP:0001371,Flexion contracture
+run_003,azathioprine,269,HP:0001371,Flexion contracture
+run_003,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_003,mezlocillin,1795,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,azathioprine,269,HP:0000750,Delayed speech and language development
+run_003,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_003,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_003,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_003,brilliant Blue G,5359,HP:0008981,Calf muscle hypertrophy
+run_003,azathioprine,269,HP:0008981,Calf muscle hypertrophy
+run_003,aprindine,231,HP:0003560,Muscular dystrophy
+run_003,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_003,mezlocillin,1795,HP:0003560,Muscular dystrophy
+run_003,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_003,azathioprine,269,HP:0003307,Hyperlordosis
+run_003,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_003,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_003,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_003,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_003,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_003,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_003,azathioprine,269,HP:0003202,Skeletal muscle atrophy
+run_003,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_003,azathioprine,269,HP:0001265,Hyporeflexia
+run_003,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_003,mezlocillin,1795,HP:0002650,Scoliosis
+run_003,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_003,azathioprine,269,HP:0002650,Scoliosis
+run_003,mezlocillin,1795,HP:0001270,Motor delay
+run_003,azathioprine,269,HP:0001270,Motor delay
+run_003,brilliant Blue G,5359,HP:0001270,Motor delay
+run_003,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_003,aprindine,231,HP:0001638,Cardiomyopathy
+run_003,mezlocillin,1795,HP:0001638,Cardiomyopathy
+run_003,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_003,azathioprine,269,HP:0003701,Proximal muscle weakness
+run_003,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_003,brilliant Blue G,5359,HP:0003707,Calf muscle pseudohypertrophy
+run_003,azathioprine,269,HP:0003707,Calf muscle pseudohypertrophy
+run_003,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_003,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_003,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_003,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_003,mezlocillin,1795,HP:0001644,Dilated cardiomyopathy
+run_003,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_003,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_003,mezlocillin,1795,HP:0003323,Progressive muscle weakness
+run_003,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_003,aprindine,231,HP:0003323,Progressive muscle weakness
+run_003,mezlocillin,1795,HP:0002515,Waddling gait
+run_003,azathioprine,269,HP:0002515,Waddling gait
+run_003,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_004,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_004,azathioprine,269,HP:0100543,Cognitive impairment
+run_004,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_004,azathioprine,269,HP:0002791,Hypoventilation
+run_004,eteplirsen,5182,HP:0002791,Hypoventilation
+run_004,casimersen,5443,HP:0002791,Hypoventilation
+run_004,azathioprine,269,HP:0001263,Global developmental delay
+run_004,axitinib,4225,HP:0001263,Global developmental delay
+run_004,mezlocillin,1795,HP:0001263,Global developmental delay
+run_004,azathioprine,269,HP:0001252,Hypotonia
+run_004,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_004,axitinib,4225,HP:0001252,Hypotonia
+run_004,azathioprine,269,HP:0001328,Specific learning disability
+run_004,mezlocillin,1795,HP:0001328,Specific learning disability
+run_004,eteplirsen,5182,HP:0001328,Specific learning disability
+run_004,azathioprine,269,HP:0001290,Generalized hypotonia
+run_004,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_004,axitinib,4225,HP:0001290,Generalized hypotonia
+run_004,aprindine,231,HP:0001635,Congestive heart failure
+run_004,eteplirsen,5182,HP:0001635,Congestive heart failure
+run_004,casimersen,5443,HP:0001635,Congestive heart failure
+run_004,eteplirsen,5182,HP:0011675,Arrhythmia
+run_004,casimersen,5443,HP:0011675,Arrhythmia
+run_004,mezlocillin,1795,HP:0011675,Arrhythmia
+run_004,azathioprine,269,HP:0003391,Gowers sign
+run_004,aprindine,231,HP:0003391,Gowers sign
+run_004,eteplirsen,5182,HP:0003391,Gowers sign
+run_004,aprindine,231,HP:0003115,Abnormal EKG
+run_004,eteplirsen,5182,HP:0003115,Abnormal EKG
+run_004,casimersen,5443,HP:0003115,Abnormal EKG
+run_004,azathioprine,269,HP:0001371,Flexion contracture
+run_004,aprindine,231,HP:0001371,Flexion contracture
+run_004,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_004,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,eteplirsen,5182,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,casimersen,5443,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,azathioprine,269,HP:0000750,Delayed speech and language development
+run_004,axitinib,4225,HP:0000750,Delayed speech and language development
+run_004,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_004,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_004,azathioprine,269,HP:0008981,Calf muscle hypertrophy
+run_004,eteplirsen,5182,HP:0008981,Calf muscle hypertrophy
+run_004,aprindine,231,HP:0003560,Muscular dystrophy
+run_004,eteplirsen,5182,HP:0003560,Muscular dystrophy
+run_004,azathioprine,269,HP:0003560,Muscular dystrophy
+run_004,aprindine,231,HP:0003307,Hyperlordosis
+run_004,azathioprine,269,HP:0003307,Hyperlordosis
+run_004,eteplirsen,5182,HP:0003307,Hyperlordosis
+run_004,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_004,eteplirsen,5182,HP:0002093,Respiratory insufficiency
+run_004,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_004,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_004,azathioprine,269,HP:0003202,Skeletal muscle atrophy
+run_004,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_004,azathioprine,269,HP:0001265,Hyporeflexia
+run_004,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_004,eteplirsen,5182,HP:0001265,Hyporeflexia
+run_004,azathioprine,269,HP:0002650,Scoliosis
+run_004,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_004,mezlocillin,1795,HP:0002650,Scoliosis
+run_004,azathioprine,269,HP:0001270,Motor delay
+run_004,brilliant Blue G,5359,HP:0001270,Motor delay
+run_004,mezlocillin,1795,HP:0001270,Motor delay
+run_004,aprindine,231,HP:0001638,Cardiomyopathy
+run_004,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_004,eteplirsen,5182,HP:0001638,Cardiomyopathy
+run_004,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_004,aprindine,231,HP:0003701,Proximal muscle weakness
+run_004,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_004,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_004,azathioprine,269,HP:0003707,Calf muscle pseudohypertrophy
+run_004,eteplirsen,5182,HP:0003707,Calf muscle pseudohypertrophy
+run_004,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_004,eteplirsen,5182,HP:0001256,"Intellectual disability, mild"
+run_004,casimersen,5443,HP:0001256,"Intellectual disability, mild"
+run_004,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_004,eteplirsen,5182,HP:0001644,Dilated cardiomyopathy
+run_004,casimersen,5443,HP:0001644,Dilated cardiomyopathy
+run_004,eteplirsen,5182,HP:0003323,Progressive muscle weakness
+run_004,casimersen,5443,HP:0003323,Progressive muscle weakness
+run_004,golodirsen,5357,HP:0003323,Progressive muscle weakness
+run_004,azathioprine,269,HP:0002515,Waddling gait
+run_004,aprindine,231,HP:0002515,Waddling gait
+run_004,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_005,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_005,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_005,carfilzomib,4483,HP:0100543,Cognitive impairment
+run_005,mezlocillin,1795,HP:0002791,Hypoventilation
+run_005,carfilzomib,4483,HP:0002791,Hypoventilation
+run_005,eteplirsen,5182,HP:0002791,Hypoventilation
+run_005,mezlocillin,1795,HP:0001263,Global developmental delay
+run_005,axitinib,4225,HP:0001263,Global developmental delay
+run_005,carfilzomib,4483,HP:0001263,Global developmental delay
+run_005,mezlocillin,1795,HP:0001252,Hypotonia
+run_005,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_005,axitinib,4225,HP:0001252,Hypotonia
+run_005,mezlocillin,1795,HP:0001328,Specific learning disability
+run_005,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_005,selinexor,5330,HP:0001328,Specific learning disability
+run_005,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_005,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_005,axitinib,4225,HP:0001290,Generalized hypotonia
+run_005,aprindine,231,HP:0001635,Congestive heart failure
+run_005,nicotinamide,1906,HP:0001635,Congestive heart failure
+run_005,suramin,2966,HP:0001635,Congestive heart failure
+run_005,levosimendan,1576,HP:0011675,Arrhythmia
+run_005,entrectinib,5345,HP:0011675,Arrhythmia
+run_005,brilliant Blue G,5359,HP:0011675,Arrhythmia
+run_005,mezlocillin,1795,HP:0003391,Gowers sign
+run_005,aprindine,231,HP:0003391,Gowers sign
+run_005,brilliant Blue G,5359,HP:0003391,Gowers sign
+run_005,aprindine,231,HP:0003115,Abnormal EKG
+run_005,eteplirsen,5182,HP:0003115,Abnormal EKG
+run_005,casimersen,5443,HP:0003115,Abnormal EKG
+run_005,mezlocillin,1795,HP:0001371,Flexion contracture
+run_005,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_005,carfilzomib,4483,HP:0001371,Flexion contracture
+run_005,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,mezlocillin,1795,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_005,axitinib,4225,HP:0000750,Delayed speech and language development
+run_005,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_005,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_005,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_005,brilliant Blue G,5359,HP:0008981,Calf muscle hypertrophy
+run_005,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_005,aprindine,231,HP:0003560,Muscular dystrophy
+run_005,mezlocillin,1795,HP:0003560,Muscular dystrophy
+run_005,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_005,aprindine,231,HP:0003307,Hyperlordosis
+run_005,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_005,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_005,selinexor,5330,HP:0002093,Respiratory insufficiency
+run_005,aprindine,231,HP:0002093,Respiratory insufficiency
+run_005,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_005,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_005,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_005,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_005,aprindine,231,HP:0001265,Hyporeflexia
+run_005,carfilzomib,4483,HP:0001265,Hyporeflexia
+run_005,mezlocillin,1795,HP:0002650,Scoliosis
+run_005,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_005,selinexor,5330,HP:0002650,Scoliosis
+run_005,mezlocillin,1795,HP:0001270,Motor delay
+run_005,carfilzomib,4483,HP:0001270,Motor delay
+run_005,axitinib,4225,HP:0001270,Motor delay
+run_005,aprindine,231,HP:0001638,Cardiomyopathy
+run_005,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_005,eteplirsen,5182,HP:0001638,Cardiomyopathy
+run_005,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_005,aprindine,231,HP:0003701,Proximal muscle weakness
+run_005,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_005,mezlocillin,1795,HP:0003707,Calf muscle pseudohypertrophy
+run_005,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_005,selinexor,5330,HP:0003707,Calf muscle pseudohypertrophy
+run_005,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_005,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_005,carfilzomib,4483,HP:0001256,"Intellectual disability, mild"
+run_005,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_005,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_005,mezlocillin,1795,HP:0001644,Dilated cardiomyopathy
+run_005,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_005,aprindine,231,HP:0003323,Progressive muscle weakness
+run_005,mezlocillin,1795,HP:0003323,Progressive muscle weakness
+run_005,mezlocillin,1795,HP:0002515,Waddling gait
+run_005,aprindine,231,HP:0002515,Waddling gait
+run_005,selinexor,5330,HP:0002515,Waddling gait
+run_006,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_006,azathioprine,269,HP:0100543,Cognitive impairment
+run_006,casimersen,5443,HP:0100543,Cognitive impairment
+run_006,azathioprine,269,HP:0002791,Hypoventilation
+run_006,casimersen,5443,HP:0002791,Hypoventilation
+run_006,viltolarsen,5408,HP:0002791,Hypoventilation
+run_006,azathioprine,269,HP:0001263,Global developmental delay
+run_006,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_006,selinexor,5330,HP:0001263,Global developmental delay
+run_006,azathioprine,269,HP:0001252,Hypotonia
+run_006,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_006,casimersen,5443,HP:0001252,Hypotonia
+run_006,casimersen,5443,HP:0001328,Specific learning disability
+run_006,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_006,golodirsen,5357,HP:0001328,Specific learning disability
+run_006,azathioprine,269,HP:0001290,Generalized hypotonia
+run_006,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_006,selinexor,5330,HP:0001290,Generalized hypotonia
+run_006,aprindine,231,HP:0001635,Congestive heart failure
+run_006,hydralazine,1384,HP:0001635,Congestive heart failure
+run_006,cadralazine,461,HP:0001635,Congestive heart failure
+run_006,levosimendan,1576,HP:0011675,Arrhythmia
+run_006,casimersen,5443,HP:0011675,Arrhythmia
+run_006,carvedilol,522,HP:0011675,Arrhythmia
+run_006,levosimendan,1576,HP:0003391,Gowers sign
+run_006,aprindine,231,HP:0003391,Gowers sign
+run_006,azathioprine,269,HP:0003391,Gowers sign
+run_006,aprindine,231,HP:0003115,Abnormal EKG
+run_006,levosimendan,1576,HP:0003115,Abnormal EKG
+run_006,casimersen,5443,HP:0003115,Abnormal EKG
+run_006,levosimendan,1576,HP:0001371,Flexion contracture
+run_006,azathioprine,269,HP:0001371,Flexion contracture
+run_006,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_006,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,azathioprine,269,HP:0000750,Delayed speech and language development
+run_006,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_006,casimersen,5443,HP:0000750,Delayed speech and language development
+run_006,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_006,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_006,carvedilol,522,HP:0008981,Calf muscle hypertrophy
+run_006,aprindine,231,HP:0003560,Muscular dystrophy
+run_006,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_006,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_006,levosimendan,1576,HP:0003307,Hyperlordosis
+run_006,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_006,aprindine,231,HP:0003307,Hyperlordosis
+run_006,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_006,levosimendan,1576,HP:0002093,Respiratory insufficiency
+run_006,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_006,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_006,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_006,casimersen,5443,HP:0003202,Skeletal muscle atrophy
+run_006,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_006,casimersen,5443,HP:0001265,Hyporeflexia
+run_006,azathioprine,269,HP:0001265,Hyporeflexia
+run_006,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_006,azathioprine,269,HP:0002650,Scoliosis
+run_006,levosimendan,1576,HP:0002650,Scoliosis
+run_006,azathioprine,269,HP:0001270,Motor delay
+run_006,brilliant Blue G,5359,HP:0001270,Motor delay
+run_006,levosimendan,1576,HP:0001270,Motor delay
+run_006,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_006,aprindine,231,HP:0001638,Cardiomyopathy
+run_006,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_006,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_006,aprindine,231,HP:0003701,Proximal muscle weakness
+run_006,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_006,casimersen,5443,HP:0003707,Calf muscle pseudohypertrophy
+run_006,viltolarsen,5408,HP:0003707,Calf muscle pseudohypertrophy
+run_006,golodirsen,5357,HP:0003707,Calf muscle pseudohypertrophy
+run_006,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_006,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_006,casimersen,5443,HP:0001256,"Intellectual disability, mild"
+run_006,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_006,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_006,brilliant Blue G,5359,HP:0001644,Dilated cardiomyopathy
+run_006,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_006,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_006,aprindine,231,HP:0003323,Progressive muscle weakness
+run_006,levosimendan,1576,HP:0002515,Waddling gait
+run_006,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_006,aprindine,231,HP:0002515,Waddling gait
+run_007,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_007,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_007,azathioprine,269,HP:0100543,Cognitive impairment
+run_007,mezlocillin,1795,HP:0002791,Hypoventilation
+run_007,brilliant Blue G,5359,HP:0002791,Hypoventilation
+run_007,azathioprine,269,HP:0002791,Hypoventilation
+run_007,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_007,mezlocillin,1795,HP:0001263,Global developmental delay
+run_007,azathioprine,269,HP:0001263,Global developmental delay
+run_007,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_007,azathioprine,269,HP:0001252,Hypotonia
+run_007,mezlocillin,1795,HP:0001252,Hypotonia
+run_007,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_007,mezlocillin,1795,HP:0001328,Specific learning disability
+run_007,azathioprine,269,HP:0001328,Specific learning disability
+run_007,azathioprine,269,HP:0001290,Generalized hypotonia
+run_007,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_007,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_007,aprindine,231,HP:0001635,Congestive heart failure
+run_007,brilliant Blue G,5359,HP:0001635,Congestive heart failure
+run_007,disopyramide,926,HP:0001635,Congestive heart failure
+run_007,levosimendan,1576,HP:0011675,Arrhythmia
+run_007,brilliant Blue G,5359,HP:0011675,Arrhythmia
+run_007,mezlocillin,1795,HP:0011675,Arrhythmia
+run_007,brilliant Blue G,5359,HP:0003391,Gowers sign
+run_007,aprindine,231,HP:0003391,Gowers sign
+run_007,mezlocillin,1795,HP:0003391,Gowers sign
+run_007,aprindine,231,HP:0003115,Abnormal EKG
+run_007,golodirsen,5357,HP:0003115,Abnormal EKG
+run_007,casimersen,5443,HP:0003115,Abnormal EKG
+run_007,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_007,mezlocillin,1795,HP:0001371,Flexion contracture
+run_007,aprindine,231,HP:0001371,Flexion contracture
+run_007,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_007,azathioprine,269,HP:0000750,Delayed speech and language development
+run_007,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_007,brilliant Blue G,5359,HP:0008981,Calf muscle hypertrophy
+run_007,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_007,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_007,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_007,aprindine,231,HP:0003560,Muscular dystrophy
+run_007,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_007,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_007,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_007,levosimendan,1576,HP:0003307,Hyperlordosis
+run_007,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_007,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_007,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_007,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_007,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_007,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_007,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_007,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_007,aprindine,231,HP:0001265,Hyporeflexia
+run_007,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_007,mezlocillin,1795,HP:0002650,Scoliosis
+run_007,azathioprine,269,HP:0002650,Scoliosis
+run_007,brilliant Blue G,5359,HP:0001270,Motor delay
+run_007,mezlocillin,1795,HP:0001270,Motor delay
+run_007,azathioprine,269,HP:0001270,Motor delay
+run_007,aprindine,231,HP:0001638,Cardiomyopathy
+run_007,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_007,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_007,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_007,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_007,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_007,brilliant Blue G,5359,HP:0003707,Calf muscle pseudohypertrophy
+run_007,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_007,tenidap,4728,HP:0003707,Calf muscle pseudohypertrophy
+run_007,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_007,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_007,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_007,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_007,brilliant Blue G,5359,HP:0001644,Dilated cardiomyopathy
+run_007,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_007,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_007,aprindine,231,HP:0003323,Progressive muscle weakness
+run_007,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_007,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_007,mezlocillin,1795,HP:0002515,Waddling gait
+run_007,levosimendan,1576,HP:0002515,Waddling gait
+run_008,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_008,selinexor,5330,HP:0100543,Cognitive impairment
+run_008,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_008,selinexor,5330,HP:0002791,Hypoventilation
+run_008,brilliant Blue G,5359,HP:0002791,Hypoventilation
+run_008,aprindine,231,HP:0002791,Hypoventilation
+run_008,azathioprine,269,HP:0001263,Global developmental delay
+run_008,selinexor,5330,HP:0001263,Global developmental delay
+run_008,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_008,selinexor,5330,HP:0001252,Hypotonia
+run_008,azathioprine,269,HP:0001252,Hypotonia
+run_008,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_008,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_008,selinexor,5330,HP:0001328,Specific learning disability
+run_008,azathioprine,269,HP:0001328,Specific learning disability
+run_008,selinexor,5330,HP:0001290,Generalized hypotonia
+run_008,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_008,azathioprine,269,HP:0001290,Generalized hypotonia
+run_008,aprindine,231,HP:0001635,Congestive heart failure
+run_008,brilliant Blue G,5359,HP:0001635,Congestive heart failure
+run_008,selinexor,5330,HP:0001635,Congestive heart failure
+run_008,levosimendan,1576,HP:0011675,Arrhythmia
+run_008,selinexor,5330,HP:0011675,Arrhythmia
+run_008,carvedilol,522,HP:0011675,Arrhythmia
+run_008,brilliant Blue G,5359,HP:0003391,Gowers sign
+run_008,selinexor,5330,HP:0003391,Gowers sign
+run_008,aprindine,231,HP:0003391,Gowers sign
+run_008,aprindine,231,HP:0003115,Abnormal EKG
+run_008,levosimendan,1576,HP:0003115,Abnormal EKG
+run_008,viltolarsen,5408,HP:0003115,Abnormal EKG
+run_008,selinexor,5330,HP:0001371,Flexion contracture
+run_008,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_008,azathioprine,269,HP:0001371,Flexion contracture
+run_008,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,selinexor,5330,HP:0000750,Delayed speech and language development
+run_008,azathioprine,269,HP:0000750,Delayed speech and language development
+run_008,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_008,selinexor,5330,HP:0008981,Calf muscle hypertrophy
+run_008,brilliant Blue G,5359,HP:0008981,Calf muscle hypertrophy
+run_008,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_008,aprindine,231,HP:0003560,Muscular dystrophy
+run_008,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_008,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_008,aprindine,231,HP:0003307,Hyperlordosis
+run_008,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_008,selinexor,5330,HP:0003307,Hyperlordosis
+run_008,selinexor,5330,HP:0002093,Respiratory insufficiency
+run_008,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_008,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_008,selinexor,5330,HP:0003202,Skeletal muscle atrophy
+run_008,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_008,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_008,selinexor,5330,HP:0001265,Hyporeflexia
+run_008,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_008,aprindine,231,HP:0001265,Hyporeflexia
+run_008,selinexor,5330,HP:0002650,Scoliosis
+run_008,azathioprine,269,HP:0002650,Scoliosis
+run_008,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_008,azathioprine,269,HP:0001270,Motor delay
+run_008,selinexor,5330,HP:0001270,Motor delay
+run_008,brilliant Blue G,5359,HP:0001270,Motor delay
+run_008,aprindine,231,HP:0001638,Cardiomyopathy
+run_008,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_008,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_008,aprindine,231,HP:0003701,Proximal muscle weakness
+run_008,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_008,selinexor,5330,HP:0003701,Proximal muscle weakness
+run_008,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_008,selinexor,5330,HP:0003707,Calf muscle pseudohypertrophy
+run_008,brilliant Blue G,5359,HP:0003707,Calf muscle pseudohypertrophy
+run_008,selinexor,5330,HP:0001256,"Intellectual disability, mild"
+run_008,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_008,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_008,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_008,selinexor,5330,HP:0001644,Dilated cardiomyopathy
+run_008,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_008,aprindine,231,HP:0003323,Progressive muscle weakness
+run_008,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_008,selinexor,5330,HP:0003323,Progressive muscle weakness
+run_008,selinexor,5330,HP:0002515,Waddling gait
+run_008,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_008,azathioprine,269,HP:0002515,Waddling gait
+run_009,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_009,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_009,carfilzomib,4483,HP:0100543,Cognitive impairment
+run_009,mezlocillin,1795,HP:0002791,Hypoventilation
+run_009,golodirsen,5357,HP:0002791,Hypoventilation
+run_009,casimersen,5443,HP:0002791,Hypoventilation
+run_009,mezlocillin,1795,HP:0001263,Global developmental delay
+run_009,azathioprine,269,HP:0001263,Global developmental delay
+run_009,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_009,mezlocillin,1795,HP:0001252,Hypotonia
+run_009,azathioprine,269,HP:0001252,Hypotonia
+run_009,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_009,mezlocillin,1795,HP:0001328,Specific learning disability
+run_009,azathioprine,269,HP:0001328,Specific learning disability
+run_009,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_009,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_009,azathioprine,269,HP:0001290,Generalized hypotonia
+run_009,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_009,aprindine,231,HP:0001635,Congestive heart failure
+run_009,mezlocillin,1795,HP:0001635,Congestive heart failure
+run_009,azathioprine,269,HP:0001635,Congestive heart failure
+run_009,levosimendan,1576,HP:0011675,Arrhythmia
+run_009,golodirsen,5357,HP:0011675,Arrhythmia
+run_009,casimersen,5443,HP:0011675,Arrhythmia
+run_009,azathioprine,269,HP:0003391,Gowers sign
+run_009,mezlocillin,1795,HP:0003391,Gowers sign
+run_009,brilliant Blue G,5359,HP:0003391,Gowers sign
+run_009,aprindine,231,HP:0003115,Abnormal EKG
+run_009,levosimendan,1576,HP:0003115,Abnormal EKG
+run_009,Taurine,MESH:D013654,HP:0003115,Abnormal EKG
+run_009,mezlocillin,1795,HP:0001371,Flexion contracture
+run_009,azathioprine,269,HP:0001371,Flexion contracture
+run_009,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_009,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,mezlocillin,1795,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_009,carfilzomib,4483,HP:0000750,Delayed speech and language development
+run_009,azathioprine,269,HP:0000750,Delayed speech and language development
+run_009,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_009,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_009,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_009,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_009,aprindine,231,HP:0003560,Muscular dystrophy
+run_009,carvedilol,522,HP:0003560,Muscular dystrophy
+run_009,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_009,azathioprine,269,HP:0003307,Hyperlordosis
+run_009,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_009,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_009,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_009,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_009,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_009,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_009,azathioprine,269,HP:0003202,Skeletal muscle atrophy
+run_009,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_009,aprindine,231,HP:0001265,Hyporeflexia
+run_009,golodirsen,5357,HP:0001265,Hyporeflexia
+run_009,mezlocillin,1795,HP:0002650,Scoliosis
+run_009,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_009,azathioprine,269,HP:0002650,Scoliosis
+run_009,azathioprine,269,HP:0001270,Motor delay
+run_009,mezlocillin,1795,HP:0001270,Motor delay
+run_009,brilliant Blue G,5359,HP:0001270,Motor delay
+run_009,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_009,aprindine,231,HP:0001638,Cardiomyopathy
+run_009,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_009,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_009,azathioprine,269,HP:0003701,Proximal muscle weakness
+run_009,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_009,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_009,mezlocillin,1795,HP:0003707,Calf muscle pseudohypertrophy
+run_009,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_009,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_009,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_009,azathioprine,269,HP:0001256,"Intellectual disability, mild"
+run_009,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_009,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_009,azathioprine,269,HP:0001644,Dilated cardiomyopathy
+run_009,aprindine,231,HP:0003323,Progressive muscle weakness
+run_009,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_009,golodirsen,5357,HP:0003323,Progressive muscle weakness
+run_009,mezlocillin,1795,HP:0002515,Waddling gait
+run_009,azathioprine,269,HP:0002515,Waddling gait
+run_009,brilliant Blue G,5359,HP:0002515,Waddling gait
+run_010,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_010,carfilzomib,4483,HP:0100543,Cognitive impairment
+run_010,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_010,azathioprine,269,HP:0002791,Hypoventilation
+run_010,golodirsen,5357,HP:0002791,Hypoventilation
+run_010,carfilzomib,4483,HP:0002791,Hypoventilation
+run_010,carfilzomib,4483,HP:0001263,Global developmental delay
+run_010,brilliant Blue G,5359,HP:0001263,Global developmental delay
+run_010,mezlocillin,1795,HP:0001263,Global developmental delay
+run_010,brilliant Blue G,5359,HP:0001252,Hypotonia
+run_010,carfilzomib,4483,HP:0001252,Hypotonia
+run_010,azathioprine,269,HP:0001252,Hypotonia
+run_010,brilliant Blue G,5359,HP:0001328,Specific learning disability
+run_010,carfilzomib,4483,HP:0001328,Specific learning disability
+run_010,selinexor,5330,HP:0001328,Specific learning disability
+run_010,brilliant Blue G,5359,HP:0001290,Generalized hypotonia
+run_010,carfilzomib,4483,HP:0001290,Generalized hypotonia
+run_010,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_010,aprindine,231,HP:0001635,Congestive heart failure
+run_010,brilliant Blue G,5359,HP:0001635,Congestive heart failure
+run_010,nisoldipine,1942,HP:0001635,Congestive heart failure
+run_010,levosimendan,1576,HP:0011675,Arrhythmia
+run_010,sapropterin,2612,HP:0011675,Arrhythmia
+run_010,carvedilol,522,HP:0011675,Arrhythmia
+run_010,aprindine,231,HP:0003391,Gowers sign
+run_010,levosimendan,1576,HP:0003391,Gowers sign
+run_010,carvedilol,522,HP:0003391,Gowers sign
+run_010,aprindine,231,HP:0003115,Abnormal EKG
+run_010,levosimendan,1576,HP:0003115,Abnormal EKG
+run_010,golodirsen,5357,HP:0003115,Abnormal EKG
+run_010,carfilzomib,4483,HP:0001371,Flexion contracture
+run_010,aprindine,231,HP:0001371,Flexion contracture
+run_010,brilliant Blue G,5359,HP:0001371,Flexion contracture
+run_010,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,brilliant Blue G,5359,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,carfilzomib,4483,HP:0000750,Delayed speech and language development
+run_010,brilliant Blue G,5359,HP:0000750,Delayed speech and language development
+run_010,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_010,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_010,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_010,carvedilol,522,HP:0008981,Calf muscle hypertrophy
+run_010,aprindine,231,HP:0003560,Muscular dystrophy
+run_010,colforsin daropate,729,HP:0003560,Muscular dystrophy
+run_010,viltolarsen,5408,HP:0003560,Muscular dystrophy
+run_010,aprindine,231,HP:0003307,Hyperlordosis
+run_010,carfilzomib,4483,HP:0003307,Hyperlordosis
+run_010,brilliant Blue G,5359,HP:0003307,Hyperlordosis
+run_010,brilliant Blue G,5359,HP:0002093,Respiratory insufficiency
+run_010,aprindine,231,HP:0002093,Respiratory insufficiency
+run_010,azathioprine,269,HP:0002093,Respiratory insufficiency
+run_010,brilliant Blue G,5359,HP:0003202,Skeletal muscle atrophy
+run_010,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_010,azathioprine,269,HP:0003202,Skeletal muscle atrophy
+run_010,azathioprine,269,HP:0001265,Hyporeflexia
+run_010,aprindine,231,HP:0001265,Hyporeflexia
+run_010,brilliant Blue G,5359,HP:0001265,Hyporeflexia
+run_010,brilliant Blue G,5359,HP:0002650,Scoliosis
+run_010,carfilzomib,4483,HP:0002650,Scoliosis
+run_010,aprindine,231,HP:0002650,Scoliosis
+run_010,carfilzomib,4483,HP:0001270,Motor delay
+run_010,aprindine,231,HP:0001270,Motor delay
+run_010,brilliant Blue G,5359,HP:0001270,Motor delay
+run_010,aprindine,231,HP:0001638,Cardiomyopathy
+run_010,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_010,brilliant Blue G,5359,HP:0001638,Cardiomyopathy
+run_010,aprindine,231,HP:0003701,Proximal muscle weakness
+run_010,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_010,brilliant Blue G,5359,HP:0003701,Proximal muscle weakness
+run_010,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_010,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_010,golodirsen,5357,HP:0003707,Calf muscle pseudohypertrophy
+run_010,carfilzomib,4483,HP:0001256,"Intellectual disability, mild"
+run_010,brilliant Blue G,5359,HP:0001256,"Intellectual disability, mild"
+run_010,carvedilol,522,HP:0001256,"Intellectual disability, mild"
+run_010,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_010,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_010,brilliant Blue G,5359,HP:0001644,Dilated cardiomyopathy
+run_010,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_010,aprindine,231,HP:0003323,Progressive muscle weakness
+run_010,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_010,aprindine,231,HP:0002515,Waddling gait
+run_010,levosimendan,1576,HP:0002515,Waddling gait
+run_010,carfilzomib,4483,HP:0002515,Waddling gait
