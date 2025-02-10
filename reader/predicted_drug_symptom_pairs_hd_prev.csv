@@ -1,0 +1,1741 @@
+Run,Drug,Drug ID,Symptom ID,Symptom
+run_001,felbamate,1140,HP:0030842,Choking episodes
+run_001,ifenprodil,1419,HP:0030842,Choking episodes
+run_001,cerulenin,578,HP:0030842,Choking episodes
+run_001,phenelzine,2123,HP:0000738,Hallucinations
+run_001,brilliant Blue G,5359,HP:0000738,Hallucinations
+run_001,omeprazole,1990,HP:0000738,Hallucinations
+run_001,felbamate,1140,HP:0003107,Abnormal circulating cholesterol concentration
+run_001,ifenprodil,1419,HP:0003107,Abnormal circulating cholesterol concentration
+run_001,cerulenin,578,HP:0003107,Abnormal circulating cholesterol concentration
+run_001,phenelzine,2123,HP:0002169,Clonus
+run_001,felbamate,1140,HP:0002169,Clonus
+run_001,ifenprodil,1419,HP:0002169,Clonus
+run_001,phenelzine,2123,HP:0002067,Bradykinesia
+run_001,cerulenin,578,HP:0002067,Bradykinesia
+run_001,brilliant Blue G,5359,HP:0002067,Bradykinesia
+run_001,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_001,felbamate,1140,HP:0000496,Abnormality of eye movement
+run_001,ifenprodil,1419,HP:0000496,Abnormality of eye movement
+run_001,felbamate,1140,HP:0031589,Suicidal ideation
+run_001,phenelzine,2123,HP:0031589,Suicidal ideation
+run_001,cerulenin,578,HP:0031589,Suicidal ideation
+run_001,brilliant Blue G,5359,HP:0001824,Weight loss
+run_001,orlistat,1996,HP:0001824,Weight loss
+run_001,phenelzine,2123,HP:0001824,Weight loss
+run_001,ifenprodil,1419,HP:0031843,Bradyphrenia
+run_001,felbamate,1140,HP:0031843,Bradyphrenia
+run_001,loperamide,1599,HP:0031843,Bradyphrenia
+run_001,phenelzine,2123,HP:0000741,Apathy
+run_001,brilliant Blue G,5359,HP:0000741,Apathy
+run_001,omeprazole,1990,HP:0000741,Apathy
+run_001,felbamate,1140,HP:0001336,Myoclonus
+run_001,ifenprodil,1419,HP:0001336,Myoclonus
+run_001,phenelzine,2123,HP:0001336,Myoclonus
+run_001,felbamate,1140,HP:0004305,Involuntary movements
+run_001,ifenprodil,1419,HP:0004305,Involuntary movements
+run_001,omeprazole,1990,HP:0004305,Involuntary movements
+run_001,omeprazole,1990,HP:0002540,Inability to walk
+run_001,pantoprazole,2054,HP:0002540,Inability to walk
+run_001,phenelzine,2123,HP:0002540,Inability to walk
+run_001,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_001,felbamate,1140,HP:0000722,Obsessive-compulsive behavior
+run_001,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_001,cerulenin,578,HP:0002171,Gliosis
+run_001,adenosine triphosphate,91,HP:0002171,Gliosis
+run_001,orlistat,1996,HP:0002171,Gliosis
+run_001,phenelzine,2123,HP:0000718,Aggressive behavior
+run_001,omeprazole,1990,HP:0000718,Aggressive behavior
+run_001,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_001,felbamate,1140,HP:0010794,Impaired visuospatial constructive cognition
+run_001,ifenprodil,1419,HP:0010794,Impaired visuospatial constructive cognition
+run_001,brilliant Blue G,5359,HP:0010794,Impaired visuospatial constructive cognition
+run_001,phenelzine,2123,HP:0002354,Memory impairment
+run_001,omeprazole,1990,HP:0002354,Memory impairment
+run_001,glutamic acid,1310,HP:0002354,Memory impairment
+run_001,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_001,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_001,felbamate,1140,HP:0002529,Neuronal loss in central nervous system
+run_001,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_001,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_001,phenelzine,2123,HP:0001272,Cerebellar atrophy
+run_001,ifenprodil,1419,HP:0031845,Abnormal libido
+run_001,felbamate,1140,HP:0031845,Abnormal libido
+run_001,cerulenin,578,HP:0031845,Abnormal libido
+run_001,felbamate,1140,HP:0009088,Speech articulation difficulties
+run_001,ifenprodil,1419,HP:0009088,Speech articulation difficulties
+run_001,brilliant Blue G,5359,HP:0009088,Speech articulation difficulties
+run_001,omeprazole,1990,HP:0002500,Abnormal cerebral white matter morphology
+run_001,phenelzine,2123,HP:0002500,Abnormal cerebral white matter morphology
+run_001,felbamate,1140,HP:0002500,Abnormal cerebral white matter morphology
+run_001,felbamate,1140,HP:0031473,Hostility
+run_001,ifenprodil,1419,HP:0031473,Hostility
+run_001,cerulenin,578,HP:0031473,Hostility
+run_001,omeprazole,1990,HP:0002072,Chorea
+run_001,felbamate,1140,HP:0002072,Chorea
+run_001,ifenprodil,1419,HP:0002072,Chorea
+run_001,phenelzine,2123,HP:0002355,Difficulty walking
+run_001,omeprazole,1990,HP:0002355,Difficulty walking
+run_001,pantoprazole,2054,HP:0002355,Difficulty walking
+run_001,ifenprodil,1419,HP:0002591,Polyphagia
+run_001,phenelzine,2123,HP:0002591,Polyphagia
+run_001,felbamate,1140,HP:0002591,Polyphagia
+run_001,felbamate,1140,HP:0001262,Excessive daytime somnolence
+run_001,ifenprodil,1419,HP:0001262,Excessive daytime somnolence
+run_001,cycloserine,759,HP:0001262,Excessive daytime somnolence
+run_001,brilliant Blue G,5359,HP:0000751,Personality changes
+run_001,phenelzine,2123,HP:0000751,Personality changes
+run_001,cerulenin,578,HP:0000751,Personality changes
+run_001,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_001,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_001,felbamate,1140,HP:0002059,Cerebral atrophy
+run_001,omeprazole,1990,HP:0000716,Depression
+run_001,ruxolitinib,4190,HP:0000716,Depression
+run_001,pantoprazole,2054,HP:0000716,Depression
+run_001,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_001,omeprazole,1990,HP:0003324,Generalized muscle weakness
+run_001,thiamine,2832,HP:0003324,Generalized muscle weakness
+run_001,phenelzine,2123,HP:0002312,Clumsiness
+run_001,felbamate,1140,HP:0002312,Clumsiness
+run_001,omeprazole,1990,HP:0002312,Clumsiness
+run_001,phenelzine,2123,HP:0002066,Gait ataxia
+run_001,omeprazole,1990,HP:0002066,Gait ataxia
+run_001,felbamate,1140,HP:0002066,Gait ataxia
+run_001,phenelzine,2123,HP:0000734,Disinhibition
+run_001,omeprazole,1990,HP:0000734,Disinhibition
+run_001,cerulenin,578,HP:0000734,Disinhibition
+run_001,felbamate,1140,HP:0030955,Alcoholism
+run_001,ifenprodil,1419,HP:0030955,Alcoholism
+run_001,cerulenin,578,HP:0030955,Alcoholism
+run_001,phenelzine,2123,HP:0001268,Mental deterioration
+run_001,omeprazole,1990,HP:0001268,Mental deterioration
+run_001,pantoprazole,2054,HP:0001268,Mental deterioration
+run_001,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_001,felbamate,1140,HP:0007010,Poor fine motor coordination
+run_001,ifenprodil,1419,HP:0007010,Poor fine motor coordination
+run_001,phenelzine,2123,HP:0002063,Rigidity
+run_001,omeprazole,1990,HP:0002063,Rigidity
+run_001,felbamate,1140,HP:0002063,Rigidity
+run_001,cerulenin,578,HP:0002340,Caudate atrophy
+run_001,felbamate,1140,HP:0002340,Caudate atrophy
+run_001,ifenprodil,1419,HP:0002340,Caudate atrophy
+run_001,omeprazole,1990,HP:0001332,Dystonia
+run_001,phenelzine,2123,HP:0001332,Dystonia
+run_001,pantoprazole,2054,HP:0001332,Dystonia
+run_001,brilliant Blue G,5359,HP:0000746,Delusions
+run_001,felbamate,1140,HP:0000746,Delusions
+run_001,ifenprodil,1419,HP:0000746,Delusions
+run_001,phenelzine,2123,HP:0002141,Gait imbalance
+run_001,ganciclovir,1277,HP:0002141,Gait imbalance
+run_001,glutamic acid,1310,HP:0002141,Gait imbalance
+run_001,phenelzine,2123,HP:0001347,Hyperreflexia
+run_001,omeprazole,1990,HP:0001347,Hyperreflexia
+run_001,pantoprazole,2054,HP:0001347,Hyperreflexia
+run_001,phenelzine,2123,HP:0000737,Irritability
+run_001,cerulenin,578,HP:0000737,Irritability
+run_001,omeprazole,1990,HP:0000737,Irritability
+run_001,felbamate,1140,HP:0200136,Oral-pharyngeal dysphagia
+run_001,ifenprodil,1419,HP:0200136,Oral-pharyngeal dysphagia
+run_001,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_001,phenelzine,2123,HP:0000713,Agitation
+run_001,omeprazole,1990,HP:0000713,Agitation
+run_001,orlistat,1996,HP:0000713,Agitation
+run_001,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_001,felbamate,1140,HP:0040140,Degeneration of the striatum
+run_001,ifenprodil,1419,HP:0040140,Degeneration of the striatum
+run_001,phenelzine,2123,HP:0002300,Mutism
+run_001,omeprazole,1990,HP:0002300,Mutism
+run_001,cycloserine,759,HP:0002300,Mutism
+run_001,omeprazole,1990,HP:0001250,Seizure
+run_001,pantoprazole,2054,HP:0001250,Seizure
+run_001,phenelzine,2123,HP:0001250,Seizure
+run_001,phenelzine,2123,HP:0000739,Anxiety
+run_001,omeprazole,1990,HP:0000739,Anxiety
+run_001,pantoprazole,2054,HP:0000739,Anxiety
+run_001,phenelzine,2123,HP:0025401,Staring gaze
+run_001,felbamate,1140,HP:0025401,Staring gaze
+run_001,ifenprodil,1419,HP:0025401,Staring gaze
+run_001,phenelzine,2123,HP:0003487,Babinski sign
+run_001,omeprazole,1990,HP:0003487,Babinski sign
+run_001,pantoprazole,2054,HP:0003487,Babinski sign
+run_001,ifenprodil,1419,HP:0045082,Decreased body mass index
+run_001,felbamate,1140,HP:0045082,Decreased body mass index
+run_001,cerulenin,578,HP:0045082,Decreased body mass index
+run_001,felbamate,1140,HP:0004408,Abnormality of the sense of smell
+run_001,ifenprodil,1419,HP:0004408,Abnormality of the sense of smell
+run_001,phenelzine,2123,HP:0004408,Abnormality of the sense of smell
+run_001,phenelzine,2123,HP:0100785,Insomnia
+run_001,brilliant Blue G,5359,HP:0100785,Insomnia
+run_001,cerulenin,578,HP:0100785,Insomnia
+run_001,cerulenin,578,HP:0001288,Gait disturbance
+run_001,orlistat,1996,HP:0001288,Gait disturbance
+run_001,adenosine triphosphate,91,HP:0001288,Gait disturbance
+run_001,phenelzine,2123,HP:0000726,Dementia
+run_001,omeprazole,1990,HP:0000726,Dementia
+run_001,pantoprazole,2054,HP:0000726,Dementia
+run_002,phenelzine,2123,HP:0030842,Choking episodes
+run_002,ifenprodil,1419,HP:0030842,Choking episodes
+run_002,buprenorphine,434,HP:0030842,Choking episodes
+run_002,promethazine,2286,HP:0000738,Hallucinations
+run_002,phenelzine,2123,HP:0000738,Hallucinations
+run_002,adenosine triphosphate,91,HP:0000738,Hallucinations
+run_002,phenelzine,2123,HP:0003107,Abnormal circulating cholesterol concentration
+run_002,ifenprodil,1419,HP:0003107,Abnormal circulating cholesterol concentration
+run_002,glutamic acid,1310,HP:0003107,Abnormal circulating cholesterol concentration
+run_002,phenelzine,2123,HP:0002169,Clonus
+run_002,orlistat,1996,HP:0002169,Clonus
+run_002,pantoprazole,2054,HP:0002169,Clonus
+run_002,brilliant Blue G,5359,HP:0002067,Bradykinesia
+run_002,orlistat,1996,HP:0002067,Bradykinesia
+run_002,adenosine triphosphate,91,HP:0002067,Bradykinesia
+run_002,pantoprazole,2054,HP:0000496,Abnormality of eye movement
+run_002,omeprazole,1990,HP:0000496,Abnormality of eye movement
+run_002,colchicine,726,HP:0000496,Abnormality of eye movement
+run_002,phenelzine,2123,HP:0031589,Suicidal ideation
+run_002,omeprazole,1990,HP:0031589,Suicidal ideation
+run_002,colchicine,726,HP:0031589,Suicidal ideation
+run_002,clomifene,700,HP:0001824,Weight loss
+run_002,brilliant Blue G,5359,HP:0001824,Weight loss
+run_002,orlistat,1996,HP:0001824,Weight loss
+run_002,phenelzine,2123,HP:0031843,Bradyphrenia
+run_002,promethazine,2286,HP:0031843,Bradyphrenia
+run_002,buprenorphine,434,HP:0031843,Bradyphrenia
+run_002,promethazine,2286,HP:0000741,Apathy
+run_002,phenelzine,2123,HP:0000741,Apathy
+run_002,pantoprazole,2054,HP:0000741,Apathy
+run_002,glutamic acid,1310,HP:0001336,Myoclonus
+run_002,ganciclovir,1277,HP:0001336,Myoclonus
+run_002,phenelzine,2123,HP:0001336,Myoclonus
+run_002,ifenprodil,1419,HP:0004305,Involuntary movements
+run_002,felbamate,1140,HP:0004305,Involuntary movements
+run_002,cycloserine,759,HP:0004305,Involuntary movements
+run_002,glutamic acid,1310,HP:0002540,Inability to walk
+run_002,cycloserine,759,HP:0002540,Inability to walk
+run_002,ifenprodil,1419,HP:0002540,Inability to walk
+run_002,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_002,promethazine,2286,HP:0000722,Obsessive-compulsive behavior
+run_002,colchicine,726,HP:0000722,Obsessive-compulsive behavior
+run_002,brilliant Blue G,5359,HP:0002171,Gliosis
+run_002,cerulenin,578,HP:0002171,Gliosis
+run_002,clomifene,700,HP:0002171,Gliosis
+run_002,phenelzine,2123,HP:0000718,Aggressive behavior
+run_002,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_002,promethazine,2286,HP:0000718,Aggressive behavior
+run_002,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_002,ifenprodil,1419,HP:0010794,Impaired visuospatial constructive cognition
+run_002,glutamic acid,1310,HP:0010794,Impaired visuospatial constructive cognition
+run_002,promethazine,2286,HP:0002354,Memory impairment
+run_002,pantoprazole,2054,HP:0002354,Memory impairment
+run_002,diacerein,849,HP:0002354,Memory impairment
+run_002,promethazine,2286,HP:0002529,Neuronal loss in central nervous system
+run_002,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_002,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_002,phenelzine,2123,HP:0001272,Cerebellar atrophy
+run_002,glutamic acid,1310,HP:0001272,Cerebellar atrophy
+run_002,ganciclovir,1277,HP:0001272,Cerebellar atrophy
+run_002,phenelzine,2123,HP:0031845,Abnormal libido
+run_002,ifenprodil,1419,HP:0031845,Abnormal libido
+run_002,glutamic acid,1310,HP:0031845,Abnormal libido
+run_002,glutamic acid,1310,HP:0009088,Speech articulation difficulties
+run_002,phenelzine,2123,HP:0009088,Speech articulation difficulties
+run_002,ganciclovir,1277,HP:0009088,Speech articulation difficulties
+run_002,ifenprodil,1419,HP:0002500,Abnormal cerebral white matter morphology
+run_002,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_002,felbamate,1140,HP:0002500,Abnormal cerebral white matter morphology
+run_002,glutamic acid,1310,HP:0031473,Hostility
+run_002,phenelzine,2123,HP:0031473,Hostility
+run_002,ganciclovir,1277,HP:0031473,Hostility
+run_002,ifenprodil,1419,HP:0002072,Chorea
+run_002,pantoprazole,2054,HP:0002072,Chorea
+run_002,felbamate,1140,HP:0002072,Chorea
+run_002,colchicine,726,HP:0002355,Difficulty walking
+run_002,paclitaxel,2044,HP:0002355,Difficulty walking
+run_002,pantoprazole,2054,HP:0002355,Difficulty walking
+run_002,ganciclovir,1277,HP:0002591,Polyphagia
+run_002,glutamic acid,1310,HP:0002591,Polyphagia
+run_002,adenosine triphosphate,91,HP:0002591,Polyphagia
+run_002,phenelzine,2123,HP:0001262,Excessive daytime somnolence
+run_002,sulfasalazine,2525,HP:0001262,Excessive daytime somnolence
+run_002,quercetin,3514,HP:0001262,Excessive daytime somnolence
+run_002,promethazine,2286,HP:0000751,Personality changes
+run_002,brilliant Blue G,5359,HP:0000751,Personality changes
+run_002,phenelzine,2123,HP:0000751,Personality changes
+run_002,ifenprodil,1419,HP:0002059,Cerebral atrophy
+run_002,felbamate,1140,HP:0002059,Cerebral atrophy
+run_002,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_002,promethazine,2286,HP:0000716,Depression
+run_002,pantoprazole,2054,HP:0000716,Depression
+run_002,orlistat,1996,HP:0000716,Depression
+run_002,promethazine,2286,HP:0003324,Generalized muscle weakness
+run_002,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_002,pantoprazole,2054,HP:0003324,Generalized muscle weakness
+run_002,promethazine,2286,HP:0002312,Clumsiness
+run_002,bortezomib,391,HP:0002312,Clumsiness
+run_002,phenelzine,2123,HP:0002312,Clumsiness
+run_002,orlistat,1996,HP:0002066,Gait ataxia
+run_002,promethazine,2286,HP:0002066,Gait ataxia
+run_002,phenelzine,2123,HP:0002066,Gait ataxia
+run_002,phenelzine,2123,HP:0000734,Disinhibition
+run_002,promethazine,2286,HP:0000734,Disinhibition
+run_002,pantoprazole,2054,HP:0000734,Disinhibition
+run_002,phenelzine,2123,HP:0030955,Alcoholism
+run_002,promethazine,2286,HP:0030955,Alcoholism
+run_002,buprenorphine,434,HP:0030955,Alcoholism
+run_002,hexachlorophene,1364,HP:0001268,Mental deterioration
+run_002,brilliant Blue G,5359,HP:0001268,Mental deterioration
+run_002,phenelzine,2123,HP:0001268,Mental deterioration
+run_002,boceprevir,4172,HP:0007010,Poor fine motor coordination
+run_002,promethazine,2286,HP:0007010,Poor fine motor coordination
+run_002,telaprevir,4173,HP:0007010,Poor fine motor coordination
+run_002,pantoprazole,2054,HP:0002063,Rigidity
+run_002,omeprazole,1990,HP:0002063,Rigidity
+run_002,brilliant Blue G,5359,HP:0002063,Rigidity
+run_002,boceprevir,4172,HP:0002340,Caudate atrophy
+run_002,telaprevir,4173,HP:0002340,Caudate atrophy
+run_002,promethazine,2286,HP:0002340,Caudate atrophy
+run_002,brilliant Blue G,5359,HP:0001332,Dystonia
+run_002,ifenprodil,1419,HP:0001332,Dystonia
+run_002,felbamate,1140,HP:0001332,Dystonia
+run_002,phenelzine,2123,HP:0000746,Delusions
+run_002,brilliant Blue G,5359,HP:0000746,Delusions
+run_002,glutamic acid,1310,HP:0000746,Delusions
+run_002,promethazine,2286,HP:0002141,Gait imbalance
+run_002,phenelzine,2123,HP:0002141,Gait imbalance
+run_002,pantoprazole,2054,HP:0002141,Gait imbalance
+run_002,phenelzine,2123,HP:0001347,Hyperreflexia
+run_002,promethazine,2286,HP:0001347,Hyperreflexia
+run_002,orlistat,1996,HP:0001347,Hyperreflexia
+run_002,phenelzine,2123,HP:0000737,Irritability
+run_002,promethazine,2286,HP:0000737,Irritability
+run_002,pantoprazole,2054,HP:0000737,Irritability
+run_002,memantine,1679,HP:0200136,Oral-pharyngeal dysphagia
+run_002,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_002,ifenprodil,1419,HP:0200136,Oral-pharyngeal dysphagia
+run_002,promethazine,2286,HP:0000713,Agitation
+run_002,phenelzine,2123,HP:0000713,Agitation
+run_002,adenosine triphosphate,91,HP:0000713,Agitation
+run_002,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_002,bortezomib,391,HP:0040140,Degeneration of the striatum
+run_002,promethazine,2286,HP:0040140,Degeneration of the striatum
+run_002,glutamic acid,1310,HP:0002300,Mutism
+run_002,pantoprazole,2054,HP:0002300,Mutism
+run_002,paclitaxel,2044,HP:0002300,Mutism
+run_002,ganciclovir,1277,HP:0001250,Seizure
+run_002,adenosine triphosphate,91,HP:0001250,Seizure
+run_002,orlistat,1996,HP:0001250,Seizure
+run_002,orlistat,1996,HP:0000739,Anxiety
+run_002,promethazine,2286,HP:0000739,Anxiety
+run_002,pantoprazole,2054,HP:0000739,Anxiety
+run_002,promethazine,2286,HP:0025401,Staring gaze
+run_002,phenelzine,2123,HP:0025401,Staring gaze
+run_002,pantoprazole,2054,HP:0025401,Staring gaze
+run_002,phenelzine,2123,HP:0003487,Babinski sign
+run_002,promethazine,2286,HP:0003487,Babinski sign
+run_002,orlistat,1996,HP:0003487,Babinski sign
+run_002,phenelzine,2123,HP:0045082,Decreased body mass index
+run_002,glutamic acid,1310,HP:0045082,Decreased body mass index
+run_002,buprenorphine,434,HP:0045082,Decreased body mass index
+run_002,promethazine,2286,HP:0004408,Abnormality of the sense of smell
+run_002,phenelzine,2123,HP:0004408,Abnormality of the sense of smell
+run_002,colchicine,726,HP:0004408,Abnormality of the sense of smell
+run_002,phenelzine,2123,HP:0100785,Insomnia
+run_002,promethazine,2286,HP:0100785,Insomnia
+run_002,omeprazole,1990,HP:0100785,Insomnia
+run_002,orlistat,1996,HP:0001288,Gait disturbance
+run_002,clomifene,700,HP:0001288,Gait disturbance
+run_002,brilliant Blue G,5359,HP:0001288,Gait disturbance
+run_002,orlistat,1996,HP:0000726,Dementia
+run_002,pantoprazole,2054,HP:0000726,Dementia
+run_002,omeprazole,1990,HP:0000726,Dementia
+run_003,brilliant Blue G,5359,HP:0030842,Choking episodes
+run_003,phenelzine,2123,HP:0030842,Choking episodes
+run_003,cycloserine,759,HP:0030842,Choking episodes
+run_003,hexachlorophene,1364,HP:0000738,Hallucinations
+run_003,brilliant Blue G,5359,HP:0000738,Hallucinations
+run_003,ruboxistaurin,3533,HP:0000738,Hallucinations
+run_003,brilliant Blue G,5359,HP:0003107,Abnormal circulating cholesterol concentration
+run_003,ruboxistaurin,3533,HP:0003107,Abnormal circulating cholesterol concentration
+run_003,cycloserine,759,HP:0003107,Abnormal circulating cholesterol concentration
+run_003,phenelzine,2123,HP:0002169,Clonus
+run_003,pantoprazole,2054,HP:0002169,Clonus
+run_003,baicalin,4055,HP:0002169,Clonus
+run_003,brilliant Blue G,5359,HP:0002067,Bradykinesia
+run_003,cerulenin,578,HP:0002067,Bradykinesia
+run_003,pantoprazole,2054,HP:0002067,Bradykinesia
+run_003,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_003,omapatrilat,1989,HP:0000496,Abnormality of eye movement
+run_003,ruboxistaurin,3533,HP:0000496,Abnormality of eye movement
+run_003,brilliant Blue G,5359,HP:0031589,Suicidal ideation
+run_003,ruboxistaurin,3533,HP:0031589,Suicidal ideation
+run_003,phenelzine,2123,HP:0031589,Suicidal ideation
+run_003,orlistat,1996,HP:0001824,Weight loss
+run_003,pantoprazole,2054,HP:0001824,Weight loss
+run_003,omeprazole,1990,HP:0001824,Weight loss
+run_003,brilliant Blue G,5359,HP:0031843,Bradyphrenia
+run_003,cycloserine,759,HP:0031843,Bradyphrenia
+run_003,memantine,1679,HP:0031843,Bradyphrenia
+run_003,brilliant Blue G,5359,HP:0000741,Apathy
+run_003,phenelzine,2123,HP:0000741,Apathy
+run_003,hexachlorophene,1364,HP:0000741,Apathy
+run_003,phenelzine,2123,HP:0001336,Myoclonus
+run_003,omeprazole,1990,HP:0001336,Myoclonus
+run_003,pantoprazole,2054,HP:0001336,Myoclonus
+run_003,cycloserine,759,HP:0004305,Involuntary movements
+run_003,ifenprodil,1419,HP:0004305,Involuntary movements
+run_003,felbamate,1140,HP:0004305,Involuntary movements
+run_003,phenelzine,2123,HP:0002540,Inability to walk
+run_003,cycloserine,759,HP:0002540,Inability to walk
+run_003,baicalin,4055,HP:0002540,Inability to walk
+run_003,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_003,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_003,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_003,cerulenin,578,HP:0002171,Gliosis
+run_003,brilliant Blue G,5359,HP:0002171,Gliosis
+run_003,carfilzomib,4483,HP:0002171,Gliosis
+run_003,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_003,omeprazole,1990,HP:0000718,Aggressive behavior
+run_003,phenelzine,2123,HP:0000718,Aggressive behavior
+run_003,brilliant Blue G,5359,HP:0010794,Impaired visuospatial constructive cognition
+run_003,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_003,ruboxistaurin,3533,HP:0010794,Impaired visuospatial constructive cognition
+run_003,hexachlorophene,1364,HP:0002354,Memory impairment
+run_003,phenelzine,2123,HP:0002354,Memory impairment
+run_003,omapatrilat,1989,HP:0002354,Memory impairment
+run_003,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_003,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_003,ruboxistaurin,3533,HP:0002529,Neuronal loss in central nervous system
+run_003,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_003,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_003,phenelzine,2123,HP:0001272,Cerebellar atrophy
+run_003,brilliant Blue G,5359,HP:0031845,Abnormal libido
+run_003,phenelzine,2123,HP:0031845,Abnormal libido
+run_003,cycloserine,759,HP:0031845,Abnormal libido
+run_003,brilliant Blue G,5359,HP:0009088,Speech articulation difficulties
+run_003,ruboxistaurin,3533,HP:0009088,Speech articulation difficulties
+run_003,phenelzine,2123,HP:0009088,Speech articulation difficulties
+run_003,felbamate,1140,HP:0002500,Abnormal cerebral white matter morphology
+run_003,ifenprodil,1419,HP:0002500,Abnormal cerebral white matter morphology
+run_003,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_003,brilliant Blue G,5359,HP:0031473,Hostility
+run_003,phenelzine,2123,HP:0031473,Hostility
+run_003,cycloserine,759,HP:0031473,Hostility
+run_003,felbamate,1140,HP:0002072,Chorea
+run_003,cycloserine,759,HP:0002072,Chorea
+run_003,ifenprodil,1419,HP:0002072,Chorea
+run_003,phenelzine,2123,HP:0002355,Difficulty walking
+run_003,pantoprazole,2054,HP:0002355,Difficulty walking
+run_003,omeprazole,1990,HP:0002355,Difficulty walking
+run_003,pantoprazole,2054,HP:0002591,Polyphagia
+run_003,ifenprodil,1419,HP:0002591,Polyphagia
+run_003,loperamide,1599,HP:0002591,Polyphagia
+run_003,pantoprazole,2054,HP:0001262,Excessive daytime somnolence
+run_003,ruboxistaurin,3533,HP:0001262,Excessive daytime somnolence
+run_003,omeprazole,1990,HP:0001262,Excessive daytime somnolence
+run_003,brilliant Blue G,5359,HP:0000751,Personality changes
+run_003,phenelzine,2123,HP:0000751,Personality changes
+run_003,ruboxistaurin,3533,HP:0000751,Personality changes
+run_003,felbamate,1140,HP:0002059,Cerebral atrophy
+run_003,ifenprodil,1419,HP:0002059,Cerebral atrophy
+run_003,cycloserine,759,HP:0002059,Cerebral atrophy
+run_003,hexachlorophene,1364,HP:0000716,Depression
+run_003,brilliant Blue G,5359,HP:0000716,Depression
+run_003,pantoprazole,2054,HP:0000716,Depression
+run_003,hexachlorophene,1364,HP:0003324,Generalized muscle weakness
+run_003,pantoprazole,2054,HP:0003324,Generalized muscle weakness
+run_003,vesnarinone,2817,HP:0003324,Generalized muscle weakness
+run_003,brilliant Blue G,5359,HP:0002312,Clumsiness
+run_003,phenelzine,2123,HP:0002312,Clumsiness
+run_003,ruboxistaurin,3533,HP:0002312,Clumsiness
+run_003,phenelzine,2123,HP:0002066,Gait ataxia
+run_003,pantoprazole,2054,HP:0002066,Gait ataxia
+run_003,omeprazole,1990,HP:0002066,Gait ataxia
+run_003,brilliant Blue G,5359,HP:0000734,Disinhibition
+run_003,ruboxistaurin,3533,HP:0000734,Disinhibition
+run_003,phenelzine,2123,HP:0000734,Disinhibition
+run_003,brilliant Blue G,5359,HP:0030955,Alcoholism
+run_003,phenelzine,2123,HP:0030955,Alcoholism
+run_003,ruboxistaurin,3533,HP:0030955,Alcoholism
+run_003,phenelzine,2123,HP:0001268,Mental deterioration
+run_003,ruboxistaurin,3533,HP:0001268,Mental deterioration
+run_003,omapatrilat,1989,HP:0001268,Mental deterioration
+run_003,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_003,ruboxistaurin,3533,HP:0007010,Poor fine motor coordination
+run_003,brilliant Blue G,5359,HP:0007010,Poor fine motor coordination
+run_003,phenelzine,2123,HP:0002063,Rigidity
+run_003,brilliant Blue G,5359,HP:0002063,Rigidity
+run_003,pantoprazole,2054,HP:0002063,Rigidity
+run_003,brilliant Blue G,5359,HP:0002340,Caudate atrophy
+run_003,phenelzine,2123,HP:0002340,Caudate atrophy
+run_003,pantoprazole,2054,HP:0002340,Caudate atrophy
+run_003,phenelzine,2123,HP:0001332,Dystonia
+run_003,cycloserine,759,HP:0001332,Dystonia
+run_003,felbamate,1140,HP:0001332,Dystonia
+run_003,brilliant Blue G,5359,HP:0000746,Delusions
+run_003,phenelzine,2123,HP:0000746,Delusions
+run_003,ruboxistaurin,3533,HP:0000746,Delusions
+run_003,phenelzine,2123,HP:0002141,Gait imbalance
+run_003,ruboxistaurin,3533,HP:0002141,Gait imbalance
+run_003,hexachlorophene,1364,HP:0002141,Gait imbalance
+run_003,pantoprazole,2054,HP:0001347,Hyperreflexia
+run_003,phenelzine,2123,HP:0001347,Hyperreflexia
+run_003,omeprazole,1990,HP:0001347,Hyperreflexia
+run_003,phenelzine,2123,HP:0000737,Irritability
+run_003,brilliant Blue G,5359,HP:0000737,Irritability
+run_003,pantoprazole,2054,HP:0000737,Irritability
+run_003,felbamate,1140,HP:0200136,Oral-pharyngeal dysphagia
+run_003,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_003,ifenprodil,1419,HP:0200136,Oral-pharyngeal dysphagia
+run_003,hexachlorophene,1364,HP:0000713,Agitation
+run_003,phenelzine,2123,HP:0000713,Agitation
+run_003,adenosine triphosphate,91,HP:0000713,Agitation
+run_003,brilliant Blue G,5359,HP:0040140,Degeneration of the striatum
+run_003,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_003,ruboxistaurin,3533,HP:0040140,Degeneration of the striatum
+run_003,phenelzine,2123,HP:0002300,Mutism
+run_003,pantoprazole,2054,HP:0002300,Mutism
+run_003,omeprazole,1990,HP:0002300,Mutism
+run_003,pantoprazole,2054,HP:0001250,Seizure
+run_003,omeprazole,1990,HP:0001250,Seizure
+run_003,orlistat,1996,HP:0001250,Seizure
+run_003,hexachlorophene,1364,HP:0000739,Anxiety
+run_003,phenelzine,2123,HP:0000739,Anxiety
+run_003,adenosine triphosphate,91,HP:0000739,Anxiety
+run_003,ruboxistaurin,3533,HP:0025401,Staring gaze
+run_003,phenelzine,2123,HP:0025401,Staring gaze
+run_003,brilliant Blue G,5359,HP:0025401,Staring gaze
+run_003,hexachlorophene,1364,HP:0003487,Babinski sign
+run_003,brilliant Blue G,5359,HP:0003487,Babinski sign
+run_003,phenelzine,2123,HP:0003487,Babinski sign
+run_003,brilliant Blue G,5359,HP:0045082,Decreased body mass index
+run_003,cycloserine,759,HP:0045082,Decreased body mass index
+run_003,phenelzine,2123,HP:0045082,Decreased body mass index
+run_003,sulfaethidole,2504,HP:0004408,Abnormality of the sense of smell
+run_003,miltefosine,1810,HP:0004408,Abnormality of the sense of smell
+run_003,ruboxistaurin,3533,HP:0004408,Abnormality of the sense of smell
+run_003,brilliant Blue G,5359,HP:0100785,Insomnia
+run_003,phenelzine,2123,HP:0100785,Insomnia
+run_003,ruboxistaurin,3533,HP:0100785,Insomnia
+run_003,ganciclovir,1277,HP:0001288,Gait disturbance
+run_003,glutamic acid,1310,HP:0001288,Gait disturbance
+run_003,memantine,1679,HP:0001288,Gait disturbance
+run_003,phenelzine,2123,HP:0000726,Dementia
+run_003,brilliant Blue G,5359,HP:0000726,Dementia
+run_003,pantoprazole,2054,HP:0000726,Dementia
+run_004,cianidanol,629,HP:0030842,Choking episodes
+run_004,nicotinic acid,2835,HP:0030842,Choking episodes
+run_004,tacrine,2551,HP:0030842,Choking episodes
+run_004,phenelzine,2123,HP:0000738,Hallucinations
+run_004,promethazine,2286,HP:0000738,Hallucinations
+run_004,orlistat,1996,HP:0000738,Hallucinations
+run_004,cianidanol,629,HP:0003107,Abnormal circulating cholesterol concentration
+run_004,nicotinic acid,2835,HP:0003107,Abnormal circulating cholesterol concentration
+run_004,tacrine,2551,HP:0003107,Abnormal circulating cholesterol concentration
+run_004,phenelzine,2123,HP:0002169,Clonus
+run_004,omeprazole,1990,HP:0002169,Clonus
+run_004,pantoprazole,2054,HP:0002169,Clonus
+run_004,cerulenin,578,HP:0002067,Bradykinesia
+run_004,orlistat,1996,HP:0002067,Bradykinesia
+run_004,phenelzine,2123,HP:0002067,Bradykinesia
+run_004,pantoprazole,2054,HP:0000496,Abnormality of eye movement
+run_004,omeprazole,1990,HP:0000496,Abnormality of eye movement
+run_004,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_004,cerulenin,578,HP:0031589,Suicidal ideation
+run_004,rabeprazole,2350,HP:0031589,Suicidal ideation
+run_004,pantoprazole,2054,HP:0031589,Suicidal ideation
+run_004,orlistat,1996,HP:0001824,Weight loss
+run_004,bempedoic acid,5382,HP:0001824,Weight loss
+run_004,adenosine triphosphate,91,HP:0001824,Weight loss
+run_004,cianidanol,629,HP:0031843,Bradyphrenia
+run_004,amodiaquine,186,HP:0031843,Bradyphrenia
+run_004,methylthioninium chloride,1763,HP:0031843,Bradyphrenia
+run_004,pantoprazole,2054,HP:0000741,Apathy
+run_004,omeprazole,1990,HP:0000741,Apathy
+run_004,orlistat,1996,HP:0000741,Apathy
+run_004,omeprazole,1990,HP:0001336,Myoclonus
+run_004,pantoprazole,2054,HP:0001336,Myoclonus
+run_004,orlistat,1996,HP:0001336,Myoclonus
+run_004,omeprazole,1990,HP:0004305,Involuntary movements
+run_004,pantoprazole,2054,HP:0004305,Involuntary movements
+run_004,rabeprazole,2350,HP:0004305,Involuntary movements
+run_004,pantoprazole,2054,HP:0002540,Inability to walk
+run_004,omeprazole,1990,HP:0002540,Inability to walk
+run_004,omapatrilat,1989,HP:0002540,Inability to walk
+run_004,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_004,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_004,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_004,cerulenin,578,HP:0002171,Gliosis
+run_004,orlistat,1996,HP:0002171,Gliosis
+run_004,adenosine triphosphate,91,HP:0002171,Gliosis
+run_004,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_004,omeprazole,1990,HP:0000718,Aggressive behavior
+run_004,phenelzine,2123,HP:0000718,Aggressive behavior
+run_004,cianidanol,629,HP:0010794,Impaired visuospatial constructive cognition
+run_004,nicotinic acid,2835,HP:0010794,Impaired visuospatial constructive cognition
+run_004,amodiaquine,186,HP:0010794,Impaired visuospatial constructive cognition
+run_004,orlistat,1996,HP:0002354,Memory impairment
+run_004,phenelzine,2123,HP:0002354,Memory impairment
+run_004,pantoprazole,2054,HP:0002354,Memory impairment
+run_004,nicotinic acid,2835,HP:0002529,Neuronal loss in central nervous system
+run_004,cianidanol,629,HP:0002529,Neuronal loss in central nervous system
+run_004,amodiaquine,186,HP:0002529,Neuronal loss in central nervous system
+run_004,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_004,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_004,phenelzine,2123,HP:0001272,Cerebellar atrophy
+run_004,cianidanol,629,HP:0031845,Abnormal libido
+run_004,amodiaquine,186,HP:0031845,Abnormal libido
+run_004,nicotinic acid,2835,HP:0031845,Abnormal libido
+run_004,cianidanol,629,HP:0009088,Speech articulation difficulties
+run_004,methylthioninium chloride,1763,HP:0009088,Speech articulation difficulties
+run_004,tacrine,2551,HP:0009088,Speech articulation difficulties
+run_004,omeprazole,1990,HP:0002500,Abnormal cerebral white matter morphology
+run_004,pantoprazole,2054,HP:0002500,Abnormal cerebral white matter morphology
+run_004,orlistat,1996,HP:0002500,Abnormal cerebral white matter morphology
+run_004,cianidanol,629,HP:0031473,Hostility
+run_004,amodiaquine,186,HP:0031473,Hostility
+run_004,tacrine,2551,HP:0031473,Hostility
+run_004,omeprazole,1990,HP:0002072,Chorea
+run_004,pantoprazole,2054,HP:0002072,Chorea
+run_004,cycloserine,759,HP:0002072,Chorea
+run_004,pantoprazole,2054,HP:0002355,Difficulty walking
+run_004,orlistat,1996,HP:0002355,Difficulty walking
+run_004,omeprazole,1990,HP:0002355,Difficulty walking
+run_004,phenelzine,2123,HP:0002591,Polyphagia
+run_004,buprenorphine,434,HP:0002591,Polyphagia
+run_004,orlistat,1996,HP:0002591,Polyphagia
+run_004,amodiaquine,186,HP:0001262,Excessive daytime somnolence
+run_004,cianidanol,629,HP:0001262,Excessive daytime somnolence
+run_004,nicotinic acid,2835,HP:0001262,Excessive daytime somnolence
+run_004,cerulenin,578,HP:0000751,Personality changes
+run_004,pantoprazole,2054,HP:0000751,Personality changes
+run_004,omeprazole,1990,HP:0000751,Personality changes
+run_004,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_004,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_004,orlistat,1996,HP:0002059,Cerebral atrophy
+run_004,pantoprazole,2054,HP:0000716,Depression
+run_004,omeprazole,1990,HP:0000716,Depression
+run_004,orlistat,1996,HP:0000716,Depression
+run_004,orlistat,1996,HP:0003324,Generalized muscle weakness
+run_004,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_004,pantoprazole,2054,HP:0003324,Generalized muscle weakness
+run_004,phenelzine,2123,HP:0002312,Clumsiness
+run_004,vesnarinone,2817,HP:0002312,Clumsiness
+run_004,promethazine,2286,HP:0002312,Clumsiness
+run_004,cerulenin,578,HP:0002066,Gait ataxia
+run_004,nintedanib,4903,HP:0002066,Gait ataxia
+run_004,orlistat,1996,HP:0002066,Gait ataxia
+run_004,phenelzine,2123,HP:0000734,Disinhibition
+run_004,pantoprazole,2054,HP:0000734,Disinhibition
+run_004,vesnarinone,2817,HP:0000734,Disinhibition
+run_004,cianidanol,629,HP:0030955,Alcoholism
+run_004,amodiaquine,186,HP:0030955,Alcoholism
+run_004,tacrine,2551,HP:0030955,Alcoholism
+run_004,orlistat,1996,HP:0001268,Mental deterioration
+run_004,omeprazole,1990,HP:0001268,Mental deterioration
+run_004,pantoprazole,2054,HP:0001268,Mental deterioration
+run_004,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_004,cerulenin,578,HP:0007010,Poor fine motor coordination
+run_004,rabeprazole,2350,HP:0007010,Poor fine motor coordination
+run_004,pantoprazole,2054,HP:0002063,Rigidity
+run_004,omeprazole,1990,HP:0002063,Rigidity
+run_004,orlistat,1996,HP:0002063,Rigidity
+run_004,phenelzine,2123,HP:0002340,Caudate atrophy
+run_004,omeprazole,1990,HP:0002340,Caudate atrophy
+run_004,rabeprazole,2350,HP:0002340,Caudate atrophy
+run_004,pantoprazole,2054,HP:0001332,Dystonia
+run_004,orlistat,1996,HP:0001332,Dystonia
+run_004,omeprazole,1990,HP:0001332,Dystonia
+run_004,cerulenin,578,HP:0000746,Delusions
+run_004,rabeprazole,2350,HP:0000746,Delusions
+run_004,amodiaquine,186,HP:0000746,Delusions
+run_004,pantoprazole,2054,HP:0002141,Gait imbalance
+run_004,phenelzine,2123,HP:0002141,Gait imbalance
+run_004,omeprazole,1990,HP:0002141,Gait imbalance
+run_004,pantoprazole,2054,HP:0001347,Hyperreflexia
+run_004,omeprazole,1990,HP:0001347,Hyperreflexia
+run_004,orlistat,1996,HP:0001347,Hyperreflexia
+run_004,phenelzine,2123,HP:0000737,Irritability
+run_004,orlistat,1996,HP:0000737,Irritability
+run_004,promethazine,2286,HP:0000737,Irritability
+run_004,omeprazole,1990,HP:0200136,Oral-pharyngeal dysphagia
+run_004,pantoprazole,2054,HP:0200136,Oral-pharyngeal dysphagia
+run_004,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_004,orlistat,1996,HP:0000713,Agitation
+run_004,pantoprazole,2054,HP:0000713,Agitation
+run_004,omeprazole,1990,HP:0000713,Agitation
+run_004,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_004,carvedilol,522,HP:0040140,Degeneration of the striatum
+run_004,cerulenin,578,HP:0040140,Degeneration of the striatum
+run_004,phenelzine,2123,HP:0002300,Mutism
+run_004,pantoprazole,2054,HP:0002300,Mutism
+run_004,omeprazole,1990,HP:0002300,Mutism
+run_004,pantoprazole,2054,HP:0001250,Seizure
+run_004,omeprazole,1990,HP:0001250,Seizure
+run_004,orlistat,1996,HP:0001250,Seizure
+run_004,orlistat,1996,HP:0000739,Anxiety
+run_004,pantoprazole,2054,HP:0000739,Anxiety
+run_004,omeprazole,1990,HP:0000739,Anxiety
+run_004,cianidanol,629,HP:0025401,Staring gaze
+run_004,phenelzine,2123,HP:0025401,Staring gaze
+run_004,rabeprazole,2350,HP:0025401,Staring gaze
+run_004,orlistat,1996,HP:0003487,Babinski sign
+run_004,phenelzine,2123,HP:0003487,Babinski sign
+run_004,promethazine,2286,HP:0003487,Babinski sign
+run_004,cianidanol,629,HP:0045082,Decreased body mass index
+run_004,nicotinic acid,2835,HP:0045082,Decreased body mass index
+run_004,methylthioninium chloride,1763,HP:0045082,Decreased body mass index
+run_004,cianidanol,629,HP:0004408,Abnormality of the sense of smell
+run_004,tacrine,2551,HP:0004408,Abnormality of the sense of smell
+run_004,amodiaquine,186,HP:0004408,Abnormality of the sense of smell
+run_004,cerulenin,578,HP:0100785,Insomnia
+run_004,pantoprazole,2054,HP:0100785,Insomnia
+run_004,omeprazole,1990,HP:0100785,Insomnia
+run_004,orlistat,1996,HP:0001288,Gait disturbance
+run_004,cerulenin,578,HP:0001288,Gait disturbance
+run_004,adenosine triphosphate,91,HP:0001288,Gait disturbance
+run_004,phenelzine,2123,HP:0000726,Dementia
+run_004,pantoprazole,2054,HP:0000726,Dementia
+run_004,orlistat,1996,HP:0000726,Dementia
+run_005,bortezomib,391,HP:0030842,Choking episodes
+run_005,carfilzomib,4483,HP:0030842,Choking episodes
+run_005,ixazomib,5067,HP:0030842,Choking episodes
+run_005,omeprazole,1990,HP:0000738,Hallucinations
+run_005,pantoprazole,2054,HP:0000738,Hallucinations
+run_005,hexachlorophene,1364,HP:0000738,Hallucinations
+run_005,carfilzomib,4483,HP:0003107,Abnormal circulating cholesterol concentration
+run_005,bortezomib,391,HP:0003107,Abnormal circulating cholesterol concentration
+run_005,ixazomib,5067,HP:0003107,Abnormal circulating cholesterol concentration
+run_005,phenelzine,2123,HP:0002169,Clonus
+run_005,bortezomib,391,HP:0002169,Clonus
+run_005,colchicine,726,HP:0002169,Clonus
+run_005,cerulenin,578,HP:0002067,Bradykinesia
+run_005,adenosine triphosphate,91,HP:0002067,Bradykinesia
+run_005,phenelzine,2123,HP:0002067,Bradykinesia
+run_005,omeprazole,1990,HP:0000496,Abnormality of eye movement
+run_005,bortezomib,391,HP:0000496,Abnormality of eye movement
+run_005,pantoprazole,2054,HP:0000496,Abnormality of eye movement
+run_005,bortezomib,391,HP:0031589,Suicidal ideation
+run_005,omeprazole,1990,HP:0031589,Suicidal ideation
+run_005,pantoprazole,2054,HP:0031589,Suicidal ideation
+run_005,adenosine triphosphate,91,HP:0001824,Weight loss
+run_005,ridaforolimus,4778,HP:0001824,Weight loss
+run_005,naloxone,1878,HP:0001824,Weight loss
+run_005,bortezomib,391,HP:0031843,Bradyphrenia
+run_005,carfilzomib,4483,HP:0031843,Bradyphrenia
+run_005,ixazomib,5067,HP:0031843,Bradyphrenia
+run_005,omeprazole,1990,HP:0000741,Apathy
+run_005,bortezomib,391,HP:0000741,Apathy
+run_005,hexachlorophene,1364,HP:0000741,Apathy
+run_005,cerulenin,578,HP:0001336,Myoclonus
+run_005,cycloserine,759,HP:0001336,Myoclonus
+run_005,omeprazole,1990,HP:0001336,Myoclonus
+run_005,cycloserine,759,HP:0004305,Involuntary movements
+run_005,omeprazole,1990,HP:0004305,Involuntary movements
+run_005,ifenprodil,1419,HP:0004305,Involuntary movements
+run_005,omeprazole,1990,HP:0002540,Inability to walk
+run_005,pantoprazole,2054,HP:0002540,Inability to walk
+run_005,miltefosine,1810,HP:0002540,Inability to walk
+run_005,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_005,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_005,colchicine,726,HP:0000722,Obsessive-compulsive behavior
+run_005,cerulenin,578,HP:0002171,Gliosis
+run_005,brilliant Blue G,5359,HP:0002171,Gliosis
+run_005,bempedoic acid,5382,HP:0002171,Gliosis
+run_005,omeprazole,1990,HP:0000718,Aggressive behavior
+run_005,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_005,phenelzine,2123,HP:0000718,Aggressive behavior
+run_005,bortezomib,391,HP:0010794,Impaired visuospatial constructive cognition
+run_005,carfilzomib,4483,HP:0010794,Impaired visuospatial constructive cognition
+run_005,ixazomib,5067,HP:0010794,Impaired visuospatial constructive cognition
+run_005,omeprazole,1990,HP:0002354,Memory impairment
+run_005,pantoprazole,2054,HP:0002354,Memory impairment
+run_005,bortezomib,391,HP:0002354,Memory impairment
+run_005,carfilzomib,4483,HP:0002529,Neuronal loss in central nervous system
+run_005,ixazomib,5067,HP:0002529,Neuronal loss in central nervous system
+run_005,bortezomib,391,HP:0002529,Neuronal loss in central nervous system
+run_005,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_005,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_005,quercetin,3514,HP:0001272,Cerebellar atrophy
+run_005,bortezomib,391,HP:0031845,Abnormal libido
+run_005,carfilzomib,4483,HP:0031845,Abnormal libido
+run_005,ixazomib,5067,HP:0031845,Abnormal libido
+run_005,carfilzomib,4483,HP:0009088,Speech articulation difficulties
+run_005,bortezomib,391,HP:0009088,Speech articulation difficulties
+run_005,ixazomib,5067,HP:0009088,Speech articulation difficulties
+run_005,ifenprodil,1419,HP:0002500,Abnormal cerebral white matter morphology
+run_005,felbamate,1140,HP:0002500,Abnormal cerebral white matter morphology
+run_005,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_005,bortezomib,391,HP:0031473,Hostility
+run_005,carfilzomib,4483,HP:0031473,Hostility
+run_005,ixazomib,5067,HP:0031473,Hostility
+run_005,omeprazole,1990,HP:0002072,Chorea
+run_005,pantoprazole,2054,HP:0002072,Chorea
+run_005,colchicine,726,HP:0002072,Chorea
+run_005,omeprazole,1990,HP:0002355,Difficulty walking
+run_005,pantoprazole,2054,HP:0002355,Difficulty walking
+run_005,miltefosine,1810,HP:0002355,Difficulty walking
+run_005,cerulenin,578,HP:0002591,Polyphagia
+run_005,migalastat,5110,HP:0002591,Polyphagia
+run_005,ridaforolimus,4778,HP:0002591,Polyphagia
+run_005,omeprazole,1990,HP:0001262,Excessive daytime somnolence
+run_005,pantoprazole,2054,HP:0001262,Excessive daytime somnolence
+run_005,bortezomib,391,HP:0001262,Excessive daytime somnolence
+run_005,carfilzomib,4483,HP:0000751,Personality changes
+run_005,bortezomib,391,HP:0000751,Personality changes
+run_005,brilliant Blue G,5359,HP:0000751,Personality changes
+run_005,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_005,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_005,cycloserine,759,HP:0002059,Cerebral atrophy
+run_005,carfilzomib,4483,HP:0000716,Depression
+run_005,omeprazole,1990,HP:0000716,Depression
+run_005,adenosine triphosphate,91,HP:0000716,Depression
+run_005,adenosine triphosphate,91,HP:0003324,Generalized muscle weakness
+run_005,hexachlorophene,1364,HP:0003324,Generalized muscle weakness
+run_005,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_005,omeprazole,1990,HP:0002312,Clumsiness
+run_005,pantoprazole,2054,HP:0002312,Clumsiness
+run_005,bortezomib,391,HP:0002312,Clumsiness
+run_005,omeprazole,1990,HP:0002066,Gait ataxia
+run_005,pantoprazole,2054,HP:0002066,Gait ataxia
+run_005,cerulenin,578,HP:0002066,Gait ataxia
+run_005,omeprazole,1990,HP:0000734,Disinhibition
+run_005,phenelzine,2123,HP:0000734,Disinhibition
+run_005,omapatrilat,1989,HP:0000734,Disinhibition
+run_005,bortezomib,391,HP:0030955,Alcoholism
+run_005,carfilzomib,4483,HP:0030955,Alcoholism
+run_005,ixazomib,5067,HP:0030955,Alcoholism
+run_005,omeprazole,1990,HP:0001268,Mental deterioration
+run_005,pantoprazole,2054,HP:0001268,Mental deterioration
+run_005,miltefosine,1810,HP:0001268,Mental deterioration
+run_005,bortezomib,391,HP:0007010,Poor fine motor coordination
+run_005,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_005,carfilzomib,4483,HP:0007010,Poor fine motor coordination
+run_005,omeprazole,1990,HP:0002063,Rigidity
+run_005,pantoprazole,2054,HP:0002063,Rigidity
+run_005,colchicine,726,HP:0002063,Rigidity
+run_005,bortezomib,391,HP:0002340,Caudate atrophy
+run_005,phenelzine,2123,HP:0002340,Caudate atrophy
+run_005,pantoprazole,2054,HP:0002340,Caudate atrophy
+run_005,omeprazole,1990,HP:0001332,Dystonia
+run_005,cerulenin,578,HP:0001332,Dystonia
+run_005,pantoprazole,2054,HP:0001332,Dystonia
+run_005,carfilzomib,4483,HP:0000746,Delusions
+run_005,ixazomib,5067,HP:0000746,Delusions
+run_005,bortezomib,391,HP:0000746,Delusions
+run_005,bortezomib,391,HP:0002141,Gait imbalance
+run_005,adenosine triphosphate,91,HP:0002141,Gait imbalance
+run_005,hexachlorophene,1364,HP:0002141,Gait imbalance
+run_005,omeprazole,1990,HP:0001347,Hyperreflexia
+run_005,pantoprazole,2054,HP:0001347,Hyperreflexia
+run_005,orlistat,1996,HP:0001347,Hyperreflexia
+run_005,omeprazole,1990,HP:0000737,Irritability
+run_005,bortezomib,391,HP:0000737,Irritability
+run_005,pantoprazole,2054,HP:0000737,Irritability
+run_005,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_005,ifenprodil,1419,HP:0200136,Oral-pharyngeal dysphagia
+run_005,felbamate,1140,HP:0200136,Oral-pharyngeal dysphagia
+run_005,adenosine triphosphate,91,HP:0000713,Agitation
+run_005,hexachlorophene,1364,HP:0000713,Agitation
+run_005,phenelzine,2123,HP:0000713,Agitation
+run_005,omeprazole,1990,HP:0040140,Degeneration of the striatum
+run_005,pantoprazole,2054,HP:0040140,Degeneration of the striatum
+run_005,bortezomib,391,HP:0040140,Degeneration of the striatum
+run_005,omeprazole,1990,HP:0002300,Mutism
+run_005,pantoprazole,2054,HP:0002300,Mutism
+run_005,cerulenin,578,HP:0002300,Mutism
+run_005,omeprazole,1990,HP:0001250,Seizure
+run_005,cerulenin,578,HP:0001250,Seizure
+run_005,pantoprazole,2054,HP:0001250,Seizure
+run_005,phenelzine,2123,HP:0000739,Anxiety
+run_005,adenosine triphosphate,91,HP:0000739,Anxiety
+run_005,omeprazole,1990,HP:0000739,Anxiety
+run_005,bortezomib,391,HP:0025401,Staring gaze
+run_005,omeprazole,1990,HP:0025401,Staring gaze
+run_005,carfilzomib,4483,HP:0025401,Staring gaze
+run_005,adenosine triphosphate,91,HP:0003487,Babinski sign
+run_005,hexachlorophene,1364,HP:0003487,Babinski sign
+run_005,omeprazole,1990,HP:0003487,Babinski sign
+run_005,bortezomib,391,HP:0045082,Decreased body mass index
+run_005,carfilzomib,4483,HP:0045082,Decreased body mass index
+run_005,ixazomib,5067,HP:0045082,Decreased body mass index
+run_005,pantoprazole,2054,HP:0004408,Abnormality of the sense of smell
+run_005,colchicine,726,HP:0004408,Abnormality of the sense of smell
+run_005,miltefosine,1810,HP:0004408,Abnormality of the sense of smell
+run_005,carfilzomib,4483,HP:0100785,Insomnia
+run_005,bortezomib,391,HP:0100785,Insomnia
+run_005,ixazomib,5067,HP:0100785,Insomnia
+run_005,cerulenin,578,HP:0001288,Gait disturbance
+run_005,bempedoic acid,5382,HP:0001288,Gait disturbance
+run_005,thiamine,2832,HP:0001288,Gait disturbance
+run_005,omeprazole,1990,HP:0000726,Dementia
+run_005,bortezomib,391,HP:0000726,Dementia
+run_005,pantoprazole,2054,HP:0000726,Dementia
+run_006,memantine,1679,HP:0030842,Choking episodes
+run_006,ganciclovir,1277,HP:0030842,Choking episodes
+run_006,ingenol mebutate,4226,HP:0030842,Choking episodes
+run_006,ganciclovir,1277,HP:0000738,Hallucinations
+run_006,phenelzine,2123,HP:0000738,Hallucinations
+run_006,omapatrilat,1989,HP:0000738,Hallucinations
+run_006,ganciclovir,1277,HP:0003107,Abnormal circulating cholesterol concentration
+run_006,memantine,1679,HP:0003107,Abnormal circulating cholesterol concentration
+run_006,glutamic acid,1310,HP:0003107,Abnormal circulating cholesterol concentration
+run_006,phenelzine,2123,HP:0002169,Clonus
+run_006,ganciclovir,1277,HP:0002169,Clonus
+run_006,glutamic acid,1310,HP:0002169,Clonus
+run_006,phenelzine,2123,HP:0002067,Bradykinesia
+run_006,promethazine,2286,HP:0002067,Bradykinesia
+run_006,ganciclovir,1277,HP:0002067,Bradykinesia
+run_006,ganciclovir,1277,HP:0000496,Abnormality of eye movement
+run_006,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_006,glutamic acid,1310,HP:0000496,Abnormality of eye movement
+run_006,phenelzine,2123,HP:0031589,Suicidal ideation
+run_006,ganciclovir,1277,HP:0031589,Suicidal ideation
+run_006,ingenol mebutate,4226,HP:0031589,Suicidal ideation
+run_006,brilliant Blue G,5359,HP:0001824,Weight loss
+run_006,adenosine triphosphate,91,HP:0001824,Weight loss
+run_006,bempedoic acid,5382,HP:0001824,Weight loss
+run_006,ganciclovir,1277,HP:0031843,Bradyphrenia
+run_006,memantine,1679,HP:0031843,Bradyphrenia
+run_006,ingenol mebutate,4226,HP:0031843,Bradyphrenia
+run_006,phenelzine,2123,HP:0000741,Apathy
+run_006,hexachlorophene,1364,HP:0000741,Apathy
+run_006,omapatrilat,1989,HP:0000741,Apathy
+run_006,cycloserine,759,HP:0001336,Myoclonus
+run_006,memantine,1679,HP:0001336,Myoclonus
+run_006,felbamate,1140,HP:0001336,Myoclonus
+run_006,memantine,1679,HP:0004305,Involuntary movements
+run_006,cycloserine,759,HP:0004305,Involuntary movements
+run_006,ganciclovir,1277,HP:0004305,Involuntary movements
+run_006,ganciclovir,1277,HP:0002540,Inability to walk
+run_006,cetrimide,4360,HP:0002540,Inability to walk
+run_006,cetrimonium,3082,HP:0002540,Inability to walk
+run_006,thiamine,2832,HP:0000722,Obsessive-compulsive behavior
+run_006,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_006,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_006,cerulenin,578,HP:0002171,Gliosis
+run_006,ganciclovir,1277,HP:0002171,Gliosis
+run_006,phenelzine,2123,HP:0002171,Gliosis
+run_006,ganciclovir,1277,HP:0000718,Aggressive behavior
+run_006,thiamine,2832,HP:0000718,Aggressive behavior
+run_006,phenelzine,2123,HP:0000718,Aggressive behavior
+run_006,memantine,1679,HP:0010794,Impaired visuospatial constructive cognition
+run_006,ganciclovir,1277,HP:0010794,Impaired visuospatial constructive cognition
+run_006,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_006,ganciclovir,1277,HP:0002354,Memory impairment
+run_006,phenelzine,2123,HP:0002354,Memory impairment
+run_006,glutamic acid,1310,HP:0002354,Memory impairment
+run_006,ingenol mebutate,4226,HP:0002529,Neuronal loss in central nervous system
+run_006,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_006,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_006,ganciclovir,1277,HP:0001272,Cerebellar atrophy
+run_006,phenelzine,2123,HP:0001272,Cerebellar atrophy
+run_006,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_006,memantine,1679,HP:0031845,Abnormal libido
+run_006,ganciclovir,1277,HP:0031845,Abnormal libido
+run_006,glutamic acid,1310,HP:0031845,Abnormal libido
+run_006,memantine,1679,HP:0009088,Speech articulation difficulties
+run_006,ganciclovir,1277,HP:0009088,Speech articulation difficulties
+run_006,ingenol mebutate,4226,HP:0009088,Speech articulation difficulties
+run_006,ganciclovir,1277,HP:0002500,Abnormal cerebral white matter morphology
+run_006,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_006,phenelzine,2123,HP:0002500,Abnormal cerebral white matter morphology
+run_006,memantine,1679,HP:0031473,Hostility
+run_006,ingenol mebutate,4226,HP:0031473,Hostility
+run_006,phenelzine,2123,HP:0031473,Hostility
+run_006,phenelzine,2123,HP:0002072,Chorea
+run_006,ganciclovir,1277,HP:0002072,Chorea
+run_006,omeprazole,1990,HP:0002072,Chorea
+run_006,ganciclovir,1277,HP:0002355,Difficulty walking
+run_006,cetrimonium,3082,HP:0002355,Difficulty walking
+run_006,phenelzine,2123,HP:0002355,Difficulty walking
+run_006,ganciclovir,1277,HP:0002591,Polyphagia
+run_006,glutamic acid,1310,HP:0002591,Polyphagia
+run_006,phenelzine,2123,HP:0002591,Polyphagia
+run_006,sulfasalazine,2525,HP:0001262,Excessive daytime somnolence
+run_006,phenelzine,2123,HP:0001262,Excessive daytime somnolence
+run_006,omapatrilat,1989,HP:0001262,Excessive daytime somnolence
+run_006,phenelzine,2123,HP:0000751,Personality changes
+run_006,brilliant Blue G,5359,HP:0000751,Personality changes
+run_006,ganciclovir,1277,HP:0000751,Personality changes
+run_006,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_006,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_006,cycloserine,759,HP:0002059,Cerebral atrophy
+run_006,hexachlorophene,1364,HP:0000716,Depression
+run_006,promethazine,2286,HP:0000716,Depression
+run_006,omeprazole,1990,HP:0000716,Depression
+run_006,hexachlorophene,1364,HP:0003324,Generalized muscle weakness
+run_006,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_006,ganciclovir,1277,HP:0003324,Generalized muscle weakness
+run_006,ganciclovir,1277,HP:0002312,Clumsiness
+run_006,phenelzine,2123,HP:0002312,Clumsiness
+run_006,glutamic acid,1310,HP:0002312,Clumsiness
+run_006,ganciclovir,1277,HP:0002066,Gait ataxia
+run_006,phenelzine,2123,HP:0002066,Gait ataxia
+run_006,glutamic acid,1310,HP:0002066,Gait ataxia
+run_006,hexachlorophene,1364,HP:0000734,Disinhibition
+run_006,phenelzine,2123,HP:0000734,Disinhibition
+run_006,ganciclovir,1277,HP:0000734,Disinhibition
+run_006,memantine,1679,HP:0030955,Alcoholism
+run_006,phenelzine,2123,HP:0030955,Alcoholism
+run_006,ingenol mebutate,4226,HP:0030955,Alcoholism
+run_006,ganciclovir,1277,HP:0001268,Mental deterioration
+run_006,phenelzine,2123,HP:0001268,Mental deterioration
+run_006,cetrimonium,3082,HP:0001268,Mental deterioration
+run_006,ganciclovir,1277,HP:0007010,Poor fine motor coordination
+run_006,hexachlorophene,1364,HP:0007010,Poor fine motor coordination
+run_006,glutamic acid,1310,HP:0007010,Poor fine motor coordination
+run_006,ganciclovir,1277,HP:0002063,Rigidity
+run_006,phenelzine,2123,HP:0002063,Rigidity
+run_006,cetrimonium,3082,HP:0002063,Rigidity
+run_006,ganciclovir,1277,HP:0002340,Caudate atrophy
+run_006,memantine,1679,HP:0002340,Caudate atrophy
+run_006,glutamic acid,1310,HP:0002340,Caudate atrophy
+run_006,omeprazole,1990,HP:0001332,Dystonia
+run_006,pantoprazole,2054,HP:0001332,Dystonia
+run_006,promethazine,2286,HP:0001332,Dystonia
+run_006,ingenol mebutate,4226,HP:0000746,Delusions
+run_006,brilliant Blue G,5359,HP:0000746,Delusions
+run_006,edetic acid,987,HP:0000746,Delusions
+run_006,phenelzine,2123,HP:0002141,Gait imbalance
+run_006,ganciclovir,1277,HP:0002141,Gait imbalance
+run_006,hexachlorophene,1364,HP:0002141,Gait imbalance
+run_006,ganciclovir,1277,HP:0001347,Hyperreflexia
+run_006,glutamic acid,1310,HP:0001347,Hyperreflexia
+run_006,phenelzine,2123,HP:0001347,Hyperreflexia
+run_006,phenelzine,2123,HP:0000737,Irritability
+run_006,ganciclovir,1277,HP:0000737,Irritability
+run_006,glutamic acid,1310,HP:0000737,Irritability
+run_006,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_006,memantine,1679,HP:0200136,Oral-pharyngeal dysphagia
+run_006,felbamate,1140,HP:0200136,Oral-pharyngeal dysphagia
+run_006,hexachlorophene,1364,HP:0000713,Agitation
+run_006,phenelzine,2123,HP:0000713,Agitation
+run_006,ganciclovir,1277,HP:0000713,Agitation
+run_006,ganciclovir,1277,HP:0040140,Degeneration of the striatum
+run_006,glutamic acid,1310,HP:0040140,Degeneration of the striatum
+run_006,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_006,phenelzine,2123,HP:0002300,Mutism
+run_006,ganciclovir,1277,HP:0002300,Mutism
+run_006,glutamic acid,1310,HP:0002300,Mutism
+run_006,pantoprazole,2054,HP:0001250,Seizure
+run_006,omeprazole,1990,HP:0001250,Seizure
+run_006,thiamine,2832,HP:0001250,Seizure
+run_006,hexachlorophene,1364,HP:0000739,Anxiety
+run_006,phenelzine,2123,HP:0000739,Anxiety
+run_006,omeprazole,1990,HP:0000739,Anxiety
+run_006,ganciclovir,1277,HP:0025401,Staring gaze
+run_006,phenelzine,2123,HP:0025401,Staring gaze
+run_006,glutamic acid,1310,HP:0025401,Staring gaze
+run_006,ganciclovir,1277,HP:0003487,Babinski sign
+run_006,phenelzine,2123,HP:0003487,Babinski sign
+run_006,glutamic acid,1310,HP:0003487,Babinski sign
+run_006,memantine,1679,HP:0045082,Decreased body mass index
+run_006,ingenol mebutate,4226,HP:0045082,Decreased body mass index
+run_006,ganciclovir,1277,HP:0045082,Decreased body mass index
+run_006,phenelzine,2123,HP:0004408,Abnormality of the sense of smell
+run_006,sulfaethidole,2504,HP:0004408,Abnormality of the sense of smell
+run_006,memantine,1679,HP:0004408,Abnormality of the sense of smell
+run_006,phenelzine,2123,HP:0100785,Insomnia
+run_006,ganciclovir,1277,HP:0100785,Insomnia
+run_006,glutamic acid,1310,HP:0100785,Insomnia
+run_006,phenelzine,2123,HP:0001288,Gait disturbance
+run_006,brilliant Blue G,5359,HP:0001288,Gait disturbance
+run_006,cerulenin,578,HP:0001288,Gait disturbance
+run_006,phenelzine,2123,HP:0000726,Dementia
+run_006,hexachlorophene,1364,HP:0000726,Dementia
+run_006,ganciclovir,1277,HP:0000726,Dementia
+run_007,phenelzine,2123,HP:0030842,Choking episodes
+run_007,baicalin,4055,HP:0030842,Choking episodes
+run_007,hesperetin,1362,HP:0030842,Choking episodes
+run_007,formoterol,1239,HP:0000738,Hallucinations
+run_007,primaquine,2266,HP:0000738,Hallucinations
+run_007,famotidine,1129,HP:0000738,Hallucinations
+run_007,phenelzine,2123,HP:0003107,Abnormal circulating cholesterol concentration
+run_007,hesperetin,1362,HP:0003107,Abnormal circulating cholesterol concentration
+run_007,diosmetin,4601,HP:0003107,Abnormal circulating cholesterol concentration
+run_007,diosmetin,4601,HP:0002169,Clonus
+run_007,baicalin,4055,HP:0002169,Clonus
+run_007,hesperetin,1362,HP:0002169,Clonus
+run_007,cerulenin,578,HP:0002067,Bradykinesia
+run_007,thiamine,2832,HP:0002067,Bradykinesia
+run_007,quercetin,3514,HP:0002067,Bradykinesia
+run_007,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_007,diosmetin,4601,HP:0000496,Abnormality of eye movement
+run_007,hesperetin,1362,HP:0000496,Abnormality of eye movement
+run_007,thiamine,2832,HP:0031589,Suicidal ideation
+run_007,phenelzine,2123,HP:0031589,Suicidal ideation
+run_007,famotidine,1129,HP:0031589,Suicidal ideation
+run_007,brilliant Blue G,5359,HP:0001824,Weight loss
+run_007,adenosine triphosphate,91,HP:0001824,Weight loss
+run_007,famotidine,1129,HP:0001824,Weight loss
+run_007,phenelzine,2123,HP:0031843,Bradyphrenia
+run_007,baicalin,4055,HP:0031843,Bradyphrenia
+run_007,hesperetin,1362,HP:0031843,Bradyphrenia
+run_007,thiamine,2832,HP:0000741,Apathy
+run_007,formoterol,1239,HP:0000741,Apathy
+run_007,famotidine,1129,HP:0000741,Apathy
+run_007,memantine,1679,HP:0001336,Myoclonus
+run_007,cycloserine,759,HP:0001336,Myoclonus
+run_007,methylthioninium chloride,1763,HP:0001336,Myoclonus
+run_007,thiamine,2832,HP:0004305,Involuntary movements
+run_007,cetrimide,4360,HP:0004305,Involuntary movements
+run_007,pantoprazole,2054,HP:0004305,Involuntary movements
+run_007,thiamine,2832,HP:0002540,Inability to walk
+run_007,orlistat,1996,HP:0002540,Inability to walk
+run_007,pantoprazole,2054,HP:0002540,Inability to walk
+run_007,thiamine,2832,HP:0000722,Obsessive-compulsive behavior
+run_007,terfenadine,2600,HP:0000722,Obsessive-compulsive behavior
+run_007,primaquine,2266,HP:0000722,Obsessive-compulsive behavior
+run_007,cerulenin,578,HP:0002171,Gliosis
+run_007,naloxone,1878,HP:0002171,Gliosis
+run_007,phenelzine,2123,HP:0002171,Gliosis
+run_007,quercetin,3514,HP:0000718,Aggressive behavior
+run_007,thiamine,2832,HP:0000718,Aggressive behavior
+run_007,orlistat,1996,HP:0000718,Aggressive behavior
+run_007,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_007,thiamine,2832,HP:0010794,Impaired visuospatial constructive cognition
+run_007,hesperetin,1362,HP:0010794,Impaired visuospatial constructive cognition
+run_007,quercetin,3514,HP:0002354,Memory impairment
+run_007,omapatrilat,1989,HP:0002354,Memory impairment
+run_007,orlistat,1996,HP:0002354,Memory impairment
+run_007,thiamine,2832,HP:0002529,Neuronal loss in central nervous system
+run_007,terfenadine,2600,HP:0002529,Neuronal loss in central nervous system
+run_007,primaquine,2266,HP:0002529,Neuronal loss in central nervous system
+run_007,orlistat,1996,HP:0001272,Cerebellar atrophy
+run_007,quercetin,3514,HP:0001272,Cerebellar atrophy
+run_007,primaquine,2266,HP:0001272,Cerebellar atrophy
+run_007,phenelzine,2123,HP:0031845,Abnormal libido
+run_007,hesperetin,1362,HP:0031845,Abnormal libido
+run_007,baicalin,4055,HP:0031845,Abnormal libido
+run_007,phenelzine,2123,HP:0009088,Speech articulation difficulties
+run_007,baicalin,4055,HP:0009088,Speech articulation difficulties
+run_007,hesperetin,1362,HP:0009088,Speech articulation difficulties
+run_007,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_007,felbamate,1140,HP:0002500,Abnormal cerebral white matter morphology
+run_007,ifenprodil,1419,HP:0002500,Abnormal cerebral white matter morphology
+run_007,phenelzine,2123,HP:0031473,Hostility
+run_007,hesperetin,1362,HP:0031473,Hostility
+run_007,carvedilol,522,HP:0031473,Hostility
+run_007,orlistat,1996,HP:0002072,Chorea
+run_007,cycloserine,759,HP:0002072,Chorea
+run_007,felbamate,1140,HP:0002072,Chorea
+run_007,thiamine,2832,HP:0002355,Difficulty walking
+run_007,orlistat,1996,HP:0002355,Difficulty walking
+run_007,primaquine,2266,HP:0002355,Difficulty walking
+run_007,phenelzine,2123,HP:0002591,Polyphagia
+run_007,cerulenin,578,HP:0002591,Polyphagia
+run_007,quercetin,3514,HP:0002591,Polyphagia
+run_007,quercetin,3514,HP:0001262,Excessive daytime somnolence
+run_007,phenelzine,2123,HP:0001262,Excessive daytime somnolence
+run_007,orlistat,1996,HP:0001262,Excessive daytime somnolence
+run_007,thiamine,2832,HP:0000751,Personality changes
+run_007,famotidine,1129,HP:0000751,Personality changes
+run_007,primaquine,2266,HP:0000751,Personality changes
+run_007,thiamine,2832,HP:0002059,Cerebral atrophy
+run_007,orlistat,1996,HP:0002059,Cerebral atrophy
+run_007,hexachlorophene,1364,HP:0002059,Cerebral atrophy
+run_007,thiamine,2832,HP:0000716,Depression
+run_007,primaquine,2266,HP:0000716,Depression
+run_007,famotidine,1129,HP:0000716,Depression
+run_007,formoterol,1239,HP:0003324,Generalized muscle weakness
+run_007,primaquine,2266,HP:0003324,Generalized muscle weakness
+run_007,famotidine,1129,HP:0003324,Generalized muscle weakness
+run_007,phenelzine,2123,HP:0002312,Clumsiness
+run_007,quercetin,3514,HP:0002312,Clumsiness
+run_007,thiamine,2832,HP:0002312,Clumsiness
+run_007,thiamine,2832,HP:0002066,Gait ataxia
+run_007,primaquine,2266,HP:0002066,Gait ataxia
+run_007,hexachlorophene,1364,HP:0002066,Gait ataxia
+run_007,thiamine,2832,HP:0000734,Disinhibition
+run_007,formoterol,1239,HP:0000734,Disinhibition
+run_007,famotidine,1129,HP:0000734,Disinhibition
+run_007,phenelzine,2123,HP:0030955,Alcoholism
+run_007,baicalin,4055,HP:0030955,Alcoholism
+run_007,hesperetin,1362,HP:0030955,Alcoholism
+run_007,omapatrilat,1989,HP:0001268,Mental deterioration
+run_007,brilliant Blue G,5359,HP:0001268,Mental deterioration
+run_007,florbetaben F18,4818,HP:0001268,Mental deterioration
+run_007,thiamine,2832,HP:0007010,Poor fine motor coordination
+run_007,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_007,terfenadine,2600,HP:0007010,Poor fine motor coordination
+run_007,orlistat,1996,HP:0002063,Rigidity
+run_007,thiamine,2832,HP:0002063,Rigidity
+run_007,quercetin,3514,HP:0002063,Rigidity
+run_007,phenelzine,2123,HP:0002340,Caudate atrophy
+run_007,thiamine,2832,HP:0002340,Caudate atrophy
+run_007,tacrine,2551,HP:0002340,Caudate atrophy
+run_007,thiamine,2832,HP:0001332,Dystonia
+run_007,quercetin,3514,HP:0001332,Dystonia
+run_007,cycloserine,759,HP:0001332,Dystonia
+run_007,phenelzine,2123,HP:0000746,Delusions
+run_007,thiamine,2832,HP:0000746,Delusions
+run_007,clioquinol,681,HP:0000746,Delusions
+run_007,terfenadine,2600,HP:0002141,Gait imbalance
+run_007,thiamine,2832,HP:0002141,Gait imbalance
+run_007,primaquine,2266,HP:0002141,Gait imbalance
+run_007,thiamine,2832,HP:0001347,Hyperreflexia
+run_007,orlistat,1996,HP:0001347,Hyperreflexia
+run_007,quercetin,3514,HP:0001347,Hyperreflexia
+run_007,thiamine,2832,HP:0000737,Irritability
+run_007,quercetin,3514,HP:0000737,Irritability
+run_007,primaquine,2266,HP:0000737,Irritability
+run_007,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_007,felbamate,1140,HP:0200136,Oral-pharyngeal dysphagia
+run_007,memantine,1679,HP:0200136,Oral-pharyngeal dysphagia
+run_007,formoterol,1239,HP:0000713,Agitation
+run_007,primaquine,2266,HP:0000713,Agitation
+run_007,famotidine,1129,HP:0000713,Agitation
+run_007,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_007,hesperetin,1362,HP:0040140,Degeneration of the striatum
+run_007,diosmetin,4601,HP:0040140,Degeneration of the striatum
+run_007,thiamine,2832,HP:0002300,Mutism
+run_007,formoterol,1239,HP:0002300,Mutism
+run_007,midodrine,1803,HP:0002300,Mutism
+run_007,orlistat,1996,HP:0001250,Seizure
+run_007,thiamine,2832,HP:0001250,Seizure
+run_007,cerulenin,578,HP:0001250,Seizure
+run_007,famotidine,1129,HP:0000739,Anxiety
+run_007,primaquine,2266,HP:0000739,Anxiety
+run_007,formoterol,1239,HP:0000739,Anxiety
+run_007,phenelzine,2123,HP:0025401,Staring gaze
+run_007,hesperetin,1362,HP:0025401,Staring gaze
+run_007,diosmetin,4601,HP:0025401,Staring gaze
+run_007,formoterol,1239,HP:0003487,Babinski sign
+run_007,hexachlorophene,1364,HP:0003487,Babinski sign
+run_007,thiamine,2832,HP:0003487,Babinski sign
+run_007,phenelzine,2123,HP:0045082,Decreased body mass index
+run_007,hesperetin,1362,HP:0045082,Decreased body mass index
+run_007,diosmetin,4601,HP:0045082,Decreased body mass index
+run_007,phenelzine,2123,HP:0004408,Abnormality of the sense of smell
+run_007,quercetin,3514,HP:0004408,Abnormality of the sense of smell
+run_007,baicalin,4055,HP:0004408,Abnormality of the sense of smell
+run_007,thiamine,2832,HP:0100785,Insomnia
+run_007,phenelzine,2123,HP:0100785,Insomnia
+run_007,famotidine,1129,HP:0100785,Insomnia
+run_007,cerulenin,578,HP:0001288,Gait disturbance
+run_007,brilliant Blue G,5359,HP:0001288,Gait disturbance
+run_007,adenosine triphosphate,91,HP:0001288,Gait disturbance
+run_007,thiamine,2832,HP:0000726,Dementia
+run_007,formoterol,1239,HP:0000726,Dementia
+run_007,primaquine,2266,HP:0000726,Dementia
+run_008,phenelzine,2123,HP:0030842,Choking episodes
+run_008,rabeprazole,2350,HP:0030842,Choking episodes
+run_008,dexrabeprazole,4867,HP:0030842,Choking episodes
+run_008,phenelzine,2123,HP:0000738,Hallucinations
+run_008,promethazine,2286,HP:0000738,Hallucinations
+run_008,pantoprazole,2054,HP:0000738,Hallucinations
+run_008,phenelzine,2123,HP:0003107,Abnormal circulating cholesterol concentration
+run_008,rabeprazole,2350,HP:0003107,Abnormal circulating cholesterol concentration
+run_008,lansoprazole,1547,HP:0003107,Abnormal circulating cholesterol concentration
+run_008,phenelzine,2123,HP:0002169,Clonus
+run_008,rutoside,3535,HP:0002169,Clonus
+run_008,baicalin,4055,HP:0002169,Clonus
+run_008,paclitaxel,2044,HP:0002067,Bradykinesia
+run_008,pantoprazole,2054,HP:0002067,Bradykinesia
+run_008,omeprazole,1990,HP:0002067,Bradykinesia
+run_008,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_008,omapatrilat,1989,HP:0000496,Abnormality of eye movement
+run_008,promethazine,2286,HP:0000496,Abnormality of eye movement
+run_008,rabeprazole,2350,HP:0031589,Suicidal ideation
+run_008,phenelzine,2123,HP:0031589,Suicidal ideation
+run_008,lansoprazole,1547,HP:0031589,Suicidal ideation
+run_008,orlistat,1996,HP:0001824,Weight loss
+run_008,adenosine triphosphate,91,HP:0001824,Weight loss
+run_008,omeprazole,1990,HP:0001824,Weight loss
+run_008,phenelzine,2123,HP:0031843,Bradyphrenia
+run_008,rabeprazole,2350,HP:0031843,Bradyphrenia
+run_008,lansoprazole,1547,HP:0031843,Bradyphrenia
+run_008,phenelzine,2123,HP:0000741,Apathy
+run_008,promethazine,2286,HP:0000741,Apathy
+run_008,cerulenin,578,HP:0000741,Apathy
+run_008,pantoprazole,2054,HP:0001336,Myoclonus
+run_008,omeprazole,1990,HP:0001336,Myoclonus
+run_008,omapatrilat,1989,HP:0001336,Myoclonus
+run_008,pantoprazole,2054,HP:0004305,Involuntary movements
+run_008,omeprazole,1990,HP:0004305,Involuntary movements
+run_008,phenelzine,2123,HP:0004305,Involuntary movements
+run_008,phenelzine,2123,HP:0002540,Inability to walk
+run_008,quercetin,3514,HP:0002540,Inability to walk
+run_008,pantoprazole,2054,HP:0002540,Inability to walk
+run_008,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_008,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_008,promethazine,2286,HP:0000722,Obsessive-compulsive behavior
+run_008,adenosine triphosphate,91,HP:0002171,Gliosis
+run_008,cerulenin,578,HP:0002171,Gliosis
+run_008,brilliant Blue G,5359,HP:0002171,Gliosis
+run_008,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_008,quercetin,3514,HP:0000718,Aggressive behavior
+run_008,phenelzine,2123,HP:0000718,Aggressive behavior
+run_008,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_008,rabeprazole,2350,HP:0010794,Impaired visuospatial constructive cognition
+run_008,lansoprazole,1547,HP:0010794,Impaired visuospatial constructive cognition
+run_008,phenelzine,2123,HP:0002354,Memory impairment
+run_008,omapatrilat,1989,HP:0002354,Memory impairment
+run_008,quercetin,3514,HP:0002354,Memory impairment
+run_008,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_008,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_008,omapatrilat,1989,HP:0002529,Neuronal loss in central nervous system
+run_008,paclitaxel,2044,HP:0001272,Cerebellar atrophy
+run_008,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_008,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_008,phenelzine,2123,HP:0031845,Abnormal libido
+run_008,rabeprazole,2350,HP:0031845,Abnormal libido
+run_008,dexrabeprazole,4867,HP:0031845,Abnormal libido
+run_008,phenelzine,2123,HP:0009088,Speech articulation difficulties
+run_008,rabeprazole,2350,HP:0009088,Speech articulation difficulties
+run_008,lansoprazole,1547,HP:0009088,Speech articulation difficulties
+run_008,pantoprazole,2054,HP:0002500,Abnormal cerebral white matter morphology
+run_008,omeprazole,1990,HP:0002500,Abnormal cerebral white matter morphology
+run_008,ifenprodil,1419,HP:0002500,Abnormal cerebral white matter morphology
+run_008,phenelzine,2123,HP:0031473,Hostility
+run_008,rabeprazole,2350,HP:0031473,Hostility
+run_008,lansoprazole,1547,HP:0031473,Hostility
+run_008,pantoprazole,2054,HP:0002072,Chorea
+run_008,omeprazole,1990,HP:0002072,Chorea
+run_008,paclitaxel,2044,HP:0002072,Chorea
+run_008,paclitaxel,2044,HP:0002355,Difficulty walking
+run_008,pantoprazole,2054,HP:0002355,Difficulty walking
+run_008,colchicine,726,HP:0002355,Difficulty walking
+run_008,phenelzine,2123,HP:0002591,Polyphagia
+run_008,cerulenin,578,HP:0002591,Polyphagia
+run_008,buprenorphine,434,HP:0002591,Polyphagia
+run_008,phenelzine,2123,HP:0001262,Excessive daytime somnolence
+run_008,pantoprazole,2054,HP:0001262,Excessive daytime somnolence
+run_008,quercetin,3514,HP:0001262,Excessive daytime somnolence
+run_008,pantoprazole,2054,HP:0000751,Personality changes
+run_008,phenelzine,2123,HP:0000751,Personality changes
+run_008,omeprazole,1990,HP:0000751,Personality changes
+run_008,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_008,paclitaxel,2044,HP:0002059,Cerebral atrophy
+run_008,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_008,promethazine,2286,HP:0000716,Depression
+run_008,quercetin,3514,HP:0000716,Depression
+run_008,ruxolitinib,4190,HP:0000716,Depression
+run_008,phenelzine,2123,HP:0003324,Generalized muscle weakness
+run_008,ruxolitinib,4190,HP:0003324,Generalized muscle weakness
+run_008,promethazine,2286,HP:0003324,Generalized muscle weakness
+run_008,phenelzine,2123,HP:0002312,Clumsiness
+run_008,promethazine,2286,HP:0002312,Clumsiness
+run_008,omapatrilat,1989,HP:0002312,Clumsiness
+run_008,phenelzine,2123,HP:0002066,Gait ataxia
+run_008,quercetin,3514,HP:0002066,Gait ataxia
+run_008,edetic acid,987,HP:0002066,Gait ataxia
+run_008,phenelzine,2123,HP:0000734,Disinhibition
+run_008,cerulenin,578,HP:0000734,Disinhibition
+run_008,rabeprazole,2350,HP:0000734,Disinhibition
+run_008,phenelzine,2123,HP:0030955,Alcoholism
+run_008,rabeprazole,2350,HP:0030955,Alcoholism
+run_008,lansoprazole,1547,HP:0030955,Alcoholism
+run_008,pantoprazole,2054,HP:0001268,Mental deterioration
+run_008,omeprazole,1990,HP:0001268,Mental deterioration
+run_008,edetic acid,987,HP:0001268,Mental deterioration
+run_008,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_008,rabeprazole,2350,HP:0007010,Poor fine motor coordination
+run_008,dexrabeprazole,4867,HP:0007010,Poor fine motor coordination
+run_008,phenelzine,2123,HP:0002063,Rigidity
+run_008,paclitaxel,2044,HP:0002063,Rigidity
+run_008,promethazine,2286,HP:0002063,Rigidity
+run_008,phenelzine,2123,HP:0002340,Caudate atrophy
+run_008,omapatrilat,1989,HP:0002340,Caudate atrophy
+run_008,cerulenin,578,HP:0002340,Caudate atrophy
+run_008,paclitaxel,2044,HP:0001332,Dystonia
+run_008,pantoprazole,2054,HP:0001332,Dystonia
+run_008,omeprazole,1990,HP:0001332,Dystonia
+run_008,phenelzine,2123,HP:0000746,Delusions
+run_008,rabeprazole,2350,HP:0000746,Delusions
+run_008,dexrabeprazole,4867,HP:0000746,Delusions
+run_008,phenelzine,2123,HP:0002141,Gait imbalance
+run_008,promethazine,2286,HP:0002141,Gait imbalance
+run_008,paclitaxel,2044,HP:0002141,Gait imbalance
+run_008,phenelzine,2123,HP:0001347,Hyperreflexia
+run_008,paclitaxel,2044,HP:0001347,Hyperreflexia
+run_008,quercetin,3514,HP:0001347,Hyperreflexia
+run_008,phenelzine,2123,HP:0000737,Irritability
+run_008,promethazine,2286,HP:0000737,Irritability
+run_008,loperamide,1599,HP:0000737,Irritability
+run_008,omeprazole,1990,HP:0200136,Oral-pharyngeal dysphagia
+run_008,pantoprazole,2054,HP:0200136,Oral-pharyngeal dysphagia
+run_008,ifenprodil,1419,HP:0200136,Oral-pharyngeal dysphagia
+run_008,phenelzine,2123,HP:0000713,Agitation
+run_008,promethazine,2286,HP:0000713,Agitation
+run_008,hexachlorophene,1364,HP:0000713,Agitation
+run_008,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_008,omapatrilat,1989,HP:0040140,Degeneration of the striatum
+run_008,rabeprazole,2350,HP:0040140,Degeneration of the striatum
+run_008,phenelzine,2123,HP:0002300,Mutism
+run_008,promethazine,2286,HP:0002300,Mutism
+run_008,brilliant Blue G,5359,HP:0002300,Mutism
+run_008,pantoprazole,2054,HP:0001250,Seizure
+run_008,omeprazole,1990,HP:0001250,Seizure
+run_008,paclitaxel,2044,HP:0001250,Seizure
+run_008,phenelzine,2123,HP:0000739,Anxiety
+run_008,ruxolitinib,4190,HP:0000739,Anxiety
+run_008,promethazine,2286,HP:0000739,Anxiety
+run_008,phenelzine,2123,HP:0025401,Staring gaze
+run_008,rabeprazole,2350,HP:0025401,Staring gaze
+run_008,dexrabeprazole,4867,HP:0025401,Staring gaze
+run_008,phenelzine,2123,HP:0003487,Babinski sign
+run_008,brilliant Blue G,5359,HP:0003487,Babinski sign
+run_008,promethazine,2286,HP:0003487,Babinski sign
+run_008,phenelzine,2123,HP:0045082,Decreased body mass index
+run_008,rabeprazole,2350,HP:0045082,Decreased body mass index
+run_008,lansoprazole,1547,HP:0045082,Decreased body mass index
+run_008,phenelzine,2123,HP:0004408,Abnormality of the sense of smell
+run_008,rabeprazole,2350,HP:0004408,Abnormality of the sense of smell
+run_008,lansoprazole,1547,HP:0004408,Abnormality of the sense of smell
+run_008,pantoprazole,2054,HP:0100785,Insomnia
+run_008,phenelzine,2123,HP:0100785,Insomnia
+run_008,omeprazole,1990,HP:0100785,Insomnia
+run_008,adenosine triphosphate,91,HP:0001288,Gait disturbance
+run_008,pantoprazole,2054,HP:0001288,Gait disturbance
+run_008,omeprazole,1990,HP:0001288,Gait disturbance
+run_008,phenelzine,2123,HP:0000726,Dementia
+run_008,promethazine,2286,HP:0000726,Dementia
+run_008,pantoprazole,2054,HP:0000726,Dementia
+run_009,phenelzine,2123,HP:0030842,Choking episodes
+run_009,brilliant Blue G,5359,HP:0030842,Choking episodes
+run_009,cerulenin,578,HP:0030842,Choking episodes
+run_009,colchicine,726,HP:0000738,Hallucinations
+run_009,paclitaxel,2044,HP:0000738,Hallucinations
+run_009,hexachlorophene,1364,HP:0000738,Hallucinations
+run_009,brilliant Blue G,5359,HP:0003107,Abnormal circulating cholesterol concentration
+run_009,phenelzine,2123,HP:0003107,Abnormal circulating cholesterol concentration
+run_009,promethazine,2286,HP:0003107,Abnormal circulating cholesterol concentration
+run_009,phenelzine,2123,HP:0002169,Clonus
+run_009,quercetin,3514,HP:0002169,Clonus
+run_009,brilliant Blue G,5359,HP:0002169,Clonus
+run_009,adenosine triphosphate,91,HP:0002067,Bradykinesia
+run_009,phenelzine,2123,HP:0002067,Bradykinesia
+run_009,cerulenin,578,HP:0002067,Bradykinesia
+run_009,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_009,quercetin,3514,HP:0000496,Abnormality of eye movement
+run_009,brilliant Blue G,5359,HP:0000496,Abnormality of eye movement
+run_009,phenelzine,2123,HP:0031589,Suicidal ideation
+run_009,brilliant Blue G,5359,HP:0031589,Suicidal ideation
+run_009,hexachlorophene,1364,HP:0031589,Suicidal ideation
+run_009,adenosine triphosphate,91,HP:0001824,Weight loss
+run_009,clomifene,700,HP:0001824,Weight loss
+run_009,ridaforolimus,4778,HP:0001824,Weight loss
+run_009,phenelzine,2123,HP:0031843,Bradyphrenia
+run_009,brilliant Blue G,5359,HP:0031843,Bradyphrenia
+run_009,cerulenin,578,HP:0031843,Bradyphrenia
+run_009,hexachlorophene,1364,HP:0000741,Apathy
+run_009,promethazine,2286,HP:0000741,Apathy
+run_009,quercetin,3514,HP:0000741,Apathy
+run_009,phenelzine,2123,HP:0001336,Myoclonus
+run_009,brilliant Blue G,5359,HP:0001336,Myoclonus
+run_009,ruboxistaurin,3533,HP:0001336,Myoclonus
+run_009,cetrimide,4360,HP:0004305,Involuntary movements
+run_009,cetrimonium,3082,HP:0004305,Involuntary movements
+run_009,phenelzine,2123,HP:0004305,Involuntary movements
+run_009,phenelzine,2123,HP:0002540,Inability to walk
+run_009,omapatrilat,1989,HP:0002540,Inability to walk
+run_009,colchicine,726,HP:0002540,Inability to walk
+run_009,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_009,quercetin,3514,HP:0000722,Obsessive-compulsive behavior
+run_009,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_009,cerulenin,578,HP:0002171,Gliosis
+run_009,adenosine triphosphate,91,HP:0002171,Gliosis
+run_009,phenelzine,2123,HP:0002171,Gliosis
+run_009,phenelzine,2123,HP:0000718,Aggressive behavior
+run_009,quercetin,3514,HP:0000718,Aggressive behavior
+run_009,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_009,phenelzine,2123,HP:0010794,Impaired visuospatial constructive cognition
+run_009,brilliant Blue G,5359,HP:0010794,Impaired visuospatial constructive cognition
+run_009,cerulenin,578,HP:0010794,Impaired visuospatial constructive cognition
+run_009,quercetin,3514,HP:0002354,Memory impairment
+run_009,colchicine,726,HP:0002354,Memory impairment
+run_009,paclitaxel,2044,HP:0002354,Memory impairment
+run_009,brilliant Blue G,5359,HP:0002529,Neuronal loss in central nervous system
+run_009,phenelzine,2123,HP:0002529,Neuronal loss in central nervous system
+run_009,hexachlorophene,1364,HP:0002529,Neuronal loss in central nervous system
+run_009,colchicine,726,HP:0001272,Cerebellar atrophy
+run_009,paclitaxel,2044,HP:0001272,Cerebellar atrophy
+run_009,quercetin,3514,HP:0001272,Cerebellar atrophy
+run_009,phenelzine,2123,HP:0031845,Abnormal libido
+run_009,brilliant Blue G,5359,HP:0031845,Abnormal libido
+run_009,cerulenin,578,HP:0031845,Abnormal libido
+run_009,brilliant Blue G,5359,HP:0009088,Speech articulation difficulties
+run_009,phenelzine,2123,HP:0009088,Speech articulation difficulties
+run_009,cerulenin,578,HP:0009088,Speech articulation difficulties
+run_009,phenelzine,2123,HP:0002500,Abnormal cerebral white matter morphology
+run_009,cycloserine,759,HP:0002500,Abnormal cerebral white matter morphology
+run_009,adenosine triphosphate,91,HP:0002500,Abnormal cerebral white matter morphology
+run_009,phenelzine,2123,HP:0031473,Hostility
+run_009,brilliant Blue G,5359,HP:0031473,Hostility
+run_009,cerulenin,578,HP:0031473,Hostility
+run_009,phenelzine,2123,HP:0002072,Chorea
+run_009,memantine,1679,HP:0002072,Chorea
+run_009,thiamine,2832,HP:0002072,Chorea
+run_009,quercetin,3514,HP:0002355,Difficulty walking
+run_009,pantoprazole,2054,HP:0002355,Difficulty walking
+run_009,hexachlorophene,1364,HP:0002355,Difficulty walking
+run_009,phenelzine,2123,HP:0002591,Polyphagia
+run_009,memantine,1679,HP:0002591,Polyphagia
+run_009,cycloserine,759,HP:0002591,Polyphagia
+run_009,quercetin,3514,HP:0001262,Excessive daytime somnolence
+run_009,miltefosine,1810,HP:0001262,Excessive daytime somnolence
+run_009,sulfaethidole,2504,HP:0001262,Excessive daytime somnolence
+run_009,brilliant Blue G,5359,HP:0000751,Personality changes
+run_009,phenelzine,2123,HP:0000751,Personality changes
+run_009,hexachlorophene,1364,HP:0000751,Personality changes
+run_009,phenelzine,2123,HP:0002059,Cerebral atrophy
+run_009,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_009,quercetin,3514,HP:0002059,Cerebral atrophy
+run_009,hexachlorophene,1364,HP:0000716,Depression
+run_009,thiamine,2832,HP:0000716,Depression
+run_009,quercetin,3514,HP:0000716,Depression
+run_009,hexachlorophene,1364,HP:0003324,Generalized muscle weakness
+run_009,quercetin,3514,HP:0003324,Generalized muscle weakness
+run_009,pantoprazole,2054,HP:0003324,Generalized muscle weakness
+run_009,phenelzine,2123,HP:0002312,Clumsiness
+run_009,brilliant Blue G,5359,HP:0002312,Clumsiness
+run_009,quercetin,3514,HP:0002312,Clumsiness
+run_009,phenelzine,2123,HP:0002066,Gait ataxia
+run_009,colchicine,726,HP:0002066,Gait ataxia
+run_009,paclitaxel,2044,HP:0002066,Gait ataxia
+run_009,hexachlorophene,1364,HP:0000734,Disinhibition
+run_009,quercetin,3514,HP:0000734,Disinhibition
+run_009,colchicine,726,HP:0000734,Disinhibition
+run_009,phenelzine,2123,HP:0030955,Alcoholism
+run_009,brilliant Blue G,5359,HP:0030955,Alcoholism
+run_009,cerulenin,578,HP:0030955,Alcoholism
+run_009,ruboxistaurin,3533,HP:0001268,Mental deterioration
+run_009,hexachlorophene,1364,HP:0001268,Mental deterioration
+run_009,brilliant Blue G,5359,HP:0001268,Mental deterioration
+run_009,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_009,hexachlorophene,1364,HP:0007010,Poor fine motor coordination
+run_009,brilliant Blue G,5359,HP:0007010,Poor fine motor coordination
+run_009,phenelzine,2123,HP:0002063,Rigidity
+run_009,colchicine,726,HP:0002063,Rigidity
+run_009,brilliant Blue G,5359,HP:0002063,Rigidity
+run_009,phenelzine,2123,HP:0002340,Caudate atrophy
+run_009,brilliant Blue G,5359,HP:0002340,Caudate atrophy
+run_009,omeprazole,1990,HP:0002340,Caudate atrophy
+run_009,phenelzine,2123,HP:0001332,Dystonia
+run_009,adenosine triphosphate,91,HP:0001332,Dystonia
+run_009,paclitaxel,2044,HP:0001332,Dystonia
+run_009,brilliant Blue G,5359,HP:0000746,Delusions
+run_009,phenelzine,2123,HP:0000746,Delusions
+run_009,hexachlorophene,1364,HP:0000746,Delusions
+run_009,hexachlorophene,1364,HP:0002141,Gait imbalance
+run_009,formoterol,1239,HP:0002141,Gait imbalance
+run_009,midodrine,1803,HP:0002141,Gait imbalance
+run_009,pantoprazole,2054,HP:0001347,Hyperreflexia
+run_009,phenelzine,2123,HP:0001347,Hyperreflexia
+run_009,omeprazole,1990,HP:0001347,Hyperreflexia
+run_009,phenelzine,2123,HP:0000737,Irritability
+run_009,quercetin,3514,HP:0000737,Irritability
+run_009,brilliant Blue G,5359,HP:0000737,Irritability
+run_009,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_009,cetrimide,4360,HP:0200136,Oral-pharyngeal dysphagia
+run_009,cetrimonium,3082,HP:0200136,Oral-pharyngeal dysphagia
+run_009,hexachlorophene,1364,HP:0000713,Agitation
+run_009,formoterol,1239,HP:0000713,Agitation
+run_009,midodrine,1803,HP:0000713,Agitation
+run_009,phenelzine,2123,HP:0040140,Degeneration of the striatum
+run_009,brilliant Blue G,5359,HP:0040140,Degeneration of the striatum
+run_009,promethazine,2286,HP:0040140,Degeneration of the striatum
+run_009,colchicine,726,HP:0002300,Mutism
+run_009,pantoprazole,2054,HP:0002300,Mutism
+run_009,paclitaxel,2044,HP:0002300,Mutism
+run_009,pantoprazole,2054,HP:0001250,Seizure
+run_009,quercetin,3514,HP:0001250,Seizure
+run_009,phenelzine,2123,HP:0001250,Seizure
+run_009,formoterol,1239,HP:0000739,Anxiety
+run_009,midodrine,1803,HP:0000739,Anxiety
+run_009,famotidine,1129,HP:0000739,Anxiety
+run_009,phenelzine,2123,HP:0025401,Staring gaze
+run_009,hexachlorophene,1364,HP:0025401,Staring gaze
+run_009,brilliant Blue G,5359,HP:0025401,Staring gaze
+run_009,phenelzine,2123,HP:0003487,Babinski sign
+run_009,promethazine,2286,HP:0003487,Babinski sign
+run_009,colchicine,726,HP:0003487,Babinski sign
+run_009,phenelzine,2123,HP:0045082,Decreased body mass index
+run_009,brilliant Blue G,5359,HP:0045082,Decreased body mass index
+run_009,cerulenin,578,HP:0045082,Decreased body mass index
+run_009,sulfaethidole,2504,HP:0004408,Abnormality of the sense of smell
+run_009,miltefosine,1810,HP:0004408,Abnormality of the sense of smell
+run_009,quercetin,3514,HP:0004408,Abnormality of the sense of smell
+run_009,phenelzine,2123,HP:0100785,Insomnia
+run_009,brilliant Blue G,5359,HP:0100785,Insomnia
+run_009,quercetin,3514,HP:0100785,Insomnia
+run_009,cerulenin,578,HP:0001288,Gait disturbance
+run_009,vesnarinone,2817,HP:0001288,Gait disturbance
+run_009,phenelzine,2123,HP:0001288,Gait disturbance
+run_009,hexachlorophene,1364,HP:0000726,Dementia
+run_009,omapatrilat,1989,HP:0000726,Dementia
+run_009,colchicine,726,HP:0000726,Dementia
+run_010,ganciclovir,1277,HP:0030842,Choking episodes
+run_010,glutamic acid,1310,HP:0030842,Choking episodes
+run_010,vesnarinone,2817,HP:0030842,Choking episodes
+run_010,omapatrilat,1989,HP:0000738,Hallucinations
+run_010,vesnarinone,2817,HP:0000738,Hallucinations
+run_010,glutamic acid,1310,HP:0000738,Hallucinations
+run_010,ganciclovir,1277,HP:0003107,Abnormal circulating cholesterol concentration
+run_010,glutamic acid,1310,HP:0003107,Abnormal circulating cholesterol concentration
+run_010,phenelzine,2123,HP:0003107,Abnormal circulating cholesterol concentration
+run_010,phenelzine,2123,HP:0002169,Clonus
+run_010,ganciclovir,1277,HP:0002169,Clonus
+run_010,glutamic acid,1310,HP:0002169,Clonus
+run_010,vesnarinone,2817,HP:0002067,Bradykinesia
+run_010,phenelzine,2123,HP:0002067,Bradykinesia
+run_010,omapatrilat,1989,HP:0002067,Bradykinesia
+run_010,ganciclovir,1277,HP:0000496,Abnormality of eye movement
+run_010,glutamic acid,1310,HP:0000496,Abnormality of eye movement
+run_010,phenelzine,2123,HP:0000496,Abnormality of eye movement
+run_010,vesnarinone,2817,HP:0031589,Suicidal ideation
+run_010,glutamic acid,1310,HP:0031589,Suicidal ideation
+run_010,ganciclovir,1277,HP:0031589,Suicidal ideation
+run_010,adenosine triphosphate,91,HP:0001824,Weight loss
+run_010,vesnarinone,2817,HP:0001824,Weight loss
+run_010,memantine,1679,HP:0001824,Weight loss
+run_010,ganciclovir,1277,HP:0031843,Bradyphrenia
+run_010,glutamic acid,1310,HP:0031843,Bradyphrenia
+run_010,vesnarinone,2817,HP:0031843,Bradyphrenia
+run_010,omapatrilat,1989,HP:0000741,Apathy
+run_010,vesnarinone,2817,HP:0000741,Apathy
+run_010,glutamic acid,1310,HP:0000741,Apathy
+run_010,omapatrilat,1989,HP:0001336,Myoclonus
+run_010,memantine,1679,HP:0001336,Myoclonus
+run_010,glutamic acid,1310,HP:0001336,Myoclonus
+run_010,memantine,1679,HP:0004305,Involuntary movements
+run_010,phenelzine,2123,HP:0004305,Involuntary movements
+run_010,omapatrilat,1989,HP:0004305,Involuntary movements
+run_010,omapatrilat,1989,HP:0002540,Inability to walk
+run_010,ganciclovir,1277,HP:0002540,Inability to walk
+run_010,glutamic acid,1310,HP:0002540,Inability to walk
+run_010,phenelzine,2123,HP:0000722,Obsessive-compulsive behavior
+run_010,pantoprazole,2054,HP:0000722,Obsessive-compulsive behavior
+run_010,omeprazole,1990,HP:0000722,Obsessive-compulsive behavior
+run_010,cerulenin,578,HP:0002171,Gliosis
+run_010,buprenorphine,434,HP:0002171,Gliosis
+run_010,phenelzine,2123,HP:0002171,Gliosis
+run_010,pantoprazole,2054,HP:0000718,Aggressive behavior
+run_010,omeprazole,1990,HP:0000718,Aggressive behavior
+run_010,diacerein,849,HP:0000718,Aggressive behavior
+run_010,ganciclovir,1277,HP:0010794,Impaired visuospatial constructive cognition
+run_010,glutamic acid,1310,HP:0010794,Impaired visuospatial constructive cognition
+run_010,vesnarinone,2817,HP:0010794,Impaired visuospatial constructive cognition
+run_010,omapatrilat,1989,HP:0002354,Memory impairment
+run_010,vesnarinone,2817,HP:0002354,Memory impairment
+run_010,hexachlorophene,1364,HP:0002354,Memory impairment
+run_010,omapatrilat,1989,HP:0002529,Neuronal loss in central nervous system
+run_010,vesnarinone,2817,HP:0002529,Neuronal loss in central nervous system
+run_010,glutamic acid,1310,HP:0002529,Neuronal loss in central nervous system
+run_010,omapatrilat,1989,HP:0001272,Cerebellar atrophy
+run_010,pantoprazole,2054,HP:0001272,Cerebellar atrophy
+run_010,omeprazole,1990,HP:0001272,Cerebellar atrophy
+run_010,glutamic acid,1310,HP:0031845,Abnormal libido
+run_010,ganciclovir,1277,HP:0031845,Abnormal libido
+run_010,vesnarinone,2817,HP:0031845,Abnormal libido
+run_010,ganciclovir,1277,HP:0009088,Speech articulation difficulties
+run_010,glutamic acid,1310,HP:0009088,Speech articulation difficulties
+run_010,vesnarinone,2817,HP:0009088,Speech articulation difficulties
+run_010,omapatrilat,1989,HP:0002500,Abnormal cerebral white matter morphology
+run_010,phenelzine,2123,HP:0002500,Abnormal cerebral white matter morphology
+run_010,memantine,1679,HP:0002500,Abnormal cerebral white matter morphology
+run_010,ganciclovir,1277,HP:0031473,Hostility
+run_010,glutamic acid,1310,HP:0031473,Hostility
+run_010,phenelzine,2123,HP:0031473,Hostility
+run_010,omapatrilat,1989,HP:0002072,Chorea
+run_010,phenelzine,2123,HP:0002072,Chorea
+run_010,ganciclovir,1277,HP:0002072,Chorea
+run_010,omapatrilat,1989,HP:0002355,Difficulty walking
+run_010,phenelzine,2123,HP:0002355,Difficulty walking
+run_010,pantoprazole,2054,HP:0002355,Difficulty walking
+run_010,omapatrilat,1989,HP:0002591,Polyphagia
+run_010,memantine,1679,HP:0002591,Polyphagia
+run_010,promethazine,2286,HP:0002591,Polyphagia
+run_010,ganciclovir,1277,HP:0001262,Excessive daytime somnolence
+run_010,glutamic acid,1310,HP:0001262,Excessive daytime somnolence
+run_010,omapatrilat,1989,HP:0001262,Excessive daytime somnolence
+run_010,vesnarinone,2817,HP:0000751,Personality changes
+run_010,omapatrilat,1989,HP:0000751,Personality changes
+run_010,phenelzine,2123,HP:0000751,Personality changes
+run_010,omapatrilat,1989,HP:0002059,Cerebral atrophy
+run_010,pantoprazole,2054,HP:0002059,Cerebral atrophy
+run_010,omeprazole,1990,HP:0002059,Cerebral atrophy
+run_010,omapatrilat,1989,HP:0000716,Depression
+run_010,pantoprazole,2054,HP:0000716,Depression
+run_010,omeprazole,1990,HP:0000716,Depression
+run_010,vesnarinone,2817,HP:0003324,Generalized muscle weakness
+run_010,omapatrilat,1989,HP:0003324,Generalized muscle weakness
+run_010,promethazine,2286,HP:0003324,Generalized muscle weakness
+run_010,vesnarinone,2817,HP:0002312,Clumsiness
+run_010,phenelzine,2123,HP:0002312,Clumsiness
+run_010,omapatrilat,1989,HP:0002312,Clumsiness
+run_010,phenelzine,2123,HP:0002066,Gait ataxia
+run_010,omapatrilat,1989,HP:0002066,Gait ataxia
+run_010,glutamic acid,1310,HP:0002066,Gait ataxia
+run_010,vesnarinone,2817,HP:0000734,Disinhibition
+run_010,omapatrilat,1989,HP:0000734,Disinhibition
+run_010,phenelzine,2123,HP:0000734,Disinhibition
+run_010,vesnarinone,2817,HP:0030955,Alcoholism
+run_010,ganciclovir,1277,HP:0030955,Alcoholism
+run_010,glutamic acid,1310,HP:0030955,Alcoholism
+run_010,omapatrilat,1989,HP:0001268,Mental deterioration
+run_010,diacerein,849,HP:0001268,Mental deterioration
+run_010,vesnarinone,2817,HP:0001268,Mental deterioration
+run_010,vesnarinone,2817,HP:0007010,Poor fine motor coordination
+run_010,phenelzine,2123,HP:0007010,Poor fine motor coordination
+run_010,ganciclovir,1277,HP:0007010,Poor fine motor coordination
+run_010,omapatrilat,1989,HP:0002063,Rigidity
+run_010,glutamic acid,1310,HP:0002063,Rigidity
+run_010,ganciclovir,1277,HP:0002063,Rigidity
+run_010,phenelzine,2123,HP:0002340,Caudate atrophy
+run_010,glutamic acid,1310,HP:0002340,Caudate atrophy
+run_010,ganciclovir,1277,HP:0002340,Caudate atrophy
+run_010,omapatrilat,1989,HP:0001332,Dystonia
+run_010,phenelzine,2123,HP:0001332,Dystonia
+run_010,pantoprazole,2054,HP:0001332,Dystonia
+run_010,ganciclovir,1277,HP:0000746,Delusions
+run_010,glutamic acid,1310,HP:0000746,Delusions
+run_010,omapatrilat,1989,HP:0000746,Delusions
+run_010,omapatrilat,1989,HP:0002141,Gait imbalance
+run_010,vesnarinone,2817,HP:0002141,Gait imbalance
+run_010,glutamic acid,1310,HP:0002141,Gait imbalance
+run_010,omapatrilat,1989,HP:0001347,Hyperreflexia
+run_010,phenelzine,2123,HP:0001347,Hyperreflexia
+run_010,glutamic acid,1310,HP:0001347,Hyperreflexia
+run_010,vesnarinone,2817,HP:0000737,Irritability
+run_010,phenelzine,2123,HP:0000737,Irritability
+run_010,ganciclovir,1277,HP:0000737,Irritability
+run_010,memantine,1679,HP:0200136,Oral-pharyngeal dysphagia
+run_010,omapatrilat,1989,HP:0200136,Oral-pharyngeal dysphagia
+run_010,cycloserine,759,HP:0200136,Oral-pharyngeal dysphagia
+run_010,omapatrilat,1989,HP:0000713,Agitation
+run_010,vesnarinone,2817,HP:0000713,Agitation
+run_010,promethazine,2286,HP:0000713,Agitation
+run_010,vesnarinone,2817,HP:0040140,Degeneration of the striatum
+run_010,glutamic acid,1310,HP:0040140,Degeneration of the striatum
+run_010,ganciclovir,1277,HP:0040140,Degeneration of the striatum
+run_010,vesnarinone,2817,HP:0002300,Mutism
+run_010,omapatrilat,1989,HP:0002300,Mutism
+run_010,glutamic acid,1310,HP:0002300,Mutism
+run_010,pantoprazole,2054,HP:0001250,Seizure
+run_010,omeprazole,1990,HP:0001250,Seizure
+run_010,promethazine,2286,HP:0001250,Seizure
+run_010,vesnarinone,2817,HP:0000739,Anxiety
+run_010,omapatrilat,1989,HP:0000739,Anxiety
+run_010,pantoprazole,2054,HP:0000739,Anxiety
+run_010,ganciclovir,1277,HP:0025401,Staring gaze
+run_010,glutamic acid,1310,HP:0025401,Staring gaze
+run_010,vesnarinone,2817,HP:0025401,Staring gaze
+run_010,omapatrilat,1989,HP:0003487,Babinski sign
+run_010,vesnarinone,2817,HP:0003487,Babinski sign
+run_010,phenelzine,2123,HP:0003487,Babinski sign
+run_010,vesnarinone,2817,HP:0045082,Decreased body mass index
+run_010,ganciclovir,1277,HP:0045082,Decreased body mass index
+run_010,glutamic acid,1310,HP:0045082,Decreased body mass index
+run_010,glutamic acid,1310,HP:0004408,Abnormality of the sense of smell
+run_010,ganciclovir,1277,HP:0004408,Abnormality of the sense of smell
+run_010,omapatrilat,1989,HP:0004408,Abnormality of the sense of smell
+run_010,vesnarinone,2817,HP:0100785,Insomnia
+run_010,glutamic acid,1310,HP:0100785,Insomnia
+run_010,ganciclovir,1277,HP:0100785,Insomnia
+run_010,cerulenin,578,HP:0001288,Gait disturbance
+run_010,memantine,1679,HP:0001288,Gait disturbance
+run_010,adenosine triphosphate,91,HP:0001288,Gait disturbance
+run_010,omapatrilat,1989,HP:0000726,Dementia
+run_010,vesnarinone,2817,HP:0000726,Dementia
+run_010,glutamic acid,1310,HP:0000726,Dementia

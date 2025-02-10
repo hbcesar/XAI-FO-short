@@ -1,0 +1,841 @@
+Run,Drug,Drug ID,Symptom ID,Symptom
+run_001,entrectinib,5345,HP:0001371,Flexion contracture
+run_001,aprindine,231,HP:0001371,Flexion contracture
+run_001,levosimendan,1576,HP:0001371,Flexion contracture
+run_001,aprindine,231,HP:0003323,Progressive muscle weakness
+run_001,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_001,entrectinib,5345,HP:0003323,Progressive muscle weakness
+run_001,aprindine,231,HP:0001265,Hyporeflexia
+run_001,entrectinib,5345,HP:0001265,Hyporeflexia
+run_001,axitinib,4225,HP:0001265,Hyporeflexia
+run_001,aprindine,231,HP:0003391,Gowers sign
+run_001,entrectinib,5345,HP:0003391,Gowers sign
+run_001,axitinib,4225,HP:0003391,Gowers sign
+run_001,aprindine,231,HP:0002515,Waddling gait
+run_001,entrectinib,5345,HP:0002515,Waddling gait
+run_001,levosimendan,1576,HP:0002515,Waddling gait
+run_001,aprindine,231,HP:0003701,Proximal muscle weakness
+run_001,entrectinib,5345,HP:0003701,Proximal muscle weakness
+run_001,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_001,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_001,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_001,entrectinib,5345,HP:0001644,Dilated cardiomyopathy
+run_001,levosimendan,1576,HP:0011675,Arrhythmia
+run_001,disopyramide,926,HP:0011675,Arrhythmia
+run_001,carvedilol,522,HP:0011675,Arrhythmia
+run_001,entrectinib,5345,HP:0001256,"Intellectual disability, mild"
+run_001,aprindine,231,HP:0001256,"Intellectual disability, mild"
+run_001,axitinib,4225,HP:0001256,"Intellectual disability, mild"
+run_001,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_001,aprindine,231,HP:0001638,Cardiomyopathy
+run_001,disopyramide,926,HP:0001638,Cardiomyopathy
+run_001,aprindine,231,HP:0003560,Muscular dystrophy
+run_001,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_001,disopyramide,926,HP:0003560,Muscular dystrophy
+run_001,entrectinib,5345,HP:0002650,Scoliosis
+run_001,axitinib,4225,HP:0002650,Scoliosis
+run_001,aprindine,231,HP:0002650,Scoliosis
+run_001,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_001,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_001,entrectinib,5345,HP:0003202,Skeletal muscle atrophy
+run_001,entrectinib,5345,HP:0001252,Hypotonia
+run_001,axitinib,4225,HP:0001252,Hypotonia
+run_001,estradiol,1057,HP:0001252,Hypotonia
+run_001,aprindine,231,HP:0001635,Congestive heart failure
+run_001,disopyramide,926,HP:0001635,Congestive heart failure
+run_001,desipramine,812,HP:0001635,Congestive heart failure
+run_001,entrectinib,5345,HP:0000750,Delayed speech and language development
+run_001,axitinib,4225,HP:0000750,Delayed speech and language development
+run_001,estradiol,1057,HP:0000750,Delayed speech and language development
+run_001,aprindine,231,HP:0002791,Hypoventilation
+run_001,axitinib,4225,HP:0002791,Hypoventilation
+run_001,entrectinib,5345,HP:0002791,Hypoventilation
+run_001,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,disopyramide,926,HP:0003236,Elevated circulating creatine kinase concentration
+run_001,entrectinib,5345,HP:0002093,Respiratory insufficiency
+run_001,aprindine,231,HP:0002093,Respiratory insufficiency
+run_001,axitinib,4225,HP:0002093,Respiratory insufficiency
+run_001,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_001,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_001,entrectinib,5345,HP:0008981,Calf muscle hypertrophy
+run_001,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_001,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_001,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_001,entrectinib,5345,HP:0001290,Generalized hypotonia
+run_001,axitinib,4225,HP:0001290,Generalized hypotonia
+run_001,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_001,entrectinib,5345,HP:0100543,Cognitive impairment
+run_001,axitinib,4225,HP:0100543,Cognitive impairment
+run_001,sorafenib,2459,HP:0100543,Cognitive impairment
+run_001,entrectinib,5345,HP:0001263,Global developmental delay
+run_001,axitinib,4225,HP:0001263,Global developmental delay
+run_001,estradiol,1057,HP:0001263,Global developmental delay
+run_001,aprindine,231,HP:0003115,Abnormal EKG
+run_001,levosimendan,1576,HP:0003115,Abnormal EKG
+run_001,Cannabidiol,MESH:D002185,HP:0003115,Abnormal EKG
+run_001,aprindine,231,HP:0003307,Hyperlordosis
+run_001,levosimendan,1576,HP:0003307,Hyperlordosis
+run_001,entrectinib,5345,HP:0003307,Hyperlordosis
+run_001,entrectinib,5345,HP:0001328,Specific learning disability
+run_001,aprindine,231,HP:0001328,Specific learning disability
+run_001,axitinib,4225,HP:0001328,Specific learning disability
+run_001,entrectinib,5345,HP:0001270,Motor delay
+run_001,axitinib,4225,HP:0001270,Motor delay
+run_001,aprindine,231,HP:0001270,Motor delay
+run_002,carvedilol,522,HP:0001371,Flexion contracture
+run_002,levosimendan,1576,HP:0001371,Flexion contracture
+run_002,fedratinib,5347,HP:0001371,Flexion contracture
+run_002,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_002,aprindine,231,HP:0003323,Progressive muscle weakness
+run_002,carvedilol,522,HP:0003323,Progressive muscle weakness
+run_002,fedratinib,5347,HP:0001265,Hyporeflexia
+run_002,carvedilol,522,HP:0001265,Hyporeflexia
+run_002,aprindine,231,HP:0001265,Hyporeflexia
+run_002,fedratinib,5347,HP:0003391,Gowers sign
+run_002,carvedilol,522,HP:0003391,Gowers sign
+run_002,levosimendan,1576,HP:0003391,Gowers sign
+run_002,fedratinib,5347,HP:0002515,Waddling gait
+run_002,carvedilol,522,HP:0002515,Waddling gait
+run_002,axitinib,4225,HP:0002515,Waddling gait
+run_002,carvedilol,522,HP:0003701,Proximal muscle weakness
+run_002,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_002,fedratinib,5347,HP:0003701,Proximal muscle weakness
+run_002,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_002,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_002,carvedilol,522,HP:0001644,Dilated cardiomyopathy
+run_002,levosimendan,1576,HP:0011675,Arrhythmia
+run_002,carvedilol,522,HP:0011675,Arrhythmia
+run_002,disopyramide,926,HP:0011675,Arrhythmia
+run_002,fedratinib,5347,HP:0001256,"Intellectual disability, mild"
+run_002,carvedilol,522,HP:0001256,"Intellectual disability, mild"
+run_002,quercetin,3514,HP:0001256,"Intellectual disability, mild"
+run_002,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_002,aprindine,231,HP:0001638,Cardiomyopathy
+run_002,carvedilol,522,HP:0001638,Cardiomyopathy
+run_002,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_002,aprindine,231,HP:0003560,Muscular dystrophy
+run_002,carvedilol,522,HP:0003560,Muscular dystrophy
+run_002,fedratinib,5347,HP:0002650,Scoliosis
+run_002,axitinib,4225,HP:0002650,Scoliosis
+run_002,carvedilol,522,HP:0002650,Scoliosis
+run_002,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_002,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_002,carvedilol,522,HP:0003202,Skeletal muscle atrophy
+run_002,fedratinib,5347,HP:0001252,Hypotonia
+run_002,axitinib,4225,HP:0001252,Hypotonia
+run_002,nintedanib,4903,HP:0001252,Hypotonia
+run_002,aprindine,231,HP:0001635,Congestive heart failure
+run_002,disopyramide,926,HP:0001635,Congestive heart failure
+run_002,amiodarone,176,HP:0001635,Congestive heart failure
+run_002,fedratinib,5347,HP:0000750,Delayed speech and language development
+run_002,axitinib,4225,HP:0000750,Delayed speech and language development
+run_002,nintedanib,4903,HP:0000750,Delayed speech and language development
+run_002,disopyramide,926,HP:0002791,Hypoventilation
+run_002,viltolarsen,5408,HP:0002791,Hypoventilation
+run_002,casimersen,5443,HP:0002791,Hypoventilation
+run_002,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,carvedilol,522,HP:0003236,Elevated circulating creatine kinase concentration
+run_002,fedratinib,5347,HP:0002093,Respiratory insufficiency
+run_002,carvedilol,522,HP:0002093,Respiratory insufficiency
+run_002,levosimendan,1576,HP:0002093,Respiratory insufficiency
+run_002,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_002,carvedilol,522,HP:0008981,Calf muscle hypertrophy
+run_002,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_002,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_002,carvedilol,522,HP:0003707,Calf muscle pseudohypertrophy
+run_002,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_002,fedratinib,5347,HP:0001290,Generalized hypotonia
+run_002,axitinib,4225,HP:0001290,Generalized hypotonia
+run_002,nintedanib,4903,HP:0001290,Generalized hypotonia
+run_002,fedratinib,5347,HP:0100543,Cognitive impairment
+run_002,brilliant Blue G,5359,HP:0100543,Cognitive impairment
+run_002,carvedilol,522,HP:0100543,Cognitive impairment
+run_002,fedratinib,5347,HP:0001263,Global developmental delay
+run_002,axitinib,4225,HP:0001263,Global developmental delay
+run_002,erlotinib,1045,HP:0001263,Global developmental delay
+run_002,aprindine,231,HP:0003115,Abnormal EKG
+run_002,levosimendan,1576,HP:0003115,Abnormal EKG
+run_002,disopyramide,926,HP:0003115,Abnormal EKG
+run_002,carvedilol,522,HP:0003307,Hyperlordosis
+run_002,levosimendan,1576,HP:0003307,Hyperlordosis
+run_002,fedratinib,5347,HP:0003307,Hyperlordosis
+run_002,fedratinib,5347,HP:0001328,Specific learning disability
+run_002,carvedilol,522,HP:0001328,Specific learning disability
+run_002,quercetin,3514,HP:0001328,Specific learning disability
+run_002,fedratinib,5347,HP:0001270,Motor delay
+run_002,axitinib,4225,HP:0001270,Motor delay
+run_002,nintedanib,4903,HP:0001270,Motor delay
+run_003,levosimendan,1576,HP:0001371,Flexion contracture
+run_003,aprindine,231,HP:0001371,Flexion contracture
+run_003,erlotinib,1045,HP:0001371,Flexion contracture
+run_003,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_003,aprindine,231,HP:0003323,Progressive muscle weakness
+run_003,nisoldipine,1942,HP:0003323,Progressive muscle weakness
+run_003,levosimendan,1576,HP:0001265,Hyporeflexia
+run_003,aprindine,231,HP:0001265,Hyporeflexia
+run_003,disopyramide,926,HP:0001265,Hyporeflexia
+run_003,aprindine,231,HP:0003391,Gowers sign
+run_003,levosimendan,1576,HP:0003391,Gowers sign
+run_003,mecamylamine,1646,HP:0003391,Gowers sign
+run_003,levosimendan,1576,HP:0002515,Waddling gait
+run_003,aprindine,231,HP:0002515,Waddling gait
+run_003,axitinib,4225,HP:0002515,Waddling gait
+run_003,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_003,aprindine,231,HP:0003701,Proximal muscle weakness
+run_003,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_003,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_003,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_003,axitinib,4225,HP:0001644,Dilated cardiomyopathy
+run_003,levosimendan,1576,HP:0011675,Arrhythmia
+run_003,nisoldipine,1942,HP:0011675,Arrhythmia
+run_003,mibefradil,1797,HP:0011675,Arrhythmia
+run_003,estradiol,1057,HP:0001256,"Intellectual disability, mild"
+run_003,erlotinib,1045,HP:0001256,"Intellectual disability, mild"
+run_003,benzthiazide,332,HP:0001256,"Intellectual disability, mild"
+run_003,aprindine,231,HP:0001638,Cardiomyopathy
+run_003,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_003,nisoldipine,1942,HP:0001638,Cardiomyopathy
+run_003,aprindine,231,HP:0003560,Muscular dystrophy
+run_003,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_003,nisoldipine,1942,HP:0003560,Muscular dystrophy
+run_003,estradiol,1057,HP:0002650,Scoliosis
+run_003,erlotinib,1045,HP:0002650,Scoliosis
+run_003,axitinib,4225,HP:0002650,Scoliosis
+run_003,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_003,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_003,axitinib,4225,HP:0003202,Skeletal muscle atrophy
+run_003,estradiol,1057,HP:0001252,Hypotonia
+run_003,erlotinib,1045,HP:0001252,Hypotonia
+run_003,axitinib,4225,HP:0001252,Hypotonia
+run_003,aprindine,231,HP:0001635,Congestive heart failure
+run_003,mibefradil,1797,HP:0001635,Congestive heart failure
+run_003,nisoldipine,1942,HP:0001635,Congestive heart failure
+run_003,estradiol,1057,HP:0000750,Delayed speech and language development
+run_003,axitinib,4225,HP:0000750,Delayed speech and language development
+run_003,erlotinib,1045,HP:0000750,Delayed speech and language development
+run_003,disopyramide,926,HP:0002791,Hypoventilation
+run_003,axitinib,4225,HP:0002791,Hypoventilation
+run_003,nintedanib,4903,HP:0002791,Hypoventilation
+run_003,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,disopyramide,926,HP:0003236,Elevated circulating creatine kinase concentration
+run_003,axitinib,4225,HP:0002093,Respiratory insufficiency
+run_003,estradiol,1057,HP:0002093,Respiratory insufficiency
+run_003,erlotinib,1045,HP:0002093,Respiratory insufficiency
+run_003,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_003,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_003,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_003,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_003,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_003,benzthiazide,332,HP:0003707,Calf muscle pseudohypertrophy
+run_003,axitinib,4225,HP:0001290,Generalized hypotonia
+run_003,erlotinib,1045,HP:0001290,Generalized hypotonia
+run_003,estradiol,1057,HP:0001290,Generalized hypotonia
+run_003,erlotinib,1045,HP:0100543,Cognitive impairment
+run_003,acalabrutinib,5260,HP:0100543,Cognitive impairment
+run_003,axitinib,4225,HP:0100543,Cognitive impairment
+run_003,erlotinib,1045,HP:0001263,Global developmental delay
+run_003,estradiol,1057,HP:0001263,Global developmental delay
+run_003,axitinib,4225,HP:0001263,Global developmental delay
+run_003,aprindine,231,HP:0003115,Abnormal EKG
+run_003,levosimendan,1576,HP:0003115,Abnormal EKG
+run_003,nisoldipine,1942,HP:0003115,Abnormal EKG
+run_003,levosimendan,1576,HP:0003307,Hyperlordosis
+run_003,aprindine,231,HP:0003307,Hyperlordosis
+run_003,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_003,estradiol,1057,HP:0001328,Specific learning disability
+run_003,benzthiazide,332,HP:0001328,Specific learning disability
+run_003,aprindine,231,HP:0001328,Specific learning disability
+run_003,axitinib,4225,HP:0001270,Motor delay
+run_003,erlotinib,1045,HP:0001270,Motor delay
+run_003,estradiol,1057,HP:0001270,Motor delay
+run_004,disopyramide,926,HP:0001371,Flexion contracture
+run_004,sunitinib,2544,HP:0001371,Flexion contracture
+run_004,quercetin,3514,HP:0001371,Flexion contracture
+run_004,aprindine,231,HP:0003323,Progressive muscle weakness
+run_004,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_004,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_004,disopyramide,926,HP:0001265,Hyporeflexia
+run_004,sunitinib,2544,HP:0001265,Hyporeflexia
+run_004,nicotine,1920,HP:0001265,Hyporeflexia
+run_004,disopyramide,926,HP:0003391,Gowers sign
+run_004,nicotine,1920,HP:0003391,Gowers sign
+run_004,sunitinib,2544,HP:0003391,Gowers sign
+run_004,disopyramide,926,HP:0002515,Waddling gait
+run_004,chloropyramine,606,HP:0002515,Waddling gait
+run_004,quercetin,3514,HP:0002515,Waddling gait
+run_004,disopyramide,926,HP:0003701,Proximal muscle weakness
+run_004,sunitinib,2544,HP:0003701,Proximal muscle weakness
+run_004,quercetin,3514,HP:0003701,Proximal muscle weakness
+run_004,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_004,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_004,disopyramide,926,HP:0001644,Dilated cardiomyopathy
+run_004,levosimendan,1576,HP:0011675,Arrhythmia
+run_004,disopyramide,926,HP:0011675,Arrhythmia
+run_004,carvedilol,522,HP:0011675,Arrhythmia
+run_004,disopyramide,926,HP:0001256,"Intellectual disability, mild"
+run_004,sunitinib,2544,HP:0001256,"Intellectual disability, mild"
+run_004,chloropyramine,606,HP:0001256,"Intellectual disability, mild"
+run_004,aprindine,231,HP:0001638,Cardiomyopathy
+run_004,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_004,disopyramide,926,HP:0001638,Cardiomyopathy
+run_004,aprindine,231,HP:0003560,Muscular dystrophy
+run_004,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_004,disopyramide,926,HP:0003560,Muscular dystrophy
+run_004,disopyramide,926,HP:0002650,Scoliosis
+run_004,sunitinib,2544,HP:0002650,Scoliosis
+run_004,fedratinib,5347,HP:0002650,Scoliosis
+run_004,disopyramide,926,HP:0003202,Skeletal muscle atrophy
+run_004,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_004,nicotine,1920,HP:0003202,Skeletal muscle atrophy
+run_004,sunitinib,2544,HP:0001252,Hypotonia
+run_004,fedratinib,5347,HP:0001252,Hypotonia
+run_004,chloropyramine,606,HP:0001252,Hypotonia
+run_004,aprindine,231,HP:0001635,Congestive heart failure
+run_004,amiodarone,176,HP:0001635,Congestive heart failure
+run_004,tenidap,4728,HP:0001635,Congestive heart failure
+run_004,sunitinib,2544,HP:0000750,Delayed speech and language development
+run_004,disopyramide,926,HP:0000750,Delayed speech and language development
+run_004,fedratinib,5347,HP:0000750,Delayed speech and language development
+run_004,disopyramide,926,HP:0002791,Hypoventilation
+run_004,nicotine,1920,HP:0002791,Hypoventilation
+run_004,sunitinib,2544,HP:0002791,Hypoventilation
+run_004,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,disopyramide,926,HP:0003236,Elevated circulating creatine kinase concentration
+run_004,disopyramide,926,HP:0002093,Respiratory insufficiency
+run_004,aprindine,231,HP:0002093,Respiratory insufficiency
+run_004,quercetin,3514,HP:0002093,Respiratory insufficiency
+run_004,disopyramide,926,HP:0008981,Calf muscle hypertrophy
+run_004,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_004,nicotine,1920,HP:0008981,Calf muscle hypertrophy
+run_004,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_004,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_004,nicotine,1920,HP:0003707,Calf muscle pseudohypertrophy
+run_004,disopyramide,926,HP:0001290,Generalized hypotonia
+run_004,fedratinib,5347,HP:0001290,Generalized hypotonia
+run_004,chloropyramine,606,HP:0001290,Generalized hypotonia
+run_004,disopyramide,926,HP:0100543,Cognitive impairment
+run_004,sunitinib,2544,HP:0100543,Cognitive impairment
+run_004,quercetin,3514,HP:0100543,Cognitive impairment
+run_004,sunitinib,2544,HP:0001263,Global developmental delay
+run_004,fedratinib,5347,HP:0001263,Global developmental delay
+run_004,bosutinib,4359,HP:0001263,Global developmental delay
+run_004,aprindine,231,HP:0003115,Abnormal EKG
+run_004,disopyramide,926,HP:0003115,Abnormal EKG
+run_004,eteplirsen,5182,HP:0003115,Abnormal EKG
+run_004,disopyramide,926,HP:0003307,Hyperlordosis
+run_004,aprindine,231,HP:0003307,Hyperlordosis
+run_004,sunitinib,2544,HP:0003307,Hyperlordosis
+run_004,disopyramide,926,HP:0001328,Specific learning disability
+run_004,sunitinib,2544,HP:0001328,Specific learning disability
+run_004,chloropyramine,606,HP:0001328,Specific learning disability
+run_004,disopyramide,926,HP:0001270,Motor delay
+run_004,sunitinib,2544,HP:0001270,Motor delay
+run_004,fedratinib,5347,HP:0001270,Motor delay
+run_005,disopyramide,926,HP:0001371,Flexion contracture
+run_005,doxorubicin,960,HP:0001371,Flexion contracture
+run_005,aprindine,231,HP:0001371,Flexion contracture
+run_005,aprindine,231,HP:0003323,Progressive muscle weakness
+run_005,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_005,disopyramide,926,HP:0003323,Progressive muscle weakness
+run_005,disopyramide,926,HP:0001265,Hyporeflexia
+run_005,desipramine,812,HP:0001265,Hyporeflexia
+run_005,nintedanib,4903,HP:0001265,Hyporeflexia
+run_005,disopyramide,926,HP:0003391,Gowers sign
+run_005,aprindine,231,HP:0003391,Gowers sign
+run_005,trihexyphenidyl,2745,HP:0003391,Gowers sign
+run_005,disopyramide,926,HP:0002515,Waddling gait
+run_005,nintedanib,4903,HP:0002515,Waddling gait
+run_005,desipramine,812,HP:0002515,Waddling gait
+run_005,disopyramide,926,HP:0003701,Proximal muscle weakness
+run_005,aprindine,231,HP:0003701,Proximal muscle weakness
+run_005,doxorubicin,960,HP:0003701,Proximal muscle weakness
+run_005,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_005,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_005,doxorubicin,960,HP:0001644,Dilated cardiomyopathy
+run_005,levosimendan,1576,HP:0011675,Arrhythmia
+run_005,disopyramide,926,HP:0011675,Arrhythmia
+run_005,carvedilol,522,HP:0011675,Arrhythmia
+run_005,nintedanib,4903,HP:0001256,"Intellectual disability, mild"
+run_005,quercetin,3514,HP:0001256,"Intellectual disability, mild"
+run_005,estradiol,1057,HP:0001256,"Intellectual disability, mild"
+run_005,aprindine,231,HP:0001638,Cardiomyopathy
+run_005,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_005,disopyramide,926,HP:0001638,Cardiomyopathy
+run_005,aprindine,231,HP:0003560,Muscular dystrophy
+run_005,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_005,disopyramide,926,HP:0003560,Muscular dystrophy
+run_005,doxorubicin,960,HP:0002650,Scoliosis
+run_005,sorafenib,2459,HP:0002650,Scoliosis
+run_005,nintedanib,4903,HP:0002650,Scoliosis
+run_005,disopyramide,926,HP:0003202,Skeletal muscle atrophy
+run_005,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_005,doxorubicin,960,HP:0003202,Skeletal muscle atrophy
+run_005,nintedanib,4903,HP:0001252,Hypotonia
+run_005,fedratinib,5347,HP:0001252,Hypotonia
+run_005,bosutinib,4359,HP:0001252,Hypotonia
+run_005,aprindine,231,HP:0001635,Congestive heart failure
+run_005,disopyramide,926,HP:0001635,Congestive heart failure
+run_005,trihexyphenidyl,2745,HP:0001635,Congestive heart failure
+run_005,nintedanib,4903,HP:0000750,Delayed speech and language development
+run_005,bosutinib,4359,HP:0000750,Delayed speech and language development
+run_005,fedratinib,5347,HP:0000750,Delayed speech and language development
+run_005,disopyramide,926,HP:0002791,Hypoventilation
+run_005,desipramine,812,HP:0002791,Hypoventilation
+run_005,nicotine,1920,HP:0002791,Hypoventilation
+run_005,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,disopyramide,926,HP:0003236,Elevated circulating creatine kinase concentration
+run_005,doxorubicin,960,HP:0002093,Respiratory insufficiency
+run_005,disopyramide,926,HP:0002093,Respiratory insufficiency
+run_005,sorafenib,2459,HP:0002093,Respiratory insufficiency
+run_005,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_005,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_005,disopyramide,926,HP:0008981,Calf muscle hypertrophy
+run_005,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_005,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_005,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_005,nintedanib,4903,HP:0001290,Generalized hypotonia
+run_005,bosutinib,4359,HP:0001290,Generalized hypotonia
+run_005,fedratinib,5347,HP:0001290,Generalized hypotonia
+run_005,chlortetracycline,624,HP:0100543,Cognitive impairment
+run_005,acepromazine,73,HP:0100543,Cognitive impairment
+run_005,disopyramide,926,HP:0100543,Cognitive impairment
+run_005,nintedanib,4903,HP:0001263,Global developmental delay
+run_005,bosutinib,4359,HP:0001263,Global developmental delay
+run_005,fedratinib,5347,HP:0001263,Global developmental delay
+run_005,aprindine,231,HP:0003115,Abnormal EKG
+run_005,levosimendan,1576,HP:0003115,Abnormal EKG
+run_005,disopyramide,926,HP:0003115,Abnormal EKG
+run_005,disopyramide,926,HP:0003307,Hyperlordosis
+run_005,aprindine,231,HP:0003307,Hyperlordosis
+run_005,levosimendan,1576,HP:0003307,Hyperlordosis
+run_005,disopyramide,926,HP:0001328,Specific learning disability
+run_005,chlortetracycline,624,HP:0001328,Specific learning disability
+run_005,desipramine,812,HP:0001328,Specific learning disability
+run_005,nintedanib,4903,HP:0001270,Motor delay
+run_005,disopyramide,926,HP:0001270,Motor delay
+run_005,bosutinib,4359,HP:0001270,Motor delay
+run_006,entrectinib,5345,HP:0001371,Flexion contracture
+run_006,axitinib,4225,HP:0001371,Flexion contracture
+run_006,mezlocillin,1795,HP:0001371,Flexion contracture
+run_006,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_006,aprindine,231,HP:0003323,Progressive muscle weakness
+run_006,entrectinib,5345,HP:0003323,Progressive muscle weakness
+run_006,entrectinib,5345,HP:0001265,Hyporeflexia
+run_006,nintedanib,4903,HP:0001265,Hyporeflexia
+run_006,aprindine,231,HP:0001265,Hyporeflexia
+run_006,entrectinib,5345,HP:0003391,Gowers sign
+run_006,aprindine,231,HP:0003391,Gowers sign
+run_006,axitinib,4225,HP:0003391,Gowers sign
+run_006,entrectinib,5345,HP:0002515,Waddling gait
+run_006,axitinib,4225,HP:0002515,Waddling gait
+run_006,aprindine,231,HP:0002515,Waddling gait
+run_006,entrectinib,5345,HP:0003701,Proximal muscle weakness
+run_006,aprindine,231,HP:0003701,Proximal muscle weakness
+run_006,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_006,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_006,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_006,entrectinib,5345,HP:0001644,Dilated cardiomyopathy
+run_006,levosimendan,1576,HP:0011675,Arrhythmia
+run_006,carvedilol,522,HP:0011675,Arrhythmia
+run_006,entrectinib,5345,HP:0011675,Arrhythmia
+run_006,entrectinib,5345,HP:0001256,"Intellectual disability, mild"
+run_006,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_006,nintedanib,4903,HP:0001256,"Intellectual disability, mild"
+run_006,aprindine,231,HP:0001638,Cardiomyopathy
+run_006,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_006,lovastatin,1612,HP:0001638,Cardiomyopathy
+run_006,aprindine,231,HP:0003560,Muscular dystrophy
+run_006,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_006,entrectinib,5345,HP:0003560,Muscular dystrophy
+run_006,entrectinib,5345,HP:0002650,Scoliosis
+run_006,axitinib,4225,HP:0002650,Scoliosis
+run_006,mezlocillin,1795,HP:0002650,Scoliosis
+run_006,entrectinib,5345,HP:0003202,Skeletal muscle atrophy
+run_006,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_006,axitinib,4225,HP:0003202,Skeletal muscle atrophy
+run_006,entrectinib,5345,HP:0001252,Hypotonia
+run_006,axitinib,4225,HP:0001252,Hypotonia
+run_006,nintedanib,4903,HP:0001252,Hypotonia
+run_006,aprindine,231,HP:0001635,Congestive heart failure
+run_006,tenidap,4728,HP:0001635,Congestive heart failure
+run_006,menadione,1683,HP:0001635,Congestive heart failure
+run_006,entrectinib,5345,HP:0000750,Delayed speech and language development
+run_006,axitinib,4225,HP:0000750,Delayed speech and language development
+run_006,nintedanib,4903,HP:0000750,Delayed speech and language development
+run_006,entrectinib,5345,HP:0002791,Hypoventilation
+run_006,desipramine,812,HP:0002791,Hypoventilation
+run_006,aprindine,231,HP:0002791,Hypoventilation
+run_006,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,entrectinib,5345,HP:0003236,Elevated circulating creatine kinase concentration
+run_006,entrectinib,5345,HP:0002093,Respiratory insufficiency
+run_006,axitinib,4225,HP:0002093,Respiratory insufficiency
+run_006,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_006,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_006,entrectinib,5345,HP:0008981,Calf muscle hypertrophy
+run_006,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_006,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_006,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_006,entrectinib,5345,HP:0003707,Calf muscle pseudohypertrophy
+run_006,entrectinib,5345,HP:0001290,Generalized hypotonia
+run_006,axitinib,4225,HP:0001290,Generalized hypotonia
+run_006,nintedanib,4903,HP:0001290,Generalized hypotonia
+run_006,entrectinib,5345,HP:0100543,Cognitive impairment
+run_006,axitinib,4225,HP:0100543,Cognitive impairment
+run_006,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_006,entrectinib,5345,HP:0001263,Global developmental delay
+run_006,axitinib,4225,HP:0001263,Global developmental delay
+run_006,nintedanib,4903,HP:0001263,Global developmental delay
+run_006,aprindine,231,HP:0003115,Abnormal EKG
+run_006,levosimendan,1576,HP:0003115,Abnormal EKG
+run_006,golodirsen,5357,HP:0003115,Abnormal EKG
+run_006,entrectinib,5345,HP:0003307,Hyperlordosis
+run_006,aprindine,231,HP:0003307,Hyperlordosis
+run_006,levosimendan,1576,HP:0003307,Hyperlordosis
+run_006,entrectinib,5345,HP:0001328,Specific learning disability
+run_006,nintedanib,4903,HP:0001328,Specific learning disability
+run_006,axitinib,4225,HP:0001328,Specific learning disability
+run_006,entrectinib,5345,HP:0001270,Motor delay
+run_006,axitinib,4225,HP:0001270,Motor delay
+run_006,mezlocillin,1795,HP:0001270,Motor delay
+run_007,mezlocillin,1795,HP:0001371,Flexion contracture
+run_007,entrectinib,5345,HP:0001371,Flexion contracture
+run_007,imatinib,1423,HP:0001371,Flexion contracture
+run_007,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_007,aprindine,231,HP:0003323,Progressive muscle weakness
+run_007,brilliant Blue G,5359,HP:0003323,Progressive muscle weakness
+run_007,entrectinib,5345,HP:0001265,Hyporeflexia
+run_007,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_007,imatinib,1423,HP:0001265,Hyporeflexia
+run_007,entrectinib,5345,HP:0003391,Gowers sign
+run_007,mezlocillin,1795,HP:0003391,Gowers sign
+run_007,aprindine,231,HP:0003391,Gowers sign
+run_007,entrectinib,5345,HP:0002515,Waddling gait
+run_007,mezlocillin,1795,HP:0002515,Waddling gait
+run_007,levosimendan,1576,HP:0002515,Waddling gait
+run_007,entrectinib,5345,HP:0003701,Proximal muscle weakness
+run_007,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_007,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_007,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_007,entrectinib,5345,HP:0001644,Dilated cardiomyopathy
+run_007,mezlocillin,1795,HP:0001644,Dilated cardiomyopathy
+run_007,levosimendan,1576,HP:0011675,Arrhythmia
+run_007,mezlocillin,1795,HP:0011675,Arrhythmia
+run_007,mibefradil,1797,HP:0011675,Arrhythmia
+run_007,entrectinib,5345,HP:0001256,"Intellectual disability, mild"
+run_007,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_007,imatinib,1423,HP:0001256,"Intellectual disability, mild"
+run_007,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_007,aprindine,231,HP:0001638,Cardiomyopathy
+run_007,mezlocillin,1795,HP:0001638,Cardiomyopathy
+run_007,aprindine,231,HP:0003560,Muscular dystrophy
+run_007,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_007,brilliant Blue G,5359,HP:0003560,Muscular dystrophy
+run_007,entrectinib,5345,HP:0002650,Scoliosis
+run_007,mezlocillin,1795,HP:0002650,Scoliosis
+run_007,imatinib,1423,HP:0002650,Scoliosis
+run_007,entrectinib,5345,HP:0003202,Skeletal muscle atrophy
+run_007,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_007,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_007,entrectinib,5345,HP:0001252,Hypotonia
+run_007,mezlocillin,1795,HP:0001252,Hypotonia
+run_007,imatinib,1423,HP:0001252,Hypotonia
+run_007,aprindine,231,HP:0001635,Congestive heart failure
+run_007,amiodarone,176,HP:0001635,Congestive heart failure
+run_007,mezlocillin,1795,HP:0001635,Congestive heart failure
+run_007,entrectinib,5345,HP:0000750,Delayed speech and language development
+run_007,mezlocillin,1795,HP:0000750,Delayed speech and language development
+run_007,imatinib,1423,HP:0000750,Delayed speech and language development
+run_007,entrectinib,5345,HP:0002791,Hypoventilation
+run_007,mezlocillin,1795,HP:0002791,Hypoventilation
+run_007,chloropyramine,606,HP:0002791,Hypoventilation
+run_007,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,mezlocillin,1795,HP:0003236,Elevated circulating creatine kinase concentration
+run_007,entrectinib,5345,HP:0002093,Respiratory insufficiency
+run_007,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_007,imatinib,1423,HP:0002093,Respiratory insufficiency
+run_007,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_007,entrectinib,5345,HP:0008981,Calf muscle hypertrophy
+run_007,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_007,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_007,mezlocillin,1795,HP:0003707,Calf muscle pseudohypertrophy
+run_007,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_007,entrectinib,5345,HP:0001290,Generalized hypotonia
+run_007,mezlocillin,1795,HP:0001290,Generalized hypotonia
+run_007,estradiol,1057,HP:0001290,Generalized hypotonia
+run_007,entrectinib,5345,HP:0100543,Cognitive impairment
+run_007,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_007,imatinib,1423,HP:0100543,Cognitive impairment
+run_007,entrectinib,5345,HP:0001263,Global developmental delay
+run_007,mezlocillin,1795,HP:0001263,Global developmental delay
+run_007,estradiol,1057,HP:0001263,Global developmental delay
+run_007,aprindine,231,HP:0003115,Abnormal EKG
+run_007,levosimendan,1576,HP:0003115,Abnormal EKG
+run_007,mezlocillin,1795,HP:0003115,Abnormal EKG
+run_007,entrectinib,5345,HP:0003307,Hyperlordosis
+run_007,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_007,levosimendan,1576,HP:0003307,Hyperlordosis
+run_007,entrectinib,5345,HP:0001328,Specific learning disability
+run_007,mezlocillin,1795,HP:0001328,Specific learning disability
+run_007,imatinib,1423,HP:0001328,Specific learning disability
+run_007,entrectinib,5345,HP:0001270,Motor delay
+run_007,mezlocillin,1795,HP:0001270,Motor delay
+run_007,imatinib,1423,HP:0001270,Motor delay
+run_008,entrectinib,5345,HP:0001371,Flexion contracture
+run_008,axitinib,4225,HP:0001371,Flexion contracture
+run_008,sorafenib,2459,HP:0001371,Flexion contracture
+run_008,aprindine,231,HP:0003323,Progressive muscle weakness
+run_008,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_008,entrectinib,5345,HP:0003323,Progressive muscle weakness
+run_008,entrectinib,5345,HP:0001265,Hyporeflexia
+run_008,quercetin,3514,HP:0001265,Hyporeflexia
+run_008,fedratinib,5347,HP:0001265,Hyporeflexia
+run_008,entrectinib,5345,HP:0003391,Gowers sign
+run_008,quercetin,3514,HP:0003391,Gowers sign
+run_008,fedratinib,5347,HP:0003391,Gowers sign
+run_008,entrectinib,5345,HP:0002515,Waddling gait
+run_008,quercetin,3514,HP:0002515,Waddling gait
+run_008,fedratinib,5347,HP:0002515,Waddling gait
+run_008,entrectinib,5345,HP:0003701,Proximal muscle weakness
+run_008,aprindine,231,HP:0003701,Proximal muscle weakness
+run_008,quercetin,3514,HP:0003701,Proximal muscle weakness
+run_008,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_008,entrectinib,5345,HP:0001644,Dilated cardiomyopathy
+run_008,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_008,levosimendan,1576,HP:0011675,Arrhythmia
+run_008,entrectinib,5345,HP:0011675,Arrhythmia
+run_008,disopyramide,926,HP:0011675,Arrhythmia
+run_008,entrectinib,5345,HP:0001256,"Intellectual disability, mild"
+run_008,carfilzomib,4483,HP:0001256,"Intellectual disability, mild"
+run_008,menadione,1683,HP:0001256,"Intellectual disability, mild"
+run_008,aprindine,231,HP:0001638,Cardiomyopathy
+run_008,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_008,entrectinib,5345,HP:0001638,Cardiomyopathy
+run_008,aprindine,231,HP:0003560,Muscular dystrophy
+run_008,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_008,disopyramide,926,HP:0003560,Muscular dystrophy
+run_008,entrectinib,5345,HP:0002650,Scoliosis
+run_008,axitinib,4225,HP:0002650,Scoliosis
+run_008,fedratinib,5347,HP:0002650,Scoliosis
+run_008,entrectinib,5345,HP:0003202,Skeletal muscle atrophy
+run_008,aprindine,231,HP:0003202,Skeletal muscle atrophy
+run_008,quercetin,3514,HP:0003202,Skeletal muscle atrophy
+run_008,entrectinib,5345,HP:0001252,Hypotonia
+run_008,fedratinib,5347,HP:0001252,Hypotonia
+run_008,quercetin,3514,HP:0001252,Hypotonia
+run_008,aprindine,231,HP:0001635,Congestive heart failure
+run_008,entrectinib,5345,HP:0001635,Congestive heart failure
+run_008,menadione,1683,HP:0001635,Congestive heart failure
+run_008,entrectinib,5345,HP:0000750,Delayed speech and language development
+run_008,fedratinib,5347,HP:0000750,Delayed speech and language development
+run_008,axitinib,4225,HP:0000750,Delayed speech and language development
+run_008,entrectinib,5345,HP:0002791,Hypoventilation
+run_008,desipramine,812,HP:0002791,Hypoventilation
+run_008,quercetin,3514,HP:0002791,Hypoventilation
+run_008,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,entrectinib,5345,HP:0003236,Elevated circulating creatine kinase concentration
+run_008,entrectinib,5345,HP:0002093,Respiratory insufficiency
+run_008,axitinib,4225,HP:0002093,Respiratory insufficiency
+run_008,fedratinib,5347,HP:0002093,Respiratory insufficiency
+run_008,entrectinib,5345,HP:0008981,Calf muscle hypertrophy
+run_008,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_008,quercetin,3514,HP:0008981,Calf muscle hypertrophy
+run_008,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_008,entrectinib,5345,HP:0003707,Calf muscle pseudohypertrophy
+run_008,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_008,entrectinib,5345,HP:0001290,Generalized hypotonia
+run_008,fedratinib,5347,HP:0001290,Generalized hypotonia
+run_008,axitinib,4225,HP:0001290,Generalized hypotonia
+run_008,entrectinib,5345,HP:0100543,Cognitive impairment
+run_008,quercetin,3514,HP:0100543,Cognitive impairment
+run_008,carfilzomib,4483,HP:0100543,Cognitive impairment
+run_008,entrectinib,5345,HP:0001263,Global developmental delay
+run_008,fedratinib,5347,HP:0001263,Global developmental delay
+run_008,axitinib,4225,HP:0001263,Global developmental delay
+run_008,aprindine,231,HP:0003115,Abnormal EKG
+run_008,levosimendan,1576,HP:0003115,Abnormal EKG
+run_008,Taurine,MESH:D013654,HP:0003115,Abnormal EKG
+run_008,entrectinib,5345,HP:0003307,Hyperlordosis
+run_008,aprindine,231,HP:0003307,Hyperlordosis
+run_008,quercetin,3514,HP:0003307,Hyperlordosis
+run_008,entrectinib,5345,HP:0001328,Specific learning disability
+run_008,carfilzomib,4483,HP:0001328,Specific learning disability
+run_008,quercetin,3514,HP:0001328,Specific learning disability
+run_008,entrectinib,5345,HP:0001270,Motor delay
+run_008,fedratinib,5347,HP:0001270,Motor delay
+run_008,axitinib,4225,HP:0001270,Motor delay
+run_009,levosimendan,1576,HP:0001371,Flexion contracture
+run_009,bosutinib,4359,HP:0001371,Flexion contracture
+run_009,mezlocillin,1795,HP:0001371,Flexion contracture
+run_009,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_009,aprindine,231,HP:0003323,Progressive muscle weakness
+run_009,mezlocillin,1795,HP:0003323,Progressive muscle weakness
+run_009,levosimendan,1576,HP:0001265,Hyporeflexia
+run_009,mezlocillin,1795,HP:0001265,Hyporeflexia
+run_009,bosutinib,4359,HP:0001265,Hyporeflexia
+run_009,bosutinib,4359,HP:0003391,Gowers sign
+run_009,levosimendan,1576,HP:0003391,Gowers sign
+run_009,mezlocillin,1795,HP:0003391,Gowers sign
+run_009,levosimendan,1576,HP:0002515,Waddling gait
+run_009,mezlocillin,1795,HP:0002515,Waddling gait
+run_009,bosutinib,4359,HP:0002515,Waddling gait
+run_009,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_009,bosutinib,4359,HP:0003701,Proximal muscle weakness
+run_009,mezlocillin,1795,HP:0003701,Proximal muscle weakness
+run_009,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_009,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_009,bosutinib,4359,HP:0001644,Dilated cardiomyopathy
+run_009,levosimendan,1576,HP:0011675,Arrhythmia
+run_009,amlodipine,183,HP:0011675,Arrhythmia
+run_009,verapamil,2815,HP:0011675,Arrhythmia
+run_009,bosutinib,4359,HP:0001256,"Intellectual disability, mild"
+run_009,levosimendan,1576,HP:0001256,"Intellectual disability, mild"
+run_009,mezlocillin,1795,HP:0001256,"Intellectual disability, mild"
+run_009,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_009,aprindine,231,HP:0001638,Cardiomyopathy
+run_009,carvedilol,522,HP:0001638,Cardiomyopathy
+run_009,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_009,aprindine,231,HP:0003560,Muscular dystrophy
+run_009,mezlocillin,1795,HP:0003560,Muscular dystrophy
+run_009,bosutinib,4359,HP:0002650,Scoliosis
+run_009,levosimendan,1576,HP:0002650,Scoliosis
+run_009,fedratinib,5347,HP:0002650,Scoliosis
+run_009,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_009,bosutinib,4359,HP:0003202,Skeletal muscle atrophy
+run_009,mezlocillin,1795,HP:0003202,Skeletal muscle atrophy
+run_009,bosutinib,4359,HP:0001252,Hypotonia
+run_009,estradiol,1057,HP:0001252,Hypotonia
+run_009,fedratinib,5347,HP:0001252,Hypotonia
+run_009,aprindine,231,HP:0001635,Congestive heart failure
+run_009,bosutinib,4359,HP:0001635,Congestive heart failure
+run_009,entrectinib,5345,HP:0001635,Congestive heart failure
+run_009,bosutinib,4359,HP:0000750,Delayed speech and language development
+run_009,estradiol,1057,HP:0000750,Delayed speech and language development
+run_009,imatinib,1423,HP:0000750,Delayed speech and language development
+run_009,mezlocillin,1795,HP:0002791,Hypoventilation
+run_009,bosutinib,4359,HP:0002791,Hypoventilation
+run_009,trihexyphenidyl,2745,HP:0002791,Hypoventilation
+run_009,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,mezlocillin,1795,HP:0003236,Elevated circulating creatine kinase concentration
+run_009,bosutinib,4359,HP:0002093,Respiratory insufficiency
+run_009,levosimendan,1576,HP:0002093,Respiratory insufficiency
+run_009,mezlocillin,1795,HP:0002093,Respiratory insufficiency
+run_009,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_009,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_009,mezlocillin,1795,HP:0008981,Calf muscle hypertrophy
+run_009,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_009,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_009,mezlocillin,1795,HP:0003707,Calf muscle pseudohypertrophy
+run_009,bosutinib,4359,HP:0001290,Generalized hypotonia
+run_009,fedratinib,5347,HP:0001290,Generalized hypotonia
+run_009,estradiol,1057,HP:0001290,Generalized hypotonia
+run_009,bosutinib,4359,HP:0100543,Cognitive impairment
+run_009,mezlocillin,1795,HP:0100543,Cognitive impairment
+run_009,imatinib,1423,HP:0100543,Cognitive impairment
+run_009,bosutinib,4359,HP:0001263,Global developmental delay
+run_009,estradiol,1057,HP:0001263,Global developmental delay
+run_009,fedratinib,5347,HP:0001263,Global developmental delay
+run_009,levosimendan,1576,HP:0003115,Abnormal EKG
+run_009,aprindine,231,HP:0003115,Abnormal EKG
+run_009,golodirsen,5357,HP:0003115,Abnormal EKG
+run_009,levosimendan,1576,HP:0003307,Hyperlordosis
+run_009,mezlocillin,1795,HP:0003307,Hyperlordosis
+run_009,aprindine,231,HP:0003307,Hyperlordosis
+run_009,levosimendan,1576,HP:0001328,Specific learning disability
+run_009,bosutinib,4359,HP:0001328,Specific learning disability
+run_009,mezlocillin,1795,HP:0001328,Specific learning disability
+run_009,bosutinib,4359,HP:0001270,Motor delay
+run_009,levosimendan,1576,HP:0001270,Motor delay
+run_009,fedratinib,5347,HP:0001270,Motor delay
+run_010,levosimendan,1576,HP:0001371,Flexion contracture
+run_010,axitinib,4225,HP:0001371,Flexion contracture
+run_010,disopyramide,926,HP:0001371,Flexion contracture
+run_010,levosimendan,1576,HP:0003323,Progressive muscle weakness
+run_010,aprindine,231,HP:0003323,Progressive muscle weakness
+run_010,disopyramide,926,HP:0003323,Progressive muscle weakness
+run_010,disopyramide,926,HP:0001265,Hyporeflexia
+run_010,desipramine,812,HP:0001265,Hyporeflexia
+run_010,levosimendan,1576,HP:0001265,Hyporeflexia
+run_010,disopyramide,926,HP:0003391,Gowers sign
+run_010,axitinib,4225,HP:0003391,Gowers sign
+run_010,levosimendan,1576,HP:0003391,Gowers sign
+run_010,disopyramide,926,HP:0002515,Waddling gait
+run_010,levosimendan,1576,HP:0002515,Waddling gait
+run_010,axitinib,4225,HP:0002515,Waddling gait
+run_010,levosimendan,1576,HP:0003701,Proximal muscle weakness
+run_010,axitinib,4225,HP:0003701,Proximal muscle weakness
+run_010,disopyramide,926,HP:0003701,Proximal muscle weakness
+run_010,levosimendan,1576,HP:0001644,Dilated cardiomyopathy
+run_010,aprindine,231,HP:0001644,Dilated cardiomyopathy
+run_010,disopyramide,926,HP:0001644,Dilated cardiomyopathy
+run_010,levosimendan,1576,HP:0011675,Arrhythmia
+run_010,carvedilol,522,HP:0011675,Arrhythmia
+run_010,disopyramide,926,HP:0011675,Arrhythmia
+run_010,carfilzomib,4483,HP:0001256,"Intellectual disability, mild"
+run_010,axitinib,4225,HP:0001256,"Intellectual disability, mild"
+run_010,bosutinib,4359,HP:0001256,"Intellectual disability, mild"
+run_010,levosimendan,1576,HP:0001638,Cardiomyopathy
+run_010,aprindine,231,HP:0001638,Cardiomyopathy
+run_010,disopyramide,926,HP:0001638,Cardiomyopathy
+run_010,aprindine,231,HP:0003560,Muscular dystrophy
+run_010,levosimendan,1576,HP:0003560,Muscular dystrophy
+run_010,disopyramide,926,HP:0003560,Muscular dystrophy
+run_010,axitinib,4225,HP:0002650,Scoliosis
+run_010,bosutinib,4359,HP:0002650,Scoliosis
+run_010,fedratinib,5347,HP:0002650,Scoliosis
+run_010,disopyramide,926,HP:0003202,Skeletal muscle atrophy
+run_010,levosimendan,1576,HP:0003202,Skeletal muscle atrophy
+run_010,trihexyphenidyl,2745,HP:0003202,Skeletal muscle atrophy
+run_010,axitinib,4225,HP:0001252,Hypotonia
+run_010,bosutinib,4359,HP:0001252,Hypotonia
+run_010,fedratinib,5347,HP:0001252,Hypotonia
+run_010,aprindine,231,HP:0001635,Congestive heart failure
+run_010,entrectinib,5345,HP:0001635,Congestive heart failure
+run_010,disopyramide,926,HP:0001635,Congestive heart failure
+run_010,axitinib,4225,HP:0000750,Delayed speech and language development
+run_010,bosutinib,4359,HP:0000750,Delayed speech and language development
+run_010,fedratinib,5347,HP:0000750,Delayed speech and language development
+run_010,disopyramide,926,HP:0002791,Hypoventilation
+run_010,desipramine,812,HP:0002791,Hypoventilation
+run_010,trihexyphenidyl,2745,HP:0002791,Hypoventilation
+run_010,aprindine,231,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,levosimendan,1576,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,disopyramide,926,HP:0003236,Elevated circulating creatine kinase concentration
+run_010,axitinib,4225,HP:0002093,Respiratory insufficiency
+run_010,disopyramide,926,HP:0002093,Respiratory insufficiency
+run_010,bosutinib,4359,HP:0002093,Respiratory insufficiency
+run_010,aprindine,231,HP:0008981,Calf muscle hypertrophy
+run_010,levosimendan,1576,HP:0008981,Calf muscle hypertrophy
+run_010,disopyramide,926,HP:0008981,Calf muscle hypertrophy
+run_010,aprindine,231,HP:0003707,Calf muscle pseudohypertrophy
+run_010,disopyramide,926,HP:0003707,Calf muscle pseudohypertrophy
+run_010,levosimendan,1576,HP:0003707,Calf muscle pseudohypertrophy
+run_010,axitinib,4225,HP:0001290,Generalized hypotonia
+run_010,bosutinib,4359,HP:0001290,Generalized hypotonia
+run_010,carfilzomib,4483,HP:0001290,Generalized hypotonia
+run_010,bosutinib,4359,HP:0100543,Cognitive impairment
+run_010,azathioprine,269,HP:0100543,Cognitive impairment
+run_010,axitinib,4225,HP:0100543,Cognitive impairment
+run_010,carfilzomib,4483,HP:0001263,Global developmental delay
+run_010,axitinib,4225,HP:0001263,Global developmental delay
+run_010,azathioprine,269,HP:0001263,Global developmental delay
+run_010,aprindine,231,HP:0003115,Abnormal EKG
+run_010,levosimendan,1576,HP:0003115,Abnormal EKG
+run_010,disopyramide,926,HP:0003115,Abnormal EKG
+run_010,levosimendan,1576,HP:0003307,Hyperlordosis
+run_010,axitinib,4225,HP:0003307,Hyperlordosis
+run_010,aprindine,231,HP:0003307,Hyperlordosis
+run_010,disopyramide,926,HP:0001328,Specific learning disability
+run_010,azathioprine,269,HP:0001328,Specific learning disability
+run_010,bosutinib,4359,HP:0001328,Specific learning disability
+run_010,axitinib,4225,HP:0001270,Motor delay
+run_010,bosutinib,4359,HP:0001270,Motor delay
+run_010,fedratinib,5347,HP:0001270,Motor delay
